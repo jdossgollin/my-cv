@@ -816,262 +816,6 @@
       \verb https://dx.doi.org/10.1088/2752-5295/adf56e
       \endverb
     \endentry
-    \entry{baule_agu:2024}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=93eec849d0c945279eec0b65522b97bd}{%
-           family={Baule},
-           familyi={B\bibinitperiod},
-           given={William\bibnamedelima J.},
-           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=34af4c46927ea4cba325a2e8163d03b3}{%
-           family={Nielsen-Gammon},
-           familyi={N\bibinithyphendelim G\bibinitperiod},
-           given={John\bibnamedelima W.},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=68f25ba18b95635893c21290ccdd2703}{%
-           family={Niraula},
-           familyi={N\bibinitperiod},
-           given={Rewati},
-           giveni={R\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{f6efea31856798279f721e929ff5c331}
-      \strng{fullhashraw}{f6efea31856798279f721e929ff5c331}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{f6efea31856798279f721e929ff5c331}
-      \strng{authornamehash}{f6efea31856798279f721e929ff5c331}
-      \strng{authorfullhash}{f6efea31856798279f721e929ff5c331}
-      \strng{authorfullhashraw}{f6efea31856798279f721e929ff5c331}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{11}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Over the 20th century, there have been observed changes in the intensity, durat...}
-      \field{day}{12}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{{{TxRAIN-Future Projections}}: {{Non-stationary Projections}} of {{Extreme Precipitation}} for {{Texas}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1730184
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1730184
-      \endverb
-    \endentry
-    \entry{cooperman_agu:2024}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=4352d6e60ba79ad986e58bd48c87b2e2}{%
-           family={Cooperman},
-           familyi={C\bibinitperiod},
-           given={Alicia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=7b142dee3a11a238593c42d8a8357a05}{%
-           family={Fuerte},
-           familyi={F\bibinitperiod},
-           given={Manuela\bibnamedelima Muñoz},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=35d2b36c2407d9f1d844850b8ada3974}{%
-           family={Mayer},
-           familyi={M\bibinitperiod},
-           given={Alex\bibnamedelima S.},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{5a09763303ff60ad47fd96e3e13681ce}
-      \strng{fullhashraw}{5a09763303ff60ad47fd96e3e13681ce}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{5a09763303ff60ad47fd96e3e13681ce}
-      \strng{authornamehash}{5a09763303ff60ad47fd96e3e13681ce}
-      \strng{authorfullhash}{5a09763303ff60ad47fd96e3e13681ce}
-      \strng{authorfullhashraw}{5a09763303ff60ad47fd96e3e13681ce}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{12}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Many neighborhoods across the United States lack adequate, affordable, and reli...}
-      \field{day}{13}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{Before and {{After Piped Water Expansion}}: {{Water Use Patterns}} and {{Trust}} in {{Water}} and {{Political Institutions}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1740538
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1740538
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2024}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=25f445d5204f891d54f3ac21c9d07b2a}{%
-           family={Amonkar},
-           familyi={A\bibinitperiod},
-           given={Yash\bibnamedelima Vijay},
-           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=391a2f13fddd47df711b4c99fc32b92d}{%
-           family={Duenas-Osorio},
-           familyi={D\bibinithyphendelim O\bibinitperiod},
-           given={Leonardo},
-           giveni={L\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e1b6481760e4e23f3407fc1ce232dbc2}
-      \strng{fullhashraw}{e1b6481760e4e23f3407fc1ce232dbc2}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{e1b6481760e4e23f3407fc1ce232dbc2}
-      \strng{authornamehash}{e1b6481760e4e23f3407fc1ce232dbc2}
-      \strng{authorfullhash}{e1b6481760e4e23f3407fc1ce232dbc2}
-      \strng{authorfullhashraw}{e1b6481760e4e23f3407fc1ce232dbc2}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{13}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Climate risks to electricity systems are rapidly evolving. The energy transitio...}
-      \field{day}{10}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{Assessing and {{Managing Climate Risks}} to {{Electricity Systems}} in an {{Era}} of {{Climate Change}} and {{Energy Transition}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711820
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711820
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2024a}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2e4eeefc3715bca30e130bf6fe935933}{%
-           family={Silva},
-           familyi={S\bibinitperiod},
-           given={Arlei},
-           giveni={A\bibinitperiod}}}%
-        {{hash=33318887caccff5960bf07eb2dd998a1}{%
-           family={Sebastian},
-           familyi={S\bibinitperiod},
-           given={Antonia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f79570846ed8d2a24573e084be6e965e}{%
-           family={Vergopolan},
-           familyi={V\bibinitperiod},
-           given={Noemi},
-           giveni={N\bibinitperiod}}}%
-        {{hash=fad6b01c69c29303a0f757512a67b3e1}{%
-           family={Nayak},
-           familyi={N\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{7c3da6e3adf0de542ca9776b89df6f3e}
-      \strng{fullhashraw}{7c3da6e3adf0de542ca9776b89df6f3e}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{7c3da6e3adf0de542ca9776b89df6f3e}
-      \strng{authornamehash}{7c3da6e3adf0de542ca9776b89df6f3e}
-      \strng{authorfullhash}{7c3da6e3adf0de542ca9776b89df6f3e}
-      \strng{authorfullhashraw}{7c3da6e3adf0de542ca9776b89df6f3e}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{14}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{13}
-      \field{month}{12}
-      \field{title}{Advancing {{Urban Flood Hazard Characterization}} through {{Machine Learning}}: {{Challenges}} and {{Opportunities}}}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \true{nocite}
-    \endentry
     \entry{kazadi_floodgnn-gru:2024}{article}{}{}
       \name{author}{4}{}{%
         {{hash=84e2f58e2e4102425b35b238546219dc}{%
@@ -1112,7 +856,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{15}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1177,7 +921,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{16}
+      \field{extraname}{12}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1195,78 +939,6 @@
       \endverb
       \verb{url}
       \verb https://openreview.net/forum?id=kIHIA6Lr0B
-      \endverb
-    \endentry
-    \entry{lu_agu:2024}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=c583dc51b769229ab8e014d99d595c41}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuchen},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=c8858fe3b6b1580d18702cf6acd987ae}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Benjamin\bibnamedelima Seiyon},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=34af4c46927ea4cba325a2e8163d03b3}{%
-           family={Nielsen-Gammon},
-           familyi={N\bibinithyphendelim G\bibinitperiod},
-           given={John\bibnamedelima W.},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=68f25ba18b95635893c21290ccdd2703}{%
-           family={Niraula},
-           familyi={N\bibinitperiod},
-           given={Rewati},
-           giveni={R\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{3f22da4b657d9de067c36c88b5573c0b}
-      \strng{fullhashraw}{3f22da4b657d9de067c36c88b5573c0b}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{3f22da4b657d9de067c36c88b5573c0b}
-      \strng{authornamehash}{3f22da4b657d9de067c36c88b5573c0b}
-      \strng{authorfullhash}{3f22da4b657d9de067c36c88b5573c0b}
-      \strng{authorfullhashraw}{3f22da4b657d9de067c36c88b5573c0b}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{17}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Estimates of extreme precipitation probabilities are widely used in engineering...}
-      \field{day}{10}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{{{TxRAIN-Observational}}: {{A Hierarchical Bayesian Spatial Framework}} to {{Assess Nonstationary Rainfall Intensity}}, {{Frequency}}, and {{Duration}} in {{Texas}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1624973
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1624973
       \endverb
     \endentry
     \entry{murphy_mrb:2024}{article}{}{}
@@ -1319,7 +991,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{18}
+      \field{extraname}{13}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1349,212 +1021,6 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2024PA004902
-      \endverb
-    \endentry
-    \entry{murphy_agu:2024}{inproceedings}{}{}
-      \name{author}{6}{}{%
-        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
-           family={Murphy},
-           familyi={M\bibinitperiod},
-           given={Kelsey},
-           giveni={K\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=7d713ebcfffa453b5e423b1c42620347}{%
-           family={Wallace},
-           familyi={W\bibinitperiod},
-           given={Elizabeth\bibnamedelima Jane},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=4bcc3c2a8dc9717d80b13d63bc5b7133}{%
-           family={Pitchon},
-           familyi={P\bibinitperiod},
-           given={Emilia},
-           giveni={E\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{48b2c9b87d51c6d714e939c2c6158e52}
-      \strng{fullhashraw}{48b2c9b87d51c6d714e939c2c6158e52}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{48b2c9b87d51c6d714e939c2c6158e52}
-      \strng{authornamehash}{48b2c9b87d51c6d714e939c2c6158e52}
-      \strng{authorfullhash}{48b2c9b87d51c6d714e939c2c6158e52}
-      \strng{authorfullhashraw}{48b2c9b87d51c6d714e939c2c6158e52}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{19}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Human activities (e.g., river engineering, land use changes) have altered the n...}
-      \field{day}{12}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{Last {{Millennium Changes}} in {{Mississippi River Basin Hydroclimate Driven}} by {{Anthropogenic Forcing}} and {{Atmospheric Dynamics}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1568143
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1568143
-      \endverb
-    \endentry
-    \entry{nielsen-gammon_agu:2024}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=34af4c46927ea4cba325a2e8163d03b3}{%
-           family={Nielsen-Gammon},
-           familyi={N\bibinithyphendelim G\bibinitperiod},
-           given={John\bibnamedelima W.},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=c583dc51b769229ab8e014d99d595c41}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuchen},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{669ecdd88d4b4c87d16a902d1fd937ac}
-      \strng{fullhashraw}{669ecdd88d4b4c87d16a902d1fd937ac}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{669ecdd88d4b4c87d16a902d1fd937ac}
-      \strng{authornamehash}{669ecdd88d4b4c87d16a902d1fd937ac}
-      \strng{authorfullhash}{669ecdd88d4b4c87d16a902d1fd937ac}
-      \strng{authorfullhashraw}{669ecdd88d4b4c87d16a902d1fd937ac}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{20}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A variety of automated rain gauge networks established during the past 30 years...}
-      \field{day}{12}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{Cross-{{Network Intercomparison}} of 5-{{Minute}} and 15-{{Minute Gauge-Measured Precipitation Extremes}} in the {{South-Central United States}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1654445
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1654445
-      \endverb
-    \endentry
-    \entry{odonnell_agu:2024}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
-           family={O'Donnell},
-           familyi={O\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{8f3614189314b11a74246c7f0a6757f2}
-      \strng{fullhashraw}{8f3614189314b11a74246c7f0a6757f2}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{8f3614189314b11a74246c7f0a6757f2}
-      \strng{authornamehash}{8f3614189314b11a74246c7f0a6757f2}
-      \strng{authorfullhash}{8f3614189314b11a74246c7f0a6757f2}
-      \strng{authorfullhashraw}{8f3614189314b11a74246c7f0a6757f2}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{21}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Hydroclimate whiplash – the transition between extreme dry and wet periods – ha...}
-      \field{day}{9}
-      \field{eventtitle}{{{AGU24}}}
-      \field{month}{12}
-      \field{title}{Mechanisms of {{Hydroclimate Whiplash Over}} the {{Mississippi River Basin}}}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1528654
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1528654
       \endverb
     \endentry
     \entry{singh_potential:2024}{article}{}{}
@@ -1610,7 +1076,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{22}
+      \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1690,7 +1156,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{23}
+      \field{extraname}{15}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1762,7 +1228,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{24}
+      \field{extraname}{16}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1831,7 +1297,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{25}
+      \field{extraname}{17}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1852,78 +1318,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.25613/5FJJ-T074
-      \endverb
-    \endentry
-    \entry{cooperman_agu:2023}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=4352d6e60ba79ad986e58bd48c87b2e2}{%
-           family={Cooperman},
-           familyi={C\bibinitperiod},
-           given={Alicia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=7b142dee3a11a238593c42d8a8357a05}{%
-           family={Fuerte},
-           familyi={F\bibinitperiod},
-           given={Manuela\bibnamedelima Muñoz},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=35d2b36c2407d9f1d844850b8ada3974}{%
-           family={Mayer},
-           familyi={M\bibinitperiod},
-           given={Alex\bibnamedelima S.},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=1664f05c8ed6d5fa8ad151a1666e762f}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={W.\bibnamedelimi Shane},
-           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{6e67a369eeb4fa8fec0d08cf4bda2834}
-      \strng{fullhashraw}{6e67a369eeb4fa8fec0d08cf4bda2834}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{6e67a369eeb4fa8fec0d08cf4bda2834}
-      \strng{authornamehash}{6e67a369eeb4fa8fec0d08cf4bda2834}
-      \strng{authorfullhash}{6e67a369eeb4fa8fec0d08cf4bda2834}
-      \strng{authorfullhashraw}{6e67a369eeb4fa8fec0d08cf4bda2834}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{26}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Many neighborhoods across the United States lack adequate, affordable, and reli...}
-      \field{day}{13}
-      \field{eventtitle}{{{AGU23}}}
-      \field{month}{12}
-      \field{title}{{{H33P-1999}}: {{Before}} and {{After Piped Water Expansion}}: {{Water Use Patterns}} and {{Trust}} in {{Water}} and {{Political Institutions}}}
-      \field{urlday}{14}
-      \field{urlmonth}{2}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1318513
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1318513
       \endverb
     \endentry
     \entry{doss-gollin_review:2023}{article}{}{}
@@ -1966,7 +1360,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{27}
+      \field{extraname}{18}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2025,7 +1419,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{28}
+      \field{extraname}{19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2052,78 +1446,6 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2022EF003044
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2023}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c583dc51b769229ab8e014d99d595c41}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuchen},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=34af4c46927ea4cba325a2e8163d03b3}{%
-           family={Nielsen-Gammon},
-           familyi={N\bibinithyphendelim G\bibinitperiod},
-           given={John\bibnamedelima W.},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=68f25ba18b95635893c21290ccdd2703}{%
-           family={Niraula},
-           familyi={N\bibinitperiod},
-           given={Rewati},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c8858fe3b6b1580d18702cf6acd987ae}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Benjamin\bibnamedelima Seiyon},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e375977d7afc71f354e37338937baa4e}
-      \strng{fullhashraw}{e375977d7afc71f354e37338937baa4e}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{e375977d7afc71f354e37338937baa4e}
-      \strng{authornamehash}{e375977d7afc71f354e37338937baa4e}
-      \strng{authorfullhash}{e375977d7afc71f354e37338937baa4e}
-      \strng{authorfullhashraw}{e375977d7afc71f354e37338937baa4e}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{29}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Precipitation frequency estimates serve as foundational tools in stormwater man...}
-      \field{day}{11}
-      \field{eventtitle}{{{AGU23}}}
-      \field{month}{12}
-      \field{title}{{{NH14B-07}}: {{Linking Robust Trends}} in {{Observations}} and {{Models}} to {{Develop Nonstationary Rainfall Frequency Grids}} for the {{State}} of {{Texas}}}
-      \field{urlday}{14}
-      \field{urlmonth}{2}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1352809
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1352809
       \endverb
     \endentry
     \entry{garcia_modularization:2023}{article}{}{}
@@ -2169,7 +1491,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{30}
+      \field{extraname}{20}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2199,150 +1521,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1080/19942060.2023.2225584
-      \endverb
-    \endentry
-    \entry{lu_agu:2023}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=c583dc51b769229ab8e014d99d595c41}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuchen},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=c8858fe3b6b1580d18702cf6acd987ae}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Benjamin\bibnamedelima Seiyon},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{fullhashraw}{61c5a2d187634e18b32414a182d962f7}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{authornamehash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{authorfullhash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{authorfullhashraw}{61c5a2d187634e18b32414a182d962f7}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{31}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Precipitation exceedance probabilities play a critical role in engineering desi...}
-      \field{day}{12}
-      \field{eventtitle}{{{AGU23}}}
-      \field{month}{12}
-      \field{title}{{{H21T-1602}}: {{Spatially Varying Covariate Model}}: {{A Hierarchical Bayesian Framework}} for {{Precipitation Frequency Analysis}} in the {{Gulf Coast}}}
-      \field{urlday}{14}
-      \field{urlmonth}{2}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1328932
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1328932
-      \endverb
-    \endentry
-    \entry{murphy_agu:2023}{inproceedings}{}{}
-      \name{author}{7}{}{%
-        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
-           family={Murphy},
-           familyi={M\bibinitperiod},
-           given={Kelsey},
-           giveni={K\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=4bcc3c2a8dc9717d80b13d63bc5b7133}{%
-           family={Pitchon},
-           familyi={P\bibinitperiod},
-           given={Emilia},
-           giveni={E\bibinitperiod}}}%
-        {{hash=7d713ebcfffa453b5e423b1c42620347}{%
-           family={Wallace},
-           familyi={W\bibinitperiod},
-           given={Elizabeth\bibnamedelima Jane},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
-           family={O'Donnell},
-           familyi={O\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{4c69e172c9dabf5ecaf7c03cec4505a9}
-      \strng{fullhashraw}{4c69e172c9dabf5ecaf7c03cec4505a9}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{4c69e172c9dabf5ecaf7c03cec4505a9}
-      \strng{authornamehash}{4c69e172c9dabf5ecaf7c03cec4505a9}
-      \strng{authorfullhash}{4c69e172c9dabf5ecaf7c03cec4505a9}
-      \strng{authorfullhashraw}{4c69e172c9dabf5ecaf7c03cec4505a9}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{32}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The Mississippi River Basin (MRB) is an indispensable economic corridor for the...}
-      \field{day}{13}
-      \field{eventtitle}{{{AGU23}}}
-      \field{month}{12}
-      \field{title}{{{PP33E-1563}}: {{Last Millennium Changes}} in {{Mississippi River Basin Hydrology}} Driven by the {{Bermuda High}} and {{Great Plains Low Level Jet}}}
-      \field{urlday}{14}
-      \field{urlmonth}{2}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1291268
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1291268
       \endverb
     \endentry
     \entry{wutich_madwater:2023}{article}{}{}
@@ -2420,7 +1598,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{33}
+      \field{extraname}{21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2502,7 +1680,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{34}
+      \field{extraname}{22}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2530,293 +1708,6 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033758
-      \endverb
-    \endentry
-    \entry{amonkar_agu:2022}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=25f445d5204f891d54f3ac21c9d07b2a}{%
-           family={Amonkar},
-           familyi={A\bibinitperiod},
-           given={Yash\bibnamedelima Vijay},
-           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=5d2ade173546d8119acdd75b8853d6bd}{%
-           family={Modi},
-           familyi={M\bibinitperiod},
-           given={Vijay},
-           giveni={V\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{75923c8b21fc3435071cb72c10e9996f}
-      \strng{fullhashraw}{75923c8b21fc3435071cb72c10e9996f}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{75923c8b21fc3435071cb72c10e9996f}
-      \strng{authornamehash}{75923c8b21fc3435071cb72c10e9996f}
-      \strng{authorfullhash}{75923c8b21fc3435071cb72c10e9996f}
-      \strng{authorfullhashraw}{75923c8b21fc3435071cb72c10e9996f}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{35}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{15}
-      \field{eventtitle}{Fall {{Meeting}} 2022}
-      \field{month}{12}
-      \field{title}{{{GC42N-0889}}: {{Changing}} Climate, Peak Demand and Load Factors across the Contiguous {{United States}}}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1176262
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1176262
-      \endverb
-    \endentry
-    \entry{dee_agu:2022}{inproceedings}{}{}
-      \name{author}{6}{}{%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=befcc4e4c286d07140e7dd72b743439e}{%
-           family={Dunne},
-           familyi={D\bibinitperiod},
-           given={Kieran},
-           giveni={K\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=ab8e196abdeb56cb4413c2fa406c2bc1}{%
-           family={Luo},
-           familyi={L\bibinitperiod},
-           given={Xinyue},
-           giveni={X\bibinitperiod}}}%
-        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
-           family={Murphy},
-           familyi={M\bibinitperiod},
-           given={Kelsey},
-           giveni={K\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{f868effd213484360af5529b7e2b864f}
-      \strng{fullhashraw}{f868effd213484360af5529b7e2b864f}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{f868effd213484360af5529b7e2b864f}
-      \strng{authornamehash}{f868effd213484360af5529b7e2b864f}
-      \strng{authorfullhash}{f868effd213484360af5529b7e2b864f}
-      \strng{authorfullhashraw}{f868effd213484360af5529b7e2b864f}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{36}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{14}
-      \field{eventtitle}{Fall {{Meeting}} 2022}
-      \field{month}{12}
-      \field{title}{{{PP32B-04}}: {{Past}}, Present, and Future Hydroclimate across the {{Mississippi River Basin}} and Its Tributaries: Insights from Integrated Paleoclimate Data Analysis}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1068514
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1068514
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2022}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=37f892f525006c16b343cebc9e493c29}{%
-           family={Lamontagne},
-           familyi={L\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{3b72afb7a5c3772404a86acd049e5a04}
-      \strng{fullhashraw}{3b72afb7a5c3772404a86acd049e5a04}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{3b72afb7a5c3772404a86acd049e5a04}
-      \strng{authornamehash}{3b72afb7a5c3772404a86acd049e5a04}
-      \strng{authorfullhash}{3b72afb7a5c3772404a86acd049e5a04}
-      \strng{authorfullhashraw}{3b72afb7a5c3772404a86acd049e5a04}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{37}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{14}
-      \field{eventtitle}{Fall {{Meeting}} 2022}
-      \field{month}{12}
-      \field{title}{{{H35F-07}}: {{Near-term}} Predictability Lowers Long-Term Adaptation Costs}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1153913
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1153913
-      \endverb
-    \endentry
-    \entry{graham_thesis:2022}{thesis}{}{}
-      \name{author}{1}{}{%
-        {{hash=3ca6cccbcd7d6ff0af1734ada18b15bd}{%
-           family={Graham},
-           familyi={G\bibinitperiod},
-           given={Alyssa\bibnamedelima A.},
-           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \name{namea}{4}{}{%
-        {{hash=4d9514d79ce8bd8d5d6a1b70d5fe78b5}{%
-           family={Bedient},
-           familyi={B\bibinitperiod},
-           given={Phil},
-           giveni={P\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=39ef971163d2c61b7ad0fe97cb9dc20f}{%
-           family={Blackburn},
-           familyi={B\bibinitperiod},
-           given={Jim},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2c2a9208e308711eab13fb52d3f03a83}{%
-           family={Segner},
-           familyi={S\bibinitperiod},
-           given={Ed},
-           giveni={E\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Rice University}%
-      }
-      \list{location}{1}{%
-        {Houston, TX}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{3ca6cccbcd7d6ff0af1734ada18b15bd}
-      \strng{fullhashraw}{3ca6cccbcd7d6ff0af1734ada18b15bd}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{3ca6cccbcd7d6ff0af1734ada18b15bd}
-      \strng{authornamehash}{3ca6cccbcd7d6ff0af1734ada18b15bd}
-      \strng{authorfullhash}{3ca6cccbcd7d6ff0af1734ada18b15bd}
-      \strng{authorfullhashraw}{3ca6cccbcd7d6ff0af1734ada18b15bd}
-      \strng{nameabibnamehash}{5220a57aad036cc627ab720a72b91bb5}
-      \strng{nameanamehash}{5220a57aad036cc627ab720a72b91bb5}
-      \strng{nameafullhash}{5220a57aad036cc627ab720a72b91bb5}
-      \strng{nameafullhashraw}{5220a57aad036cc627ab720a72b91bb5}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{38}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Houston faces growing population and severe droughts, suggesting a need for robust water supply planning. Current literature proposes an exploratory modeling approach; however, Texas regions typically project water needs as point predictions based on historical droughts and an uncertainty factor. This thesis employs exploratory modeling to identify under which drought and demand conditions Houston’s water will be insufficient. The model includes a reservoir mass balance, Monte Carlo simulation to generate scenarios, and scenario discovery of shortages regardless of likelihood. Scenarios are compared to projections for context. Generally, scenarios with higher demand and 2011 drought demonstrated moderate supply shortage; scenarios with worse drought demonstrated extreme supply shortage. Houston’s proposed strategies mitigated higher demand, but had negligible mitigation for worse drought conditions. Given that climate change is expected to exacerbate droughts in Texas, this analysis underscores a need for water resource management in Houston to explore many possible futures.}
-      \field{eprinttype}{hdl}
-      \field{nameatype}{collaborator}
-      \field{title}{Water Supply Vulnerability Testing and Robust Planning Analysis with Exploratory Modeling under Deep Uncertainty}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{eprint}
-      \verb 1911/113327
-      \endverb
-      \verb{urlraw}
-      \verb https://hdl.handle.net/1911/113327
-      \endverb
-      \verb{url}
-      \verb https://hdl.handle.net/1911/113327
       \endverb
     \endentry
     \entry{kazadi_neurips:2022}{inproceedings}{}{}
@@ -2862,7 +1753,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{39}
+      \field{extraname}{23}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2885,278 +1776,6 @@
       \endverb
       \verb{url}
       \verb https://www.climatechange.ai/papers/neurips2022/75
-      \endverb
-    \endentry
-    \entry{lu_agu:2022}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=c583dc51b769229ab8e014d99d595c41}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuchen},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=c8858fe3b6b1580d18702cf6acd987ae}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Benjamin\bibnamedelima Seiyon},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{fullhashraw}{61c5a2d187634e18b32414a182d962f7}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{authornamehash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{authorfullhash}{61c5a2d187634e18b32414a182d962f7}
-      \strng{authorfullhashraw}{61c5a2d187634e18b32414a182d962f7}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{40}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{15}
-      \field{eventtitle}{Fall {{Meeting}} 2022}
-      \field{month}{12}
-      \field{title}{{{H42E-1333}}: {{Nonstationary GEV}} with Hierarchical Spatial Pooling: A Spatiotemporal {{Bayesian}} Framework for Nonstationary Extreme Precipitation Frequency Analysis in the {{Gulf Coast}}}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.22541/essoar.168167364.47159647/v1
-      \endverb
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1136415
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1136415
-      \endverb
-    \endentry
-    \entry{murphy_agu:2022}{inproceedings}{}{}
-      \name{author}{6}{}{%
-        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
-           family={Murphy},
-           familyi={M\bibinitperiod},
-           given={Kelsey},
-           giveni={K\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=befcc4e4c286d07140e7dd72b743439e}{%
-           family={Dunne},
-           familyi={D\bibinitperiod},
-           given={Kieran},
-           giveni={K\bibinitperiod}}}%
-        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
-           family={O'Donnell},
-           familyi={O\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{829f471f5c8b13591a34045486683821}
-      \strng{fullhashraw}{829f471f5c8b13591a34045486683821}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{829f471f5c8b13591a34045486683821}
-      \strng{authornamehash}{829f471f5c8b13591a34045486683821}
-      \strng{authorfullhash}{829f471f5c8b13591a34045486683821}
-      \strng{authorfullhashraw}{829f471f5c8b13591a34045486683821}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{41}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{15}
-      \field{eventtitle}{Fall {{Meeting}} 2022}
-      \field{month}{12}
-      \field{title}{{{PP45D-1187}}: {{The Mississippi River}}’s {{Hydrologic Response}} to {{Natural}} vs. {{Anthropogenic Forcing}} from the {{Last Millennium}} through the 21st {{Century}}}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1095010
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1095010
-      \endverb
-    \endentry
-    \entry{odonnell_agu:2022}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
-           family={O'Donnell},
-           familyi={O\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{5f8230f474dc243d0d7d0d07de77c16b}
-      \strng{fullhashraw}{5f8230f474dc243d0d7d0d07de77c16b}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{5f8230f474dc243d0d7d0d07de77c16b}
-      \strng{authornamehash}{5f8230f474dc243d0d7d0d07de77c16b}
-      \strng{authorfullhash}{5f8230f474dc243d0d7d0d07de77c16b}
-      \strng{authorfullhashraw}{5f8230f474dc243d0d7d0d07de77c16b}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{42}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{15}
-      \field{eventtitle}{Fall {{Meeting}} 2022}
-      \field{month}{12}
-      \field{title}{{{H42E-1351}}: {{Validation}} of {{Community Earth System Model Hydrologic Variables Over}} the {{Mississippi River System To Understand Long Term Hydrometerologic Changes}}}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1111978
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1111978
-      \endverb
-    \endentry
-    \entry{doss-gollin_agutxtreme:2021}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=5d2ade173546d8119acdd75b8853d6bd}{%
-           family={Modi},
-           familyi={M\bibinitperiod},
-           given={Vijay},
-           giveni={V\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{309266f61f71d804066f0f0dada41395}
-      \strng{fullhashraw}{309266f61f71d804066f0f0dada41395}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{309266f61f71d804066f0f0dada41395}
-      \strng{authornamehash}{309266f61f71d804066f0f0dada41395}
-      \strng{authorfullhash}{309266f61f71d804066f0f0dada41395}
-      \strng{authorfullhashraw}{309266f61f71d804066f0f0dada41395}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{43}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{13}
-      \field{eventtitle}{{{AGU Fall Meeting}} 2021}
-      \field{month}{12}
-      \field{title}{{{A14H-03}}: {{How}} Unprecedented Was the {{February}} 2021 {{Texas}} Cold Snap?}
-      \field{urlday}{15}
-      \field{urlmonth}{12}
-      \field{urlyear}{2021}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/796322
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/796322
       \endverb
     \endentry
     \entry{doss-gollin_txtreme:2021}{article}{}{}
@@ -3199,7 +1818,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{44}
+      \field{extraname}{24}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -3226,277 +1845,6 @@
       \endverb
       \verb{url}
       \verb e
-      \endverb
-    \endentry
-    \entry{doss-gollin_aguelevation:2021}{inproceedings}{}{}
-      \name{author}{2}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c45f608956ad506806dd1818ed1227d5}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Klaus},
-           giveni={K\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{7cba634398fd72749b3763f5ca1ea068}
-      \strng{fullhashraw}{7cba634398fd72749b3763f5ca1ea068}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{7cba634398fd72749b3763f5ca1ea068}
-      \strng{authornamehash}{7cba634398fd72749b3763f5ca1ea068}
-      \strng{authorfullhash}{7cba634398fd72749b3763f5ca1ea068}
-      \strng{authorfullhashraw}{7cba634398fd72749b3763f5ca1ea068}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{45}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{14}
-      \field{eventtitle}{Fall {{Meeting}} 2021}
-      \field{month}{12}
-      \field{title}{{{H25U-1265}}: {{Operationalizing Bayesian Model Checking}} for {{Robust Decision Making}}: {{Insights}} from {{House Elevation}}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D2-0D-CF-34-C4-B0-81-F3-7F-89-98-D7-10-3D-BB-01
-      \endverb
-      \verb{url}
-      \verb agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D2-0D-CF-34-C4-B0-81-F3-7F-89-98-D7-10-3D-BB-01
-      \endverb
-    \endentry
-    \entry{geldner_societyriskanalysis:2021}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=f24eb132a7eeab6a922840b6bdca2eac}{%
-           family={Geldner},
-           familyi={G\bibinitperiod},
-           given={Nathan},
-           giveni={N\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c45f608956ad506806dd1818ed1227d5}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Klaus},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9c381856ee3fe584a826eec1b15b9811}{%
-           family={Johnson},
-           familyi={J\bibinitperiod},
-           given={David\bibnamedelima R.},
-           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Virtual}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{3413df8b817e51ba2f10b4da8d5150b8}
-      \strng{fullhashraw}{3413df8b817e51ba2f10b4da8d5150b8}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{3413df8b817e51ba2f10b4da8d5150b8}
-      \strng{authornamehash}{3413df8b817e51ba2f10b4da8d5150b8}
-      \strng{authorfullhash}{3413df8b817e51ba2f10b4da8d5150b8}
-      \strng{authorfullhashraw}{3413df8b817e51ba2f10b4da8d5150b8}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{46}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2021 {{Annual Meeting}} of the {{Society}} for {{Risk Analysis}}}
-      \field{day}{9}
-      \field{month}{12}
-      \field{title}{Characterization of the Equity-Efficiency Tradeoff in Targeted Residential Coastal Protection Projects}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://sra2021.conferencespot.org/event-data/pdf/catalyst_activity_25852
-      \endverb
-      \verb{url}
-      \verb https://sra2021.conferencespot.org/event-data/pdf/catalyst_activity_25852
-      \endverb
-    \endentry
-    \entry{lall_agu:2021}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=25f445d5204f891d54f3ac21c9d07b2a}{%
-           family={Amonkar},
-           familyi={A\bibinitperiod},
-           given={Yash\bibnamedelima Vijay},
-           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=5d2ade173546d8119acdd75b8853d6bd}{%
-           family={Modi},
-           familyi={M\bibinitperiod},
-           given={Vijay},
-           giveni={V\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New Orleans, LA}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{dfa6eed4e2e8331cb49887d3fa535e2c}
-      \strng{fullhashraw}{dfa6eed4e2e8331cb49887d3fa535e2c}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{dfa6eed4e2e8331cb49887d3fa535e2c}
-      \strng{authornamehash}{dfa6eed4e2e8331cb49887d3fa535e2c}
-      \strng{authorfullhash}{dfa6eed4e2e8331cb49887d3fa535e2c}
-      \strng{authorfullhashraw}{dfa6eed4e2e8331cb49887d3fa535e2c}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{47}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The February 2021 Texas Freeze highlighted the vulnerability of energy systems and their co-dependent infrastructure systems on climatic factors. As Texas continues to be one of the leaders in the adoption of renewable wind and solar energy, the importance of understanding the joint dependence of the availability of these resources, and of the climate sensitive demand associated with heating and cooling becomes critical. We present a novel space-time simulator based on a generalized k-nearest neighbor method that can generate spatially distributed daily time step simulations of wind power, solar radiation and cooling (CDD) and heating (HDD) degree days. The simulations preserve the cross-field dependence in space and across times in our applications to a 40 year long historical climate re-analysis data from Texas, including the spatial structure of the principal components of the data and their associated temporal spectra. We use the simulations to identify annual maxima of HDD and CDD for different block lengths (e.g., 1, 3, 7, and 14 days) over the entire ERCOT and identify the corresponding available wind and solar resource also over ERCOT. These are then used to identify the joint probability distributions of climate sensitive energy supply and demand, and their associated uncertainty. The estimated multivariate return periods can be used to inform reliable system design. A diagnosis of the atmospheric circulation parameters that lead to the extremes was also conducted for physical insights as to the mechanisms.}
-      \field{day}{16}
-      \field{eventtitle}{Fall {{Meeting}} 2021}
-      \field{month}{12}
-      \field{title}{{{GC42C-08}}: {{The}} Risks of Energy Shortfalls Considering Temperature Extremes, Wind and Solar Energy for the {{Texas}} Energy Grid Using a Novel Space-Time Simulation Model}
-      \field{urlday}{15}
-      \field{urlmonth}{12}
-      \field{urlyear}{2021}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm21/meetingapp.cgi/Home/0
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm21/meetingapp.cgi/Home/0
-      \endverb
-    \endentry
-    \entry{zhou_agu:2021}{inproceedings}{}{}
-      \name{author}{7}{}{%
-        {{hash=de19ee9232a79b89bd06a90719732fe7}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={Xiangnan},
-           giveni={X\bibinitperiod}}}%
-        {{hash=391a2f13fddd47df711b4c99fc32b92d}{%
-           family={Duenas-Osorio},
-           familyi={D\bibinithyphendelim O\bibinitperiod},
-           given={Leonardo},
-           giveni={L\bibinitperiod}}}%
-        {{hash=9b70d85f003fa30a5cae684a692c6e97}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Lu},
-           giveni={L\bibinitperiod}}}%
-        {{hash=d215267dca0ba67856614cb9807a8cc5}{%
-           family={Stadler},
-           familyi={S\bibinitperiod},
-           given={Lauren},
-           giveni={L\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=ab9bdce062ecec92f7fedf8947883797}{%
-           family={Getachew},
-           familyi={G\bibinitperiod},
-           given={Bezawit},
-           giveni={B\bibinitperiod}}}%
-        {{hash=aaab6bccc30b8ce770e5da744ad60cbd}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Qilin},
-           giveni={Q\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{7745f5b2ef79c5ab74c436d1338c0186}
-      \strng{fullhashraw}{7745f5b2ef79c5ab74c436d1338c0186}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{7745f5b2ef79c5ab74c436d1338c0186}
-      \strng{authornamehash}{7745f5b2ef79c5ab74c436d1338c0186}
-      \strng{authorfullhash}{7745f5b2ef79c5ab74c436d1338c0186}
-      \strng{authorfullhashraw}{7745f5b2ef79c5ab74c436d1338c0186}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{48}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ensuring the reliable distribution of safe drinking water and proper disposal of wastewater is critical to the well-being of modern society. Water treatment plants (WTPs) and wastewater treatment plants (WWTPs) tend to be located near large water bodies for cost-effective pumping of raw water and discharging of sewage downstream. Additionally, most WWTPs are built in low elevation areas to take advantage of gravity flows. Many WTPs and WWTPs are increasingly vulnerable to extreme precipitation events that occur more frequently due to global climate change. Hybrid systems that combine the centralized infrastructure and distributed wastewater treatment units with direct potable reuse (DPR) are an adaptation option for utilities. We investigate the benefit of such hybrid systems in terms of improving resilience to extreme precipitation events with a small city in the U.S., the City of Lumberton, North Carolina. Lumberton was hit by Hurricane Matthew in 2016 and Hurricane Florence in 2018 with different extents of water and wastewater service failure. We build a quantitative model for the water system of Lumberton that enables many-query analysis. We examine the performance of a hybrid system, which has three distributed DPR sites at three existing tank stations that are located either outside 500-year flood hazard zones or in 500-year flood hazard zones with reduced risk, against two hazard scenarios relative to the original system. The first hazard scenario is the flooding of the WTP and the pump station, which reside in the 100-year flood hazard zone. The second is a biological invasion (Escherichia coli) from sewer overflow. We show that the hybrid system has a higher capacity to withstand flooding under certain levels. It can maintain reliable water supply for more than 72 hours if the DPR quantity is maximized, while the original system can only provide less than 24 hours of supply from tanks’ storage. Moreover, the hybrid system contains much-retained impacted areas in case of contaminant invasions as the distributed DPR sites form relatively independent pressure zones. We demonstrate that this modeling framework can provide decision-makers with quantitative data for what-if scenarios with new adaptation alternatives and their synergies (e.g., integrated water and wastewater systems, expanded power backup).}
-      \field{day}{15}
-      \field{eventtitle}{Fall {{Meeting}} 2021}
-      \field{month}{12}
-      \field{title}{{{H32J-04}}: {{Distributed Water}} and {{Wastewater Infrastructure System}} for {{Climate Change Adaption}}: {{A Case Study}} in the {{City}} of {{Lumberton}}, {{NC}}}
-      \field{urlday}{15}
-      \field{urlmonth}{12}
-      \field{urlyear}{2021}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/976152
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/976152
       \endverb
     \endentry
     \entry{doss-gollin_dissertation:2020}{thesis}{}{}
@@ -3527,7 +1875,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{49}
+      \field{extraname}{25}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -3591,7 +1939,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{50}
+      \field{extraname}{26}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -3619,151 +1967,6 @@
       \endverb
       \verb{url}
       \verb http://ascelibrary.org/doi/10.1061/%28ASCE%29WR.1943-5452.0001190
-      \endverb
-    \endentry
-    \entry{lall_agu20:2020}{inproceedings}{}{}
-      \name{author}{7}{}{%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=c4630249e2d4b5491959e1dafce3a747}{%
-           family={Arumugam},
-           familyi={A\bibinitperiod},
-           given={Sankar},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5e0de64049df802479cc017f18ca5915}{%
-           family={Cioffi},
-           familyi={C\bibinitperiod},
-           given={Francesco},
-           giveni={F\bibinitperiod}}}%
-        {{hash=82f8787a3601e1ccdb5a6ab47bbf1a62}{%
-           family={Devineni},
-           familyi={D\bibinitperiod},
-           given={Naresh},
-           giveni={N\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=bae1e07b16578309bf9c3c2effc3f3e8}{%
-           family={Kwon},
-           familyi={K\bibinitperiod},
-           given={Hyun-Han},
-           giveni={H\bibinithyphendelim H\bibinitperiod}}}%
-        {{hash=0af15d3cb216957e7fb3093744da05c2}{%
-           family={Rajagopalan},
-           familyi={R\bibinitperiod},
-           given={Balaji},
-           giveni={B\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{1f4664932642c6d042c8aa2d07b442e3}
-      \strng{fullhashraw}{1f4664932642c6d042c8aa2d07b442e3}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{1f4664932642c6d042c8aa2d07b442e3}
-      \strng{authornamehash}{1f4664932642c6d042c8aa2d07b442e3}
-      \strng{authorfullhash}{1f4664932642c6d042c8aa2d07b442e3}
-      \strng{authorfullhashraw}{1f4664932642c6d042c8aa2d07b442e3}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{51}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{15}
-      \field{eventtitle}{Fall {{Meeting}} 2020}
-      \field{month}{12}
-      \field{title}{H161-01: {{America}}'s Water: Multiscale Forecasting and Innovation in Infrastructure Design \& Management Instruments Is Critical for Climate Adaptation}
-      \field{urlday}{29}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/681899
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/681899
-      \endverb
-    \endentry
-    \entry{amonkar_agu:2019}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=25f445d5204f891d54f3ac21c9d07b2a}{%
-           family={Amonkar},
-           familyi={A\bibinitperiod},
-           given={Yash\bibnamedelima Vijay},
-           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{7fb6c178cb7dd9a2d8cf3008a4f88422}
-      \strng{fullhashraw}{7fb6c178cb7dd9a2d8cf3008a4f88422}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{7fb6c178cb7dd9a2d8cf3008a4f88422}
-      \strng{authornamehash}{7fb6c178cb7dd9a2d8cf3008a4f88422}
-      \strng{authorfullhash}{7fb6c178cb7dd9a2d8cf3008a4f88422}
-      \strng{authorfullhashraw}{7fb6c178cb7dd9a2d8cf3008a4f88422}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{52}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{9}
-      \field{eventtitle}{Fall {{Meeting}} 2019}
-      \field{month}{12}
-      \field{title}{{{H13T-2050}}: {{Preserving}} Long-Term Variability in Simulation of Multisite Streamflow Extremes}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.6084/m9.figshare.11444238.v1
-      \endverb
-      \verb{urlraw}
-      \verb https://agu-do03.confex.com/agu/fm19/meetingapp.cgi/Paper/620477
-      \endverb
-      \verb{url}
-      \verb https://agu-do03.confex.com/agu/fm19/meetingapp.cgi/Paper/620477
       \endverb
     \endentry
     \entry{doss-gollin_robustadaptation:2019}{article}{}{}
@@ -3806,7 +2009,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{53}
+      \field{extraname}{27}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -3836,71 +2039,6 @@
       \endverb
       \verb{url}
       \verb http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019EF001154
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2019}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=37f892f525006c16b343cebc9e493c29}{%
-           family={Lamontagne},
-           familyi={L\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{173b388c3e8390ce6da7aa7c71eac20d}
-      \strng{fullhashraw}{173b388c3e8390ce6da7aa7c71eac20d}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{173b388c3e8390ce6da7aa7c71eac20d}
-      \strng{authornamehash}{173b388c3e8390ce6da7aa7c71eac20d}
-      \strng{authorfullhash}{173b388c3e8390ce6da7aa7c71eac20d}
-      \strng{authorfullhashraw}{173b388c3e8390ce6da7aa7c71eac20d}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{54}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{AGU Fall Meeting 2019, Abstract H11G-07. Presented 9 December 2019.}
-      \field{day}{9}
-      \field{eventtitle}{Fall {{Meeting}} 2019}
-      \field{month}{12}
-      \field{title}{{{H11G-07}}: {{Towards}} Adaptive Resilience: Managing Uncertainties and Exploiting Predictability across Timescales}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.6084/m9.figshare.11397936.v1
-      \endverb
-      \verb{urlraw}
-      \verb https://figshare.com/articles/Towards_Adaptive_Resilience_Managing_uncertainties_and_exploiting_predictability_across_timescales/11397936
-      \endverb
-      \verb{url}
-      \verb https://figshare.com/articles/Towards_Adaptive_Resilience_Managing_uncertainties_and_exploiting_predictability_across_timescales/11397936
       \endverb
     \endentry
     \entry{rozer_lossestimates:2019}{article}{}{}
@@ -3963,7 +2101,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{55}
+      \field{extraname}{28}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -3989,71 +2127,6 @@
       \endverb
       \verb{url}
       \verb http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018EF001074
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2018}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=7d49c493e163cdb032b264d2da9b5144}{%
-           family={Steinschneider},
-           familyi={S\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{342572d3e115be9c6c5ff28bb1f1c2bd}
-      \strng{fullhashraw}{342572d3e115be9c6c5ff28bb1f1c2bd}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{342572d3e115be9c6c5ff28bb1f1c2bd}
-      \strng{authornamehash}{342572d3e115be9c6c5ff28bb1f1c2bd}
-      \strng{authorfullhash}{342572d3e115be9c6c5ff28bb1f1c2bd}
-      \strng{authorfullhashraw}{342572d3e115be9c6c5ff28bb1f1c2bd}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{56}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{day}{14}
-      \field{eventtitle}{Fall {{Meeting}} 2018}
-      \field{month}{12}
-      \field{title}{{{H52F-05}}: {{Robust}} Adaptation to Cyclical Climate Risk}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.13140/rg.2.2.28447.20649
-      \endverb
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/440508
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/440508
       \endverb
     \endentry
     \entry{doss-gollin_pyfloods:2018}{article}{}{}
@@ -4096,7 +2169,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{57}
+      \field{extraname}{29}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -4158,7 +2231,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{58}
+      \field{extraname}{30}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -4179,441 +2252,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1002/2017wr021318
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2017a}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{fullhashraw}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{authornamehash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{authorfullhash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{authorfullhashraw}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{59}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2017 {{Fall Meeting}}}
-      \field{month}{12}
-      \field{title}{{{H22B-02}}: {{Designing}} and Operating Infrastructure for Nonstationary Flood Risk Management}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.13140/rg.2.2.16110.46403
-      \endverb
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/241469
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/241469
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2017}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=768a0279dfa0a3b9285e8084f67d96ac}{%
-           family={Muñoz},
-           familyi={M\bibinitperiod},
-           given={Ángel\bibnamedelima G},
-           giveni={Á\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=8c027cccc9c77725c29815c2a521358e}{%
-           family={Mason},
-           familyi={M\bibinitperiod},
-           given={Simon\bibnamedelima J},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=7710e504673020653034cd90e1b8b0ac}{%
-           family={Pastén},
-           familyi={P\bibinitperiod},
-           given={Max},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{59dbc3d431fd32dd000bbeedd72866f5}
-      \strng{fullhashraw}{59dbc3d431fd32dd000bbeedd72866f5}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{59dbc3d431fd32dd000bbeedd72866f5}
-      \strng{authornamehash}{59dbc3d431fd32dd000bbeedd72866f5}
-      \strng{authorfullhash}{59dbc3d431fd32dd000bbeedd72866f5}
-      \strng{authorfullhashraw}{59dbc3d431fd32dd000bbeedd72866f5}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{60}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2017 {{Fall Meeting}}}
-      \field{month}{12}
-      \field{title}{{{A31H-0135}}: {{Causes}} and Model Skill of the Persistent Intense Rainfall and Flooding in {{Paraguay}} during the Austral Summer 2015-2016}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.13140/rg.2.2.20146.30406
-      \endverb
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/299087
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/299087
-      \endverb
-    \endentry
-    \entry{faranda_agu:2017}{inproceedings}{}{}
-      \name{author}{6}{}{%
-        {{hash=5bba7091edb45c2ca15fc41df7d91216}{%
-           family={Faranda},
-           familyi={F\bibinitperiod},
-           given={Davide},
-           giveni={D\bibinitperiod}}}%
-        {{hash=f700a832b740186994e4531c6a35ed2a}{%
-           family={Messori},
-           familyi={M\bibinitperiod},
-           given={Gabriele},
-           giveni={G\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=652f69fee0c2c2ab1be5e9f7c8315917}{%
-           family={Yiou},
-           familyi={Y\bibinitperiod},
-           given={Pascal},
-           giveni={P\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{2bba79714763c36151ba7950d9c30e0c}
-      \strng{fullhashraw}{2bba79714763c36151ba7950d9c30e0c}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{2bba79714763c36151ba7950d9c30e0c}
-      \strng{authornamehash}{2bba79714763c36151ba7950d9c30e0c}
-      \strng{authorfullhash}{2bba79714763c36151ba7950d9c30e0c}
-      \strng{authorfullhashraw}{2bba79714763c36151ba7950d9c30e0c}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{61}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2017 {{Fall Meeting}}}
-      \field{month}{12}
-      \field{title}{{{GC52B-02}}: {{Dynamics}} and Thermodynamics of Weather Extremes: A Dynamical Systems Approach}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/270550
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/270550
-      \endverb
-    \endentry
-    \entry{rozer_bn-flemops:2017}{inproceedings}{}{}
-      \name{author}{6}{}{%
-        {{hash=7b8aa4252a95b9b3fd1eca1e741cd90f}{%
-           family={Rözer},
-           familyi={R\bibinitperiod},
-           given={Viktor},
-           giveni={V\bibinitperiod}}}%
-        {{hash=ea5a9b20782a5edfd1e127eb748db640}{%
-           family={Kreibich},
-           familyi={K\bibinitperiod},
-           given={Heidi},
-           giveni={H\bibinitperiod}}}%
-        {{hash=1f69e3e67f087ee71004d57c351a27dd}{%
-           family={Schröter},
-           familyi={S\bibinitperiod},
-           given={Kai},
-           giveni={K\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=fbae7e671fc3ef2b67b40220beb971fd}{%
-           family={Merz},
-           familyi={M\bibinitperiod},
-           given={Bruno},
-           giveni={B\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{4e2c8dbcf5e5d9dc0660ed140ab0f043}
-      \strng{fullhashraw}{4e2c8dbcf5e5d9dc0660ed140ab0f043}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{4e2c8dbcf5e5d9dc0660ed140ab0f043}
-      \strng{authornamehash}{4e2c8dbcf5e5d9dc0660ed140ab0f043}
-      \strng{authorfullhash}{4e2c8dbcf5e5d9dc0660ed140ab0f043}
-      \strng{authorfullhashraw}{4e2c8dbcf5e5d9dc0660ed140ab0f043}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{62}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2017 {{Fall Meeting}}}
-      \field{month}{12}
-      \field{title}{{{NH41E-08}}: {{BN-FLEMOps}} Pluvial - {{A}} Probabilistic Multi-Variable Loss Estimation Model for Pluvial Floods}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/224930
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/224930
-      \endverb
-    \endentry
-    \entry{doss-gollin_agu:2016}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{fullhashraw}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{authornamehash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{authorfullhash}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{authorfullhashraw}{e8b52dd3ab8e8aa3db9fa4608eb1bf85}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{63}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Regional-scale extreme rainfall and flooding are temporally and spatially associated with the occurrence of tropical moisture exports (TMEs) in the Ohio River Basin (ORB). TMEs are related to but not synonymous with atmospheric rivers, which refer to specific filiamentary organizational processes. TMEs to the ORB may be driven by strong, persistent ridging over the Eastern United States and troughing over the Central United States, creating favorable conditions for southerly flow and moisture transport from the Gulf of Mexico and Caribbean Sea. However, the strong inter-annual variation in TME activity over the ORB suggests dependence on global-scale features of the atmospheric circulation. We suggest that this synoptic dipole pattern may be viewed as the passage of one or more high-wavenumber, transient Rossby waves. We build a multi-level hierarchical Bayesian model in which the probability distribution of TME entering the ORB is a function of the phase and amplitude of the traveling waves. In turn, the joint distribution of the phase and amplitude of this wave is modulated by hemispheric-scale features of the atmospheric and oceanic circulation, and the amplitude and synchronization of quasi-stationary Rossby waves with wavenumber 1-4. Our approach bridges information about different features of the atmospheric circulation which inform the predictability of TME at multiple time scales and develops existing understanding of the atmospheric drivers of TMEs beyond existing composite and EOF studies.}
-      \field{eventtitle}{2016 {{Fall Meeting}}}
-      \field{title}{{{A33J-0396}}: {{Global-local}} Interactions Modulate Tropical Moisture Exports to the {{Ohio River Basin}}}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.13140/rg.2.2.36009.19044
-      \endverb
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/129624
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/129624
-      \endverb
-    \endentry
-    \entry{farnham_agu:2016}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e19cc66abe7b26180da681049308842a}
-      \strng{fullhashraw}{e19cc66abe7b26180da681049308842a}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{e19cc66abe7b26180da681049308842a}
-      \strng{authornamehash}{e19cc66abe7b26180da681049308842a}
-      \strng{authorfullhash}{e19cc66abe7b26180da681049308842a}
-      \strng{authorfullhashraw}{e19cc66abe7b26180da681049308842a}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{64}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2016 {{Fall Meeting}}}
-      \field{month}{12}
-      \field{title}{{{NH53E-08}}: {{Space-time}} Characteristics and Statistical Predictability of Extreme Daily Precipitation Events in the {{Ohio River Basin}}}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/184876
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/184876
-      \endverb
-    \endentry
-    \entry{spence_agu:2016}{inproceedings}{}{}
-      \name{author}{3}{}{%
-        {{hash=a6b2da0f2c80ff035f3ee54883c71419}{%
-           family={Spence},
-           familyi={S\bibinitperiod},
-           given={Caitlin\bibnamedelima M},
-           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0c0b188bc71ccda5780211a55a4d0aec}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Casey},
-           giveni={C\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{547dd2484268761b7ac5bb873759b1d0}
-      \strng{fullhashraw}{547dd2484268761b7ac5bb873759b1d0}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{547dd2484268761b7ac5bb873759b1d0}
-      \strng{authornamehash}{547dd2484268761b7ac5bb873759b1d0}
-      \strng{authorfullhash}{547dd2484268761b7ac5bb873759b1d0}
-      \strng{authorfullhashraw}{547dd2484268761b7ac5bb873759b1d0}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{65}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2016 {{Fall Meeting}}}
-      \field{title}{{{H41B-1334}}: {{Exploiting}} Synoptic-Scale Climate Processes to Develop Nonstationary, Probabilistic Flood Hazard Projections}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/195307
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/195307
       \endverb
     \endentry
     \entry{doss-gollin_rwh:2015}{article}{}{}
@@ -4655,7 +2293,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{66}
+      \field{extraname}{31}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -4679,67 +2317,6 @@
       \endverb
       \verb{url}
       \verb http://doi.wiley.com/10.1111/1752-1688.12376
-      \endverb
-    \endentry
-    \entry{farnham_moisturetransport:2015}{inproceedings}{}{}
-      \name{author}{4}{}{%
-        {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
-           family={Farnham},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d8987e53f709ebc80726bd51f22a0860}{%
-           family={Lall},
-           familyi={L\bibinitperiod},
-           given={Upmanu},
-           giveni={U\bibinitperiod}}}%
-        {{hash=bae1e07b16578309bf9c3c2effc3f3e8}{%
-           family={Kwon},
-           familyi={K\bibinitperiod},
-           given={Hyun-Han},
-           giveni={H\bibinithyphendelim H\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {AGU}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{9aa7bd78382c2d1b4df5f78b2db4067b}
-      \strng{fullhashraw}{9aa7bd78382c2d1b4df5f78b2db4067b}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{9aa7bd78382c2d1b4df5f78b2db4067b}
-      \strng{authornamehash}{9aa7bd78382c2d1b4df5f78b2db4067b}
-      \strng{authorfullhash}{9aa7bd78382c2d1b4df5f78b2db4067b}
-      \strng{authorfullhashraw}{9aa7bd78382c2d1b4df5f78b2db4067b}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{67}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{eventtitle}{2015 {{Fall Meeting}}}
-      \field{month}{12}
-      \field{title}{{{NH51E-1939}}: {{Moisture}} Transport and Extreme Precipitation in Mid-Latitudes}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/71252
-      \endverb
-      \verb{url}
-      \verb https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/71252
       \endverb
     \endentry
     \entry{araujojunior_simposio:2014}{inproceedings}{}{}
@@ -4797,7 +2374,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{68}
+      \field{extraname}{32}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -4857,7 +2434,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{69}
+      \field{extraname}{33}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -4875,7 +2452,6 @@
   \enddatalist
   \keyalias{Rozer:2019}{rozer_lossestimates:2019}
   \keyalias{farnham_orbrep:2018}{farnham_credibly:2018}
-  \keyalias{murphy_:2023a}{murphy_agu:2023}
   \keyalias{singh_potential:2023}{singh_potential:2024}
 \endrefsection
 \endinput
