@@ -151,80 +151,6 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{odonnell_cesm:2024}{online}{}{}
-      \name{author}{5}{}{%
-        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
-           family={O'Donnell},
-           familyi={O\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
-           family={Murphy},
-           familyi={M\bibinitperiod},
-           given={Kelsey},
-           giveni={K\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=df5d604e748f9e742b9e41eacf8abebf}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel},
-           giveni={S\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{9dd93d731296e676e49df4cb2b22b14f}
-      \strng{fullhashraw}{9dd93d731296e676e49df4cb2b22b14f}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{9dd93d731296e676e49df4cb2b22b14f}
-      \strng{authornamehash}{9dd93d731296e676e49df4cb2b22b14f}
-      \strng{authorfullhash}{9dd93d731296e676e49df4cb2b22b14f}
-      \strng{authorfullhashraw}{9dd93d731296e676e49df4cb2b22b14f}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{{$<$}p{$><$}strong class="journal-contentHeaderColor"{$>$}Abstract.{$<$}/strong{$>$} The Mississippi River is a critical waterway in the United States, and hydrologic variability along its course represents a perennial threat to trade, agriculture, industry, the economy, and communities. The Community Earth System Model version 1 (CESM1) complements observational records of river discharge by providing fully coupled output from a state-of-the-art earth system model that includes a river transport model. These simulations of past, historic, and projected river discharge have been widely used to assess the dynamics and causes of changes in the hydrology of the Mississippi River basin. Here, we compare observations and reanalysis datasets of key hydrologic variables to CESM1 output within the Mississippi River basin to evaluate model performance and bias. We show that the seasonality of simulated river discharge in CESM1 is shifted 2\&ndash;3 months late relative to observations. This offset is attributed to seasonal biases in precipitation and runoff in the region. We also evaluate performance of several CMIP6 models over the Mississippi River basin, and show that runoff in other models \&mdash; notably CESM2 \&mdash; more closely simulates the seasonal trends in the reanalysis data. Our results have implications for model selection when assessing hydroclimate variability on the Mississippi River basin, and show that the seasonal timing of runoff can vary widely between models.\&nbsp; Our findings imply that continued improvements in the representation of land surface hydrology in earth system models may improve our ability to assess the causes and consequences of environmental change on terrestrial water resources and major river systems globally.{$<$}/p{$>$}}
-      \field{day}{10}
-      \field{eprinttype}{Hydrology and Earth System Sciences Discussions}
-      \field{month}{6}
-      \field{pubstate}{prepublished}
-      \field{sortyear}{2222}
-      \field{title}{Evaluation of Hydroclimatic Biases in the {{Community Earth System Model}} ({{CESM1}}) within the {{Mississippi River}} Basin}
-      \field{urlday}{10}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.5194/hess-2024-153
-      \endverb
-      \verb{urlraw}
-      \verb https://hess.copernicus.org/preprints/hess-2024-153/
-      \endverb
-      \verb{url}
-      \verb https://hess.copernicus.org/preprints/hess-2024-153/
-      \endverb
-    \endentry
     \entry{pollack_transparency:2024}{online}{}{}
       \name{author}{25}{}{%
         {{hash=220898e235d936971bd0ff08da56214f}{%
@@ -370,7 +296,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -439,7 +365,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -513,7 +439,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -585,7 +511,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -662,7 +588,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{8}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -728,7 +654,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{9}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -758,6 +684,86 @@
       \endverb
       \verb{url}
       \verb https://dx.doi.org/10.1088/2752-5295/adf56e
+      \endverb
+    \endentry
+    \entry{odonnell_cesm:2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
+           family={Dee},
+           familyi={D\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df5d604e748f9e742b9e41eacf8abebf}{%
+           family={Munoz},
+           familyi={M\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Copernicus GmbH}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{9dd93d731296e676e49df4cb2b22b14f}
+      \strng{fullhashraw}{9dd93d731296e676e49df4cb2b22b14f}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{9dd93d731296e676e49df4cb2b22b14f}
+      \strng{authornamehash}{9dd93d731296e676e49df4cb2b22b14f}
+      \strng{authorfullhash}{9dd93d731296e676e49df4cb2b22b14f}
+      \strng{authorfullhashraw}{9dd93d731296e676e49df4cb2b22b14f}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Mississippi River is a critical waterway in the United States, and hydrologic variability along its course represents a perennial consideration for trade, agriculture, industry, ecosystems, the economy, and communities. Simulations of past, historic, and projected river discharge have been widely used to assess the dynamics and causes of changes in the hydrology of the Mississippi River basin over long time scales and to put changes of climate in context. The Community Earth System Model version 1 (CESM1) offers such simulations to complement observational records of river discharge by providing fully coupled output from a state-of-the-art earth system model that includes a river transport model. Here, we compare observations and reanalysis datasets of key hydrologic variables to CESM1 output within the Mississippi River basin to evaluate model performance and bias. We show that the seasonality of simulated river discharge in CESM1 is shifted 3 months late relative to observations. This offset is attributed to seasonal biases in precipitation and runoff in the region. We also evaluate performance of several Coupled Model Intercomparison Phase 6 (CMIP6) models over the Mississippi River basin, and show that runoff in other models – notably the Community Earth System Model version 2 (CESM2) – more closely simulates the seasonal trends in the reanalysis data. Our results have implications for model selection when assessing hydroclimate variability on the Mississippi River basin, and show that the seasonal timing of runoff can vary widely between models. Our findings point to (1) a need for continued developments in the representation of land surface hydrology in earth system models for improvements in our ability to assess the causes and consequences of environmental change on terrestrial water resources and major river systems globally, and (2) a need for caution and understanding of biases when applying these tools to practical risk assessment.}
+      \field{day}{25}
+      \field{issn}{1027-5606}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{month}{9}
+      \field{number}{18}
+      \field{title}{Evaluation of Hydroclimatic Biases in the {{Community Earth System Model}} ({{CESM1}}) within the {{Mississippi River}} Basin}
+      \field{urlday}{25}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{29}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{4637\bibrangedash 4660}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.5194/hess-29-4637-2025
+      \endverb
+      \verb{urlraw}
+      \verb https://hess.copernicus.org/articles/29/4637/2025/
+      \endverb
+      \verb{url}
+      \verb https://hess.copernicus.org/articles/29/4637/2025/
       \endverb
     \endentry
     \entry{kazadi_floodgnn-gru:2024}{article}{}{}
