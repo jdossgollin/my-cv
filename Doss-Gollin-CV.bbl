@@ -325,6 +325,128 @@
       \verb https://osf.io/29nhv
       \endverb
     \endentry
+    \entry{pollack_unrefined:2025}{online}{}{}
+      \name{author}{13}{}{%
+        {{hash=220898e235d936971bd0ff08da56214f}{%
+           family={Pollack},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d2e3dc273456894bce7b77e8ff8f1ca1}{%
+           family={Benedict},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ae4c1b000ad2a8e78201d077133c6db2}{%
+           family={Deb},
+           familyi={D\bibinitperiod},
+           given={Mithun},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=467ed942940566ac8e39c7de8ec9f5f1}{%
+           family={Judi},
+           familyi={J\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=18eb393714ab91e769fb842937b418d1}{%
+           family={Lehman},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=22ba68bdb1f344ea95f752fc03d32160}{%
+           family={Lutz},
+           familyi={L\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=08510c8668bfd88ebfd4b58e3c6043b0}{%
+           family={Reesman},
+           familyi={R\bibinitperiod},
+           given={Cade},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f5ca21a798578dafde66de0d1defa59f}{%
+           family={Sarazen},
+           familyi={S\bibinitperiod},
+           given={Elaine},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f939723e6d45c0097625320234c4e3bb}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Youngjun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a7ffc40b21d99097582a6f031e589d5a}{%
+           family={Srikrishnan},
+           familyi={S\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d455ada2790f6bb4edf5f32b4e1d4d9b}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c45f608956ad506806dd1818ed1227d5}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{dee4f020fcb3b82168cd8cbbac3da896}
+      \strng{fullhashraw}{dee4f020fcb3b82168cd8cbbac3da896}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{dee4f020fcb3b82168cd8cbbac3da896}
+      \strng{authornamehash}{dee4f020fcb3b82168cd8cbbac3da896}
+      \strng{authorfullhash}{dee4f020fcb3b82168cd8cbbac3da896}
+      \strng{authorfullhashraw}{dee4f020fcb3b82168cd8cbbac3da896}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Flood-risk assessments inform consequential public decisions. These assessments increasingly use large-scale building inventories that offer granular details but come with little quality assurance. The U.S. Army Corps' National Structure Inventory (NSI) is a prominent example. The Corps explicitly recommends that users evaluate data quality and adjust attributes as necessary. However, many studies skip this step. This raises the questions: How accurate is the NSI and how do any errors influence risk assessments and decisions? Here we use a case study for the city of Philadelphia, Pennsylvania comparing NSI-based damage estimates against estimates with highquality, feature-rich local building data under an ensemble of flood scenarios. The nearly ubiquitous practice of adopting the NSI without refinements can systematically distort flood damage estimates with potentially drastic implications for resource allocation decisions. Using the NSI to rank census tracts by damage-a common metric for prioritizing federal disaster funding-generally misclassifies one-fifth of tracts regarding their priority status. Simple refinements, such as correcting building locations, can drastically reduce classification errors, leading to correct identification of all tracts with respect to priority status in all but one flood scenario. Our findings demonstrate how the use of unrefined nationwide building inventories can compromise risk assessments and mislead resource allocation. We provide actionable guidance for enhancing inventory reliability to improve risk estimation and decision analyses.}
+      \field{day}{2}
+      \field{eprinttype}{Social Science Research Network}
+      \field{month}{10}
+      \field{number}{5575271}
+      \field{pubstate}{prepublished}
+      \field{sortyear}{2222}
+      \field{title}{Unrefined National Building Inventories Can Mislead Risk Assessments and Decisions}
+      \field{type}{SSRN Scholarly Paper}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.5575271
+      \endverb
+      \verb{eprint}
+      \verb 5575271
+      \endverb
+      \verb{urlraw}
+      \verb https://papers.ssrn.com/abstract=5575271
+      \endverb
+      \verb{url}
+      \verb https://papers.ssrn.com/abstract=5575271
+      \endverb
+    \endentry
     \entry{pollack_unsafe:2024}{online}{}{}
       \name{author}{4}{}{%
         {{hash=220898e235d936971bd0ff08da56214f}{%
@@ -365,7 +487,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -439,7 +561,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -511,7 +633,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -588,7 +710,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -654,7 +776,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -734,7 +856,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -806,7 +928,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{10}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -871,7 +993,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{11}
+      \field{extraname}{12}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -941,7 +1063,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{12}
+      \field{extraname}{13}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1026,7 +1148,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{13}
+      \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1106,7 +1228,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{14}
+      \field{extraname}{15}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1178,7 +1300,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{15}
+      \field{extraname}{16}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1247,7 +1369,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{16}
+      \field{extraname}{17}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1310,7 +1432,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{17}
+      \field{extraname}{18}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1369,7 +1491,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{18}
+      \field{extraname}{19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1441,7 +1563,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{19}
+      \field{extraname}{20}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1548,7 +1670,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{20}
+      \field{extraname}{21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1630,7 +1752,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{21}
+      \field{extraname}{22}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1703,7 +1825,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{22}
+      \field{extraname}{23}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1768,7 +1890,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{23}
+      \field{extraname}{24}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1825,7 +1947,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{24}
+      \field{extraname}{25}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1889,7 +2011,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{25}
+      \field{extraname}{26}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1959,7 +2081,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{26}
+      \field{extraname}{27}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2051,7 +2173,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{27}
+      \field{extraname}{28}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2119,7 +2241,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{28}
+      \field{extraname}{29}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2181,7 +2303,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{29}
+      \field{extraname}{30}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2243,7 +2365,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{30}
+      \field{extraname}{31}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2324,7 +2446,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{31}
+      \field{extraname}{32}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2384,7 +2506,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{32}
+      \field{extraname}{33}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
