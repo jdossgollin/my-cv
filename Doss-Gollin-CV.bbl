@@ -216,6 +216,60 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
+    \entry{odonnell_whiplash:2025}{online}{}{}
+      \name{author}{4}{}{%
+        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
+           family={Dee},
+           familyi={D\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=690238b00dd82888ec6cfd1050f8c076}{%
+           family={Muñoz},
+           familyi={M\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{9e6248530ddb59e5ce65ea3525ca2d18}
+      \strng{fullhashraw}{9e6248530ddb59e5ce65ea3525ca2d18}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{9e6248530ddb59e5ce65ea3525ca2d18}
+      \strng{authornamehash}{9e6248530ddb59e5ce65ea3525ca2d18}
+      \strng{authorfullhash}{9e6248530ddb59e5ce65ea3525ca2d18}
+      \strng{authorfullhashraw}{9e6248530ddb59e5ce65ea3525ca2d18}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{10}
+      \field{pubstate}{prepublished}
+      \field{sortyear}{2222}
+      \field{title}{Hydrologic {{Whiplash}} in the {{Mississippi River Basin}}: {{Mechanisms}} and {{Projections}}}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{pollack_transparency:2024}{online}{}{}
       \name{author}{25}{}{%
         {{hash=220898e235d936971bd0ff08da56214f}{%
@@ -361,7 +415,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -478,7 +532,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -510,75 +564,6 @@
       \endverb
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5575271
-      \endverb
-    \endentry
-    \entry{pollack_unsafe:2024}{online}{}{}
-      \name{author}{4}{}{%
-        {{hash=220898e235d936971bd0ff08da56214f}{%
-           family={Pollack},
-           familyi={P\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=a7ffc40b21d99097582a6f031e589d5a}{%
-           family={Srikrishnan},
-           familyi={S\bibinitperiod},
-           given={Vivek},
-           giveni={V\bibinitperiod}}}%
-        {{hash=c45f608956ad506806dd1818ed1227d5}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Klaus},
-           giveni={K\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e57c98f06b0e8fa5b317ca19e95ac534}
-      \strng{fullhashraw}{e57c98f06b0e8fa5b317ca19e95ac534}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{e57c98f06b0e8fa5b317ca19e95ac534}
-      \strng{authornamehash}{e57c98f06b0e8fa5b317ca19e95ac534}
-      \strng{authorfullhash}{e57c98f06b0e8fa5b317ca19e95ac534}
-      \strng{authorfullhashraw}{e57c98f06b0e8fa5b317ca19e95ac534}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A software package for adding parametric uncertainty to the national structure inventory and estimating flood losses with uncertain depth-damage relationships: https://github.com/abpoll/unsafe.}
-      \field{day}{20}
-      \field{eprinttype}{OSF}
-      \field{month}{5}
-      \field{pubstate}{prepublished}
-      \field{sortyear}{2222}
-      \field{title}{{{UNSAFE}}: {{An UNcertain Structure And Fragility Ensemble}} Framework for Property-Level Flood Risk Estimation}
-      \field{urlday}{20}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.31219/osf.io/jb9ta
-      \endverb
-      \verb{urlraw}
-      \verb https://osf.io/jb9ta
-      \endverb
-      \verb{url}
-      \verb https://osf.io/jb9ta
       \endverb
     \endentry
     \entry{haider_mrb:2025}{article}{}{}
@@ -953,6 +938,78 @@
       \verb https://hess.copernicus.org/articles/29/4637/2025/
       \endverb
     \endentry
+    \entry{pollack_unsafe:2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=220898e235d936971bd0ff08da56214f}{%
+           family={Pollack},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a7ffc40b21d99097582a6f031e589d5a}{%
+           family={Srikrishnan},
+           familyi={S\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c45f608956ad506806dd1818ed1227d5}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{e57c98f06b0e8fa5b317ca19e95ac534}
+      \strng{fullhashraw}{e57c98f06b0e8fa5b317ca19e95ac534}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{e57c98f06b0e8fa5b317ca19e95ac534}
+      \strng{authornamehash}{e57c98f06b0e8fa5b317ca19e95ac534}
+      \strng{authorfullhash}{e57c98f06b0e8fa5b317ca19e95ac534}
+      \strng{authorfullhashraw}{e57c98f06b0e8fa5b317ca19e95ac534}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{12}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Pollack et al., (2025). UNSAFE: An UNcertain Structure And Fragility Ensemble framework for property-level flood risk estimation. Journal of Open Source Software, 10(115), 7527, https://doi.org/10.21105/joss.07527}
+      \field{day}{13}
+      \field{issn}{2475-9066}
+      \field{journaltitle}{Journal of Open Source Software}
+      \field{month}{11}
+      \field{number}{115}
+      \field{title}{{{UNSAFE}}: {{An UNcertain Structure And Fragility Ensemble}} Framework for Property-Level Flood Risk Estimation}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{volume}{10}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{7527}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.21105/joss.07527
+      \endverb
+      \verb{urlraw}
+      \verb https://joss.theoj.org/papers/10.21105/joss.07527
+      \endverb
+      \verb{url}
+      \verb https://joss.theoj.org/papers/10.21105/joss.07527
+      \endverb
+    \endentry
     \entry{kazadi_floodgnn-gru:2024}{article}{}{}
       \name{author}{4}{}{%
         {{hash=84e2f58e2e4102425b35b238546219dc}{%
@@ -993,7 +1050,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{12}
+      \field{extraname}{13}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1058,7 +1115,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{13}
+      \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1128,16 +1185,16 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{14}
+      \field{extraname}{15}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{The Mississippi River is a vital economic corridor used for generating hydroelectric power, transporting agricultural products, and municipal and industrial water use. Communities, industries, and infrastructure along the Mississippi River face an uncertain future as it grows more susceptible to climate extremes. A key challenge is determining whether Mississippi river discharge will increase or decrease during the 21st century. Because the 20th century record is limited in time, paleoclimate data and model simulations provide enhanced understanding of the basin's hydroclimate response to external forcing. Here, we investigate how anthropogenic forcing in the 20th century shifts the statistics of river discharge compared to a Last Millennium (LM) baseline using simulations from the Community Earth System Model Last Millennium Ensemble. We present evidence that the 20th century exhibits wetter conditions (i.e., increased river discharge) over the basin compared to the pre-industrial, and that land use/land cover changes have a significant control on the hydroclimatic response. Conversely, while precipitation is projected to increase in the 21st century, the basin is generally drier (i.e., decreased river discharge) compared to the 20th century. Overall, we find that changes in greenhouse gases contribute to a lower risk of extreme discharge and flooding in the basin during the 20th century, while land use changes contribute to increased risk of flooding. The additional climate information afforded by the LM simulations offers an improved understanding of what drove extreme flooding events in the past, which can help inform the development of future regional flood mitigation strategies.}
-      \field{day}{11}
+      \field{day}{6}
       \field{issn}{2572-4525}
       \field{journaltitle}{Paleoceanography and Paleoclimatology}
-      \field{month}{6}
+      \field{month}{11}
       \field{number}{7}
       \field{title}{Competing {{Influences}} of {{Land Use}} and {{Greenhouse Gas Emissions}} on {{Mississippi River Basin Hydroclimate Simulated Over}} the {{Last Millennium}}}
       \field{urlday}{25}
@@ -1213,7 +1270,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{15}
+      \field{extraname}{16}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1293,7 +1350,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{16}
+      \field{extraname}{17}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1365,7 +1422,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{17}
+      \field{extraname}{18}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1434,14 +1491,14 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{18}
+      \field{extraname}{19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{How can Texas secure an affordable, sustainable, and reliable power supply for all its citizens? This report explores key insights from research conducted at Rice University.}
-      \field{day}{10}
-      \field{month}{11}
+      \field{day}{11}
+      \field{month}{10}
       \field{title}{Revamping the {{Texas Power Grid}}: {{Insights}} from {{Rice University}}’s {{Electricity Research}}}
       \field{urlday}{10}
       \field{urlmonth}{4}
@@ -1497,7 +1554,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{19}
+      \field{extraname}{20}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1556,7 +1613,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{20}
+      \field{extraname}{21}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1628,7 +1685,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{21}
+      \field{extraname}{22}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1735,7 +1792,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{22}
+      \field{extraname}{23}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1817,7 +1874,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{23}
+      \field{extraname}{24}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1890,7 +1947,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{24}
+      \field{extraname}{25}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -1955,7 +2012,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{25}
+      \field{extraname}{26}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2012,7 +2069,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{26}
+      \field{extraname}{27}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2076,7 +2133,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{27}
+      \field{extraname}{28}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2146,7 +2203,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{28}
+      \field{extraname}{29}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2238,7 +2295,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{29}
+      \field{extraname}{30}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2306,15 +2363,15 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{30}
+      \field{extraname}{31}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{During the austral summer 2015/16, severe flooding displaced over 170 000 people on the Paraguay River system in Paraguay, Argentina, and southern Brazil. These floods were driven by repeated heavy rainfall events in the lower Paraguay River basin. Alternating sequences of enhanced moisture inflow from the South American low-level jet and local convergence associated with baroclinic systems were conducive to mesoscale convective activity and enhanced precipitation. These circulation patterns were favored by cross-time-scale interactions of a very strong El Niño event, an unusually persistent Madden–Julian oscillation in phases 4 and 5, and the presence of a dipole SST anomaly in the central southern Atlantic Ocean. The simultaneous use of seasonal and subseasonal heavy rainfall predictions could have provided decision-makers with useful information about the start of these flooding events from two to four weeks in advance. Probabilistic seasonal forecasts available at the beginning of November successfully indicated heightened probability of heavy rainfall (90th percentile) over southern Paraguay and Brazil for December–February. Raw subseasonal forecasts of heavy rainfall exhibited limited skill at lead times beyond the first two predicted weeks, but a model output statistics approach involving principal component regression substantially improved the spatial distribution of skill for week 3 relative to other methods tested, including extended logistic regressions. A continuous monitoring of climate drivers impacting rainfall in the region, and the use of statistically corrected heavy precipitation seasonal and subseasonal forecasts, may help improve flood preparedness in this and other regions.}
-      \field{day}{1}
+      \field{day}{9}
       \field{journaltitle}{Journal of Climate}
-      \field{month}{9}
+      \field{month}{1}
       \field{number}{17}
       \field{title}{Heavy Rainfall in {{Paraguay}} during the 2015-2016 Austral Summer: Causes and Sub-Seasonal-to-Seasonal Predictive Skill}
       \field{volume}{31}
@@ -2368,7 +2425,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{31}
+      \field{extraname}{32}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2430,7 +2487,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{32}
+      \field{extraname}{33}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2511,7 +2568,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{33}
+      \field{extraname}{34}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -2571,7 +2628,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{34}
+      \field{extraname}{35}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
