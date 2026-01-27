@@ -1,11 +1,14 @@
-# Automatically create a PR when my-cv-data submodule is updated
-# Triggered via repository_dispatch from the my-cv-data repo
+# Automatically create a PR when submodules are updated
+# Triggered via repository_dispatch or on a schedule to pick up my-papers changes
 
 name: submodule-update-pr
 
 on:
   repository_dispatch:
     types: [submodule-update]
+  schedule:
+    - cron: '0 6 * * 1' # Weekly on Monday at 6am UTC
+  workflow_dispatch:
 
 jobs:
   create-pr:
@@ -28,12 +31,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          BRANCH_NAME="update-cv-data-$(date +%Y%m%d-%H%M%S)"
+          BRANCH_NAME="update-submodules-$(date +%Y%m%d-%H%M%S)"
           git checkout -b $BRANCH_NAME
 
-          # Update the submodules
-          git submodule update --init --recursive my-cv-data
+          # Update all submodules
+          git submodule update --init --recursive
           git submodule update --remote my-cv-data
+          git submodule update --remote my-papers
 
           # Check if there are changes
           if git diff --quiet --submodule; then
@@ -42,18 +46,18 @@ jobs:
           fi
 
           # Commit and push
-          git add my-cv-data
-          git commit -m "Update my-cv-data submodule
+          git add my-cv-data my-papers
+          git commit -m "Update submodules
 
-          Triggered by: ${{ github.event.client_payload.ref }}"
+          Triggered by: ${{ github.event.client_payload.ref || github.event_name }}"
           git push origin $BRANCH_NAME
 
           # Create PR
           gh pr create \
-            --title "Update CV data submodule" \
-            --body "Automated PR to update the my-cv-data submodule.
+            --title "Update submodules" \
+            --body "Automated PR to update submodules (my-cv-data, my-papers).
 
-          Triggered by commit: \`${{ github.event.client_payload.ref }}\`
+          Triggered by: \`${{ github.event.client_payload.ref || github.event_name }}\`
 
           **Please review and merge if tests pass.**" \
             --base main \
