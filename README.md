@@ -17,12 +17,8 @@ CV content lives in structured YAML files covering education, grants, publicatio
 ## Quick Start
 
 ```bash
-# Setup environment
-conda env create -f environment.yml
-conda activate cv
-
-# Generate CV
-python generate_cv.py
+# Generate CV (uv installs dependencies automatically)
+uv run python generate_cv.py
 ```
 
 The system uses two submodules:

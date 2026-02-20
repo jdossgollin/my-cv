@@ -37,18 +37,20 @@ CV data is organized into YAML files in the `my-cv-data/` submodule:
 
 ```bash
 # Generate all CV templates (TeX files)
-python generate_cv.py
+uv run python generate_cv.py
 
 # Generate grants Excel file
-python grants_to_excel.py
+uv run python grants_to_excel.py
+
+# Run tests
+uv run pytest
 ```
 
 ### Environment Setup
 
 ```bash
-# Create conda environment (requires Python >=3.12)
-conda env create -f environment.yml
-conda activate cv
+# Install dependencies (requires Python >=3.12, managed by uv via pyproject.toml)
+uv sync
 ```
 
 ### PDF Compilation
@@ -90,7 +92,7 @@ git submodule update --remote my-cv-data
 - Updates both submodules before building (uses token authentication for private submodule)
 - Commits generated files back to repository
 - Uses XeLaTeX for PDF compilation with bibtex processing
-- Runs on Python 3.12 to match environment.yml requirements
+- Uses `uv` for Python dependency management (via `astral-sh/setup-uv` action)
 
 ### File Organization
 

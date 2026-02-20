@@ -1,3 +1,21 @@
+[project]
+name = "my-cv"
+version = "0.1.0"
+description = "Academic CV generation from YAML data and LaTeX templates"
+requires-python = ">=3.12"
+dependencies = [
+    "jinja2",
+    "pyyaml>=5.1",
+    "pandas",
+    "openpyxl",
+]
+
+[dependency-groups]
+dev = [
+    "mypy",
+    "pytest",
+]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py"]
