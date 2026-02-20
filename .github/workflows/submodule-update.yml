@@ -52,13 +52,12 @@ jobs:
           Triggered by: ${{ github.event.client_payload.ref || github.event_name }}"
           git push origin $BRANCH_NAME
 
-          # Create PR
+          # Create PR and enable auto-merge
           gh pr create \
             --title "Update submodules" \
             --body "Automated PR to update submodules (my-cv-data, my-papers).
 
-          Triggered by: \`${{ github.event.client_payload.ref || github.event_name }}\`
-
-          **Please review and merge if tests pass.**" \
+          Triggered by: \`${{ github.event.client_payload.ref || github.event_name }}\`" \
             --base main \
             --head $BRANCH_NAME
+          gh pr merge $BRANCH_NAME --auto --squash
