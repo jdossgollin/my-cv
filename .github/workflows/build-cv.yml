@@ -12,9 +12,6 @@ jobs:
   # Run tests first
   test:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash -el {0}
 
     steps:
       - name: Checkout
@@ -31,24 +28,16 @@ jobs:
           git config --global url."https://${{ secrets.PAT_TOKEN }}@github.com/".insteadOf "https://github.com/"
           git submodule update --init --recursive my-cv-data
 
-      - name: Set up Conda Environment
-        uses: conda-incubator/setup-miniconda@v2
-        with:
-          activate-environment: cv
-          environment-file: environment.yml
-          python-version: "3.12"
-          auto-activate-base: false
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
 
       - name: Run Tests
-        run: pytest tests/ -v --tb=short
+        run: uv run pytest tests/ -v --tb=short
 
   # Build PDF only after tests pass
   build:
     needs: test
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash -el {0}
 
     steps:
       - name: Checkout
@@ -62,15 +51,10 @@ jobs:
         run: |
           git config --global url."https://${{ secrets.PAT_TOKEN }}@github.com/".insteadOf "https://github.com/"
           git submodule update --init --recursive my-cv-data
-      - name: Set up Conda Environment
-        uses: conda-incubator/setup-miniconda@v2
-        with:
-          activate-environment: cv
-          environment-file: environment.yml
-          python-version: 3.12
-          auto-activate-base: false
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
       - name: Generate Templates
-        run: python generate_cv.py
+        run: uv run python generate_cv.py
       - name: Build CV PDF
         uses: xu-cheng/latex-action@v2
         with:
