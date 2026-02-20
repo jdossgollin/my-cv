@@ -270,180 +270,6 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{pollack_transparency:2024}{online}{}{}
-      \name{author}{25}{}{%
-        {{hash=220898e235d936971bd0ff08da56214f}{%
-           family={Pollack},
-           familyi={P\bibinitperiod},
-           given={Adam},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b9f06b435a3d29c5bf64c6fca4a13091}{%
-           family={Auermuller},
-           familyi={A\bibinitperiod},
-           given={Lisa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=ba6613b7ac7bccc5c5a0400d85c7f1a1}{%
-           family={Burleyson},
-           familyi={B\bibinitperiod},
-           given={Casey},
-           giveni={C\bibinitperiod}}}%
-        {{hash=1c79b77f6b2831776a5503d0ca166c95}{%
-           family={Campbell},
-           familyi={C\bibinitperiod},
-           given={Jentry\bibnamedelima E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=6f4990716943a3df41ed58e896d9e585}{%
-           family={Condon},
-           familyi={C\bibinitperiod},
-           given={Madison},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f175caad031fc4e9809e20d7dd7ab3da}{%
-           family={Cooper},
-           familyi={C\bibinitperiod},
-           given={Courtney},
-           giveni={C\bibinitperiod}}}%
-        {{hash=f13acd8ddec9d4750740778a62cfd6d7}{%
-           family={Coronese},
-           familyi={C\bibinitperiod},
-           given={Matteo},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b58d8081ee927a050b2e83c6267e4063}{%
-           family={Dangendorf},
-           familyi={D\bibinitperiod},
-           given={Sonke},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=321410b6efb4bf00df8793e96891be38}{%
-           family={Hegde},
-           familyi={H\bibinitperiod},
-           given={Prabhat},
-           giveni={P\bibinitperiod}}}%
-        {{hash=a9a0d29f93109f86f57d4db0779ac19e}{%
-           family={Helgeson},
-           familyi={H\bibinitperiod},
-           given={Casey},
-           giveni={C\bibinitperiod}}}%
-        {{hash=e618b134dbff3bba80ddd9fabd643839}{%
-           family={Kopp},
-           familyi={K\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=415bbcc0ac944970ba54c526975ddff1}{%
-           family={Kwakkel},
-           familyi={K\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=5c830f0763d3fc2a9ab8f1a0b20634b1}{%
-           family={Leaf},
-           familyi={L\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-        {{hash=4cc1f66ee691482a4a1ec33aff8376b2}{%
-           family={Lesk},
-           familyi={L\bibinitperiod},
-           given={Corey},
-           giveni={C\bibinitperiod}}}%
-        {{hash=c12fb9cd2be47545fb55005bc39c6531}{%
-           family={Mankin},
-           familyi={M\bibinitperiod},
-           given={Justin},
-           giveni={J\bibinitperiod}}}%
-        {{hash=278f22b8051f777378f6fcdeb52989b3}{%
-           family={Nicholas},
-           familyi={N\bibinitperiod},
-           given={Robert\bibnamedelima E.},
-           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=15839287f75a1e29e669c559da8d162b}{%
-           family={Rice},
-           familyi={R\bibinitperiod},
-           given={Jennie\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=174cae4b3957e665199f824abd5d009f}{%
-           family={Roth},
-           familyi={R\bibinitperiod},
-           given={Samantha},
-           giveni={S\bibinitperiod}}}%
-        {{hash=72b27775993b308b42fca80887146834}{%
-           family={Scheeler},
-           familyi={S\bibinitperiod},
-           given={Moira},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a7ffc40b21d99097582a6f031e589d5a}{%
-           family={Srikrishnan},
-           familyi={S\bibinitperiod},
-           given={Vivek},
-           giveni={V\bibinitperiod}}}%
-        {{hash=937cda767286e1a246ba937c0ab549bc}{%
-           family={Tuana},
-           familyi={T\bibinitperiod},
-           given={Nancy},
-           giveni={N\bibinitperiod}}}%
-        {{hash=1588423e01f321aa3afce4f618767cab}{%
-           family={Vernon},
-           familyi={V\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod}}}%
-        {{hash=a85e174e4aaf244feae210f4968598cc}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Mengqi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c45f608956ad506806dd1818ed1227d5}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Klaus},
-           giveni={K\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{0e8669527b9273cb702bade8020082bb}
-      \strng{fullhashraw}{0e8669527b9273cb702bade8020082bb}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{0e8669527b9273cb702bade8020082bb}
-      \strng{authornamehash}{0e8669527b9273cb702bade8020082bb}
-      \strng{authorfullhash}{0e8669527b9273cb702bade8020082bb}
-      \strng{authorfullhashraw}{0e8669527b9273cb702bade8020082bb}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Research that is salient, credible, legitimate, and timely can support climate-risk management goals around the world. Materials that are open and Findable, Accessible, Interoperable, Reusable (FAIR) help facilitate credibility and legitimacy, and allow for timely reuse of salient resources in new contexts. For example, the US Environmental Protection Agency’s (EPA) regulatory impact analyses rely on open and FAIR socioeconomic, climate, and damage models. This approach enhances usability because it enables a broad community of end-users to improve the methods’ fit-for-use in a variety of contexts. In contrast, the booming climate services industry often produces salient and timely materials that are widely used but typically rely on closed models that do not facilitate building credible and legitimate knowledge. This approach risks misguiding decisions with broad-reaching consequences, such as where households choose to live, which mortgages financers securitize, and potentially which policies are adopted by US financial regulators. Unfortunately, too many climate-risk studies are neither open nor FAIR. For example, we demonstrate that only four percent of the most-cited peer-reviewed climate-risk studies in recent years fully share their data and code, a widely stated minimum standard for openness in the scientific community. We highlight strategies that researchers can take to facilitate faster progress in climate science, advance equitable access to usable climate-risk information, and improve climate-risk management. For the benefits of these strategies to outweigh their costs, it is crucial that research institutions and funders lead the way with substantial investments in necessary resources and infrastructure.}
-      \field{day}{31}
-      \field{eprinttype}{OSF}
-      \field{month}{10}
-      \field{pubstate}{prepublished}
-      \field{sortyear}{2222}
-      \field{title}{Unlocking the Benefits of Transparent and Reusable Science for Climate-Risk Management}
-      \field{urlday}{31}
-      \field{urlmonth}{10}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.31219/osf.io/29nhv
-      \endverb
-      \verb{urlraw}
-      \verb https://osf.io/29nhv
-      \endverb
-      \verb{url}
-      \verb https://osf.io/29nhv
-      \endverb
-    \endentry
     \entry{pollack_unrefined:2025}{online}{}{}
       \name{author}{13}{}{%
         {{hash=220898e235d936971bd0ff08da56214f}{%
@@ -532,7 +358,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -564,6 +390,180 @@
       \endverb
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5575271
+      \endverb
+    \endentry
+    \entry{pollack_transparency:2026}{article}{}{}
+      \name{author}{24}{}{%
+        {{hash=653cf3c472c303368f6d482e1b34c73d}{%
+           family={Pollack},
+           familyi={P\bibinitperiod},
+           given={Adam\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b9f06b435a3d29c5bf64c6fca4a13091}{%
+           family={Auermuller},
+           familyi={A\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e73824a23ed1f65492feea1aabc0d640}{%
+           family={Burleyson},
+           familyi={B\bibinitperiod},
+           given={Casey\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0716e7150e0afdc2ea15cc7d976b22b4}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Jentry},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6f4990716943a3df41ed58e896d9e585}{%
+           family={Condon},
+           familyi={C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f175caad031fc4e9809e20d7dd7ab3da}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f13acd8ddec9d4750740778a62cfd6d7}{%
+           family={Coronese},
+           familyi={C\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=260aaabc63b0ef15dd62ee45678336c2}{%
+           family={Dangendorf},
+           familyi={D\bibinitperiod},
+           given={Sönke},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=321410b6efb4bf00df8793e96891be38}{%
+           family={Hegde},
+           familyi={H\bibinitperiod},
+           given={Prabhat},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a9a0d29f93109f86f57d4db0779ac19e}{%
+           family={Helgeson},
+           familyi={H\bibinitperiod},
+           given={Casey},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4391c3436abcd53bbd7c83a3a5021ceb}{%
+           family={Kopp},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=415bbcc0ac944970ba54c526975ddff1}{%
+           family={Kwakkel},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4cc1f66ee691482a4a1ec33aff8376b2}{%
+           family={Lesk},
+           familyi={L\bibinitperiod},
+           given={Corey},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c12fb9cd2be47545fb55005bc39c6531}{%
+           family={Mankin},
+           familyi={M\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=278f22b8051f777378f6fcdeb52989b3}{%
+           family={Nicholas},
+           familyi={N\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9c5a630d294637ec7b148a1095f20303}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Jennie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=174cae4b3957e665199f824abd5d009f}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a7ffc40b21d99097582a6f031e589d5a}{%
+           family={Srikrishnan},
+           familyi={S\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+        {{hash=72b27775993b308b42fca80887146834}{%
+           family={Scheeler},
+           familyi={S\bibinitperiod},
+           given={Moira},
+           giveni={M\bibinitperiod}}}%
+        {{hash=937cda767286e1a246ba937c0ab549bc}{%
+           family={Tuana},
+           familyi={T\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1588423e01f321aa3afce4f618767cab}{%
+           family={Vernon},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a85e174e4aaf244feae210f4968598cc}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Mengqi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c45f608956ad506806dd1818ed1227d5}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{87b1cfa99a69a9dbb3c9574d2d1ebc9c}
+      \strng{fullhashraw}{87b1cfa99a69a9dbb3c9574d2d1ebc9c}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{87b1cfa99a69a9dbb3c9574d2d1ebc9c}
+      \strng{authornamehash}{87b1cfa99a69a9dbb3c9574d2d1ebc9c}
+      \strng{authorfullhash}{87b1cfa99a69a9dbb3c9574d2d1ebc9c}
+      \strng{authorfullhashraw}{87b1cfa99a69a9dbb3c9574d2d1ebc9c}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{People around the world seek climate risk information to guide their decisions. For instance, projections about future flood risk inform where households choose to live, how lenders manage credit risks, and which communities receive federal funding. Yet data limitations and fundamental validation challenges raise important concerns about the reliability of such projections. The principles of transparency and reusability help address these concerns by enabling scrutiny of assumptions and methods, development of foundational data and tools, and consistent application of evaluation standards. While there is ongoing debate about how much transparency commercial climate risk services should provide, many expect noncommercial actors to lead the way on operationalizing transparency and reusability to fulfill their knowledge-building role in the climate risk ecosystem. However, despite prominent success stories, we find a substantial gap between principles and practice: Only four percent of the most-cited peer-reviewed climate risk studies in recent years fully share their data and code although this is a widely accepted minimum standard for transparency. We highlight low-cost measures that noncommercial researchers can take now to improve transparency and reusability. We also emphasize that transformative progress requires substantial investment, cross-sector collaboration, and careful consideration of tradeoffs, data rights, and multiple perspectives on equity. We hope this perspective accelerates both immediate actions and longer-term conversations to improve the ability of science to effectively support timely, evidence-based, and sound climate risk management.}
+      \field{day}{20}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{1}
+      \field{number}{3}
+      \field{title}{Unlocking the Benefits of Transparent and Reusable Science for Climate Risk Management}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{123}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{e2422157123}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.2422157123
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/10.1073/pnas.2422157123
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/10.1073/pnas.2422157123
       \endverb
     \endentry
     \entry{haider_mrb:2025}{article}{}{}
@@ -1982,7 +1982,7 @@
         {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
            family={Farnham},
            familyi={F\bibinitperiod},
-           given={David\bibnamedelima J.},
+           given={David\bibnamedelima J},
            giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=d8987e53f709ebc80726bd51f22a0860}{%
            family={Lall},
@@ -1999,6 +1999,9 @@
         {{hash=b59c67bf196a4758191e42f76670ceba}{%
            family={1111},
            familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{fullhash}{309266f61f71d804066f0f0dada41395}
@@ -2017,28 +2020,31 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Winter storm Uri brought severe cold to the southern United States in February 2021, causing a cascading failure of interdependent systems in Texas where infrastructure was not adequately prepared for such cold. In particular, the failure of interconnected energy systems restricted electricity supply just as demand for heating spiked, leaving millions of Texans without heat or electricity, many for several days. This motivates the question: did historical storms suggest that such temperatures were known to occur, and if so with what frequency? We compute a temperature-based proxy for heating demand and use this metric to answer the question “what would the aggregate demand for heating have been had historic cold snaps occurred with today’s population?”. We find that local temperatures and the inferred demand for heating per capita across the region served by the Texas Interconnection were more severe during a storm in December 1989 than during February 2021, and that cold snaps in 1951 and 1983 were nearly as severe. Given anticipated population growth, future storms may lead to even greater infrastructure failures if adaptive investments are not made. Further, electricity system managers should prepare for trends in electrification of heating to drive peak annual loads on the Texas Interconnection during severe winter storms.}
-      \field{day}{8}
+      \field{abstract}{Winter storm Uri brought severe cold to the southern United States in February 2021, causing a cascading failure of interdependent systems in Texas where infrastructure was not adequately prepared for such cold. In particular, the failure of interconnected energy systems restricted electricity supply just as demand for heating spiked, leaving millions of Texans without heat or electricity, many for several days. This motivates the question: did historical storms suggest that such temperatures were known to occur, and if so with what frequency? We compute a temperature-based proxy for heating demand and use this metric to answer the question ‘what would the aggregate demand for heating have been had historic cold snaps occurred with today’s population?’. We find that local temperatures and the inferred demand for heating per capita across the region served by the Texas Interconnection were more severe during a storm in December 1989 than during February 2021, and that cold snaps in 1951 and 1983 were nearly as severe. Given anticipated population growth, future storms may lead to even greater infrastructure failures if adaptive investments are not made. Further, electricity system managers should prepare for trends in electrification of heating to drive peak annual loads on the Texas Interconnection during severe winter storms.}
       \field{issn}{1748-9326}
       \field{journaltitle}{Environmental Research Letters}
       \field{month}{6}
+      \field{number}{6}
       \field{shortjournal}{Environ. Res. Lett.}
       \field{title}{How Unprecedented Was the {{February}} 2021 {{Texas}} Cold Snap?}
-      \field{urlday}{18}
-      \field{urlmonth}{5}
-      \field{urlyear}{2021}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{16}
       \field{year}{2021}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{064056}
+      \range{pages}{1}
       \verb{doi}
       \verb 10.1088/1748-9326/ac0278
       \endverb
       \verb{urlraw}
-      \verb e
+      \verb https://doi.org/10.1088/1748-9326/ac0278
       \endverb
       \verb{url}
-      \verb e
+      \verb https://doi.org/10.1088/1748-9326/ac0278
       \endverb
     \endentry
     \entry{doss-gollin_dissertation:2020}{thesis}{}{}
