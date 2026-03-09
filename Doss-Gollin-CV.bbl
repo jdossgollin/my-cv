@@ -19,22 +19,22 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{baer_designstorm:2024}{online}{}{}
-      \name{author}{6}{}{%
-        {{hash=9c203d674dc90da96356b7d6ae272405}{%
+    \entry{baer_designstorm:2026}{online}{}{}
+      \name{author}{7}{}{%
+        {{hash=2f69a9dde8ed6b302548c30b360a6146}{%
            family={Baer},
            familyi={B\bibinitperiod},
-           given={Jack},
-           giveni={J\bibinitperiod}}}%
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=33318887caccff5960bf07eb2dd998a1}{%
            family={Sebastian},
            familyi={S\bibinitperiod},
            given={Antonia},
            giveni={A\bibinitperiod}}}%
-        {{hash=d77bb585a39fbc92930c18f04fa1112d}{%
+        {{hash=a247ee4fff46826055405e1afe9e2ad0}{%
            family={Grimley},
            familyi={G\bibinitperiod},
-           given={Lauren\bibnamedelima Elise},
+           given={Lauren\bibnamedelima E.},
            giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
@@ -51,6 +51,11 @@
            familyi={H\bibinitperiod},
            given={Mohammad\bibnamedelima Ashar},
            giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e648d644902cb5ed6afa131bb64837df}{%
+           family={Webber},
+           familyi={W\bibinitperiod},
+           given={Marissa},
+           giveni={M\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
         {{hash=b59c67bf196a4758191e42f76670ceba}{%
@@ -58,13 +63,13 @@
            familyi={1\bibinitperiod}}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{87f6c90cf896742b0e05fcf0d6cd6cb2}
-      \strng{fullhashraw}{87f6c90cf896742b0e05fcf0d6cd6cb2}
+      \strng{fullhash}{1bd6047a7b4e5b92889768fb0c0a462f}
+      \strng{fullhashraw}{1bd6047a7b4e5b92889768fb0c0a462f}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{87f6c90cf896742b0e05fcf0d6cd6cb2}
-      \strng{authornamehash}{87f6c90cf896742b0e05fcf0d6cd6cb2}
-      \strng{authorfullhash}{87f6c90cf896742b0e05fcf0d6cd6cb2}
-      \strng{authorfullhashraw}{87f6c90cf896742b0e05fcf0d6cd6cb2}
+      \strng{authorbibnamehash}{1bd6047a7b4e5b92889768fb0c0a462f}
+      \strng{authornamehash}{1bd6047a7b4e5b92889768fb0c0a462f}
+      \strng{authorfullhash}{1bd6047a7b4e5b92889768fb0c0a462f}
+      \strng{authorfullhashraw}{1bd6047a7b4e5b92889768fb0c0a462f}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
@@ -74,17 +79,32 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{abstract}{Flood hazard maps are essential to floodplain management and resiliency efforts...}
-      \field{day}{12}
-      \field{month}{12}
+      \field{abstract}{Flood risk assessments underpin flood management and resilience efforts worldwide, including land-use planning, infrastructure design, and insurance requirements. Many of these assessments rely on design storms, which assume a linear relationship between the frequency of storms, flooding, and damage and neglect the spatial and temporal structure of rainfall. Here, we show that these assumptions can lead to systematic underestimates of flood hazard and risk. Using a coastal watershed in North Carolina, we compare design storm-based estimates with those from stochastic storm transposition, a probabilistic framework used to generate synthetic events with realistic rainfall fields. Though both methods produce similar basin-averaged rainfall statistics, design storms underestimate flood inundation frequency by 31 to 35\% and expected 50-year damage by 42\% relative to SST. These results reveal how nonlinear storm-flood-damage relationships amplify risk from smaller, more frequent storms and illustrate that accounting for spatiotemporal rainfall variability is crucial to risk assessment.}
+      \field{day}{23}
+      \field{eprinttype}{Research Square}
+      \field{issn}{2693-5015}
+      \field{month}{1}
       \field{pubstate}{prepublished}
       \field{sortyear}{2222}
-      \field{title}{Neglecting {{Spatiotemporal Rainfall Variability Underestimates Flood Hazard}} and {{Risk}}}
-      \field{year}{2024}
+      \field{title}{Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk}
+      \field{urlday}{29}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2026}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
+      \verb{doi}
+      \verb 10.21203/rs.3.rs-8593870/v1
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchsquare.com/article/rs-8593870/v1
+      \endverb
+      \verb{url}
+      \verb https://www.researchsquare.com/article/rs-8593870/v1
+      \endverb
     \endentry
-    \entry{hancock_cmip6:2025}{online}{}{}
+    \entry{hancock_robust21stcenturyhydrologicaltrendsinthemississippiriverbasinfromcmip6:2025}{online}{}{}
       \name{author}{7}{}{%
         {{hash=468ff61aba8351bf7b5fedc60b313294}{%
            family={Hancock},
@@ -146,7 +166,7 @@
       \field{labeltitlesource}{title}
       \field{pubstate}{prepublished}
       \field{sortyear}{2222}
-      \field{title}{Robust 21st Century Hydrological Trends in the {{Mississippi River}} Basin from {{CMIP6}}: West-Gets-Drier, East-Gets-Wetter}
+      \field{title}{Robust 21st Century Hydrological Trends in the Mississippi River Basin from {{CMIP6}}: West-Gets-Drier, East-Gets-Wetter}
       \field{year}{2025}
       \field{dateera}{ce}
       \true{nocite}
@@ -211,12 +231,12 @@
       \field{labeltitlesource}{title}
       \field{pubstate}{prepublished}
       \field{sortyear}{2222}
-      \field{title}{Bermuda {{High}} and {{Great Plains Low-Level Jet Drive Interannual Changes}} in {{Mississippi River Basin Hydroclimate}} from {{Last Millennium}} to 2100}
+      \field{title}{Bermuda High and Great Plains Low-Level Jet Drive Interannual Changes in Mississippi River Basin Hydroclimate from Last Millennium to 2100}
       \field{year}{2025}
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{odonnell_whiplash:2025}{online}{}{}
+    \entry{odonnell_hydrologicwhiplashinthemississippiriverbasin:2025}{online}{}{}
       \name{author}{4}{}{%
         {{hash=8be983494ada6d898984f91e65bdc7dc}{%
            family={O'Donnell},
@@ -265,7 +285,7 @@
       \field{month}{10}
       \field{pubstate}{prepublished}
       \field{sortyear}{2222}
-      \field{title}{Hydrologic {{Whiplash}} in the {{Mississippi River Basin}}: {{Mechanisms}} and {{Projections}}}
+      \field{title}{Hydrologic Whiplash in the Mississippi River Basin: Mechanisms and Projections}
       \field{year}{2025}
       \field{dateera}{ce}
       \true{nocite}
@@ -545,6 +565,7 @@
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
       \field{month}{1}
       \field{number}{3}
+      \field{shortjournal}{Proc. Natl. Acad. Sci.}
       \field{title}{Unlocking the Benefits of Transparent and Reusable Science for Climate Risk Management}
       \field{urlday}{14}
       \field{urlmonth}{1}
@@ -621,8 +642,8 @@
       \field{issn}{0921-8181}
       \field{journaltitle}{Global and Planetary Change}
       \field{month}{6}
-      \field{shortjournal}{Global and Planetary Change}
-      \field{title}{Impact of 21st Century Climate Change on {{Mississippi River Basin}} Discharge in {{CESM2}} Large Ensemble Projections}
+      \field{shortjournal}{Global Planet. Change}
+      \field{title}{Impact of 21st Century Climate Change on Mississippi River Basin Discharge in {{CESM2}} Large Ensemble Projections}
       \field{urlday}{1}
       \field{urlmonth}{5}
       \field{urlyear}{2025}
@@ -691,9 +712,9 @@
       \field{abstract}{Functional data analysis, which models data as realizations of random functions over a continuum, has emerged as a useful tool for time series data. Often, the goal is to infer the dynamic connections (or time-varying conditional dependencies) among multiple functions or time series. For this task, a dynamic and Bayesian functional graphical model is introduced. The proposed modeling approach prioritizes the careful definition of an appropriate graph to identify both time-invariant and time-varying connectivity patterns. A novel block-structured sparsity prior is paired with a finite basis expansion, which together yield effective shrinkage and graph selection with efficient computations via a Gibbs sampling algorithm. Crucially, the model includes (one or more) graph changepoints, which are learned jointly with all model parameters and incorporate graph dynamics. Simulation studies demonstrate excellent graph selection capabilities, with significant improvements over competing methods. The proposed approach is applied to study of dynamic connectivity patterns of sea surface temperatures in the Pacific Ocean and reveals meaningful edges.}
       \field{day}{1}
       \field{issn}{0167-9473}
-      \field{journaltitle}{Computational Statistics \& Data Analysis}
+      \field{journaltitle}{Computational Statistics and Data Analysis}
       \field{month}{6}
-      \field{shortjournal}{Computational Statistics \& Data Analysis}
+      \field{shortjournal}{Comput. Stat. Data Anal.}
       \field{title}{Bayesian Functional Graphical Models with Change-Point Detection}
       \field{urlday}{6}
       \field{urlmonth}{1}
@@ -768,7 +789,8 @@
       \field{abstract}{Understanding the risks posed by extreme rainfall events requires analysis of precipitation fields with high resolution (to assess localized hazards) and extensive historical coverage (to capture sufficient examples of rare occurrences). Radar and mesonet networks provide precipitation fields at 1 km resolution but with limited historical and geographical coverage, while gauge-based records and reanalysis products cover decades of time on a global scale, but only at 30–50 km resolution. To help provide high-resolution precipitation estimates over long time scales, this study presents Wasserstein Regularized Diffusion (WassDiff), a diffusion framework to downscale (super-resolve) precipitation fields from low-resolution gauge and reanalysis products. Crucially, unlike related deep generative models, WassDiff integrates a Wasserstein distribution-matching regularizer to the denoising process to reduce empirical biases at extreme intensities. Comprehensive evaluations demonstrate that WassDiff quantitatively outperforms existing state-of-the-art generative downscaling methods at recovering extreme weather phenomena such as tropical storms and cold fronts. Case studies further qualitatively demonstrate WassDiff’s ability to reproduce realistic fine-scale structures and accurate peak intensities of these phenomena. By unlocking decades of high-resolution rainfall information from globally available coarse records, WassDiff offers a practical pathway toward more accurate flood-risk assessments and climate-adaptation planning.}
       \field{issn}{1558-0644}
       \field{journaltitle}{IEEE Transactions on Geoscience and Remote Sensing}
-      \field{title}{Downscaling {{Extreme Precipitation}} with {{Wasserstein Regularized Diffusion}}}
+      \field{shortjournal}{IEEE Trans. Geosci. Remote Sens.}
+      \field{title}{Downscaling Extreme Precipitation with Wasserstein Regularized Diffusion}
       \field{urlday}{20}
       \field{urlmonth}{9}
       \field{urlyear}{2025}
@@ -836,8 +858,8 @@
       \field{journaltitle}{Environmental Research: Climate}
       \field{month}{8}
       \field{number}{3}
-      \field{shortjournal}{Environ. Res.: Climate}
-      \field{title}{Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the {{Western Gulf Coast}}}
+      \field{shortjournal}{Environ. Res.: Clim.}
+      \field{title}{Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the Western Gulf Coast}
       \field{urlday}{23}
       \field{urlmonth}{8}
       \field{urlyear}{2025}
@@ -917,7 +939,8 @@
       \field{journaltitle}{Hydrology and Earth System Sciences}
       \field{month}{9}
       \field{number}{18}
-      \field{title}{Evaluation of Hydroclimatic Biases in the {{Community Earth System Model}} ({{CESM1}}) within the {{Mississippi River}} Basin}
+      \field{shortjournal}{Hydrol. Earth Syst. Sci.}
+      \field{title}{Evaluation of Hydroclimatic Biases in the Community Earth System Model ({{CESM1}}) within the Mississippi River Basin}
       \field{urlday}{25}
       \field{urlmonth}{9}
       \field{urlyear}{2025}
@@ -989,7 +1012,8 @@
       \field{journaltitle}{Journal of Open Source Software}
       \field{month}{11}
       \field{number}{115}
-      \field{title}{{{UNSAFE}}: {{An UNcertain Structure And Fragility Ensemble}} Framework for Property-Level Flood Risk Estimation}
+      \field{shortjournal}{J. Open Source Software}
+      \field{title}{{{UNSAFE}}: An {{UNcertain}} Structure and Fragility Ensemble Framework for Property-Level Flood Risk Estimation}
       \field{urlday}{13}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
@@ -1059,6 +1083,7 @@
       \field{issn}{2634-4602}
       \field{journaltitle}{Environmental Data Science}
       \field{month}{1}
+      \field{shortjournal}{Environ. Data Sci.}
       \field{title}{{{FloodGNN-GRU}}: A Spatio-Temporal Graph Neural Network for Flood Prediction}
       \field{urlday}{13}
       \field{urlmonth}{11}
@@ -1191,12 +1216,13 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{The Mississippi River is a vital economic corridor used for generating hydroelectric power, transporting agricultural products, and municipal and industrial water use. Communities, industries, and infrastructure along the Mississippi River face an uncertain future as it grows more susceptible to climate extremes. A key challenge is determining whether Mississippi river discharge will increase or decrease during the 21st century. Because the 20th century record is limited in time, paleoclimate data and model simulations provide enhanced understanding of the basin's hydroclimate response to external forcing. Here, we investigate how anthropogenic forcing in the 20th century shifts the statistics of river discharge compared to a Last Millennium (LM) baseline using simulations from the Community Earth System Model Last Millennium Ensemble. We present evidence that the 20th century exhibits wetter conditions (i.e., increased river discharge) over the basin compared to the pre-industrial, and that land use/land cover changes have a significant control on the hydroclimatic response. Conversely, while precipitation is projected to increase in the 21st century, the basin is generally drier (i.e., decreased river discharge) compared to the 20th century. Overall, we find that changes in greenhouse gases contribute to a lower risk of extreme discharge and flooding in the basin during the 20th century, while land use changes contribute to increased risk of flooding. The additional climate information afforded by the LM simulations offers an improved understanding of what drove extreme flooding events in the past, which can help inform the development of future regional flood mitigation strategies.}
-      \field{day}{6}
+      \field{day}{11}
       \field{issn}{2572-4525}
       \field{journaltitle}{Paleoceanography and Paleoclimatology}
-      \field{month}{11}
+      \field{month}{6}
       \field{number}{7}
-      \field{title}{Competing {{Influences}} of {{Land Use}} and {{Greenhouse Gas Emissions}} on {{Mississippi River Basin Hydroclimate Simulated Over}} the {{Last Millennium}}}
+      \field{shortjournal}{Paleoceanogr. Paleoclimatol.}
+      \field{title}{Competing Influences of Land Use and Greenhouse Gas Emissions on Mississippi River Basin Hydroclimate Simulated over the Last Millennium}
       \field{urlday}{25}
       \field{urlmonth}{7}
       \field{urlyear}{2024}
@@ -1362,7 +1388,7 @@
       \field{journaltitle}{Communications Earth \& Environment}
       \field{month}{11}
       \field{number}{1}
-      \field{shortjournal}{Commun Earth Environ}
+      \field{shortjournal}{Commun. Earth Environ.}
       \field{title}{Differential Effects of Climate Change on Average and Peak Demand for Heating and Cooling across the Contiguous {{USA}}}
       \field{urlday}{1}
       \field{urlmonth}{11}
@@ -1384,7 +1410,7 @@
       \verb https://www.nature.com/articles/s43247-023-01048-1
       \endverb
     \endentry
-    \entry{amonkar_compound:2023}{article}{}{}
+    \entry{amonkar_compoundclimaterisk:2023}{article}{}{}
       \name{author}{3}{}{%
         {{hash=706c9d9c85efea757c7777aaf592419f}{%
            family={Amonkar},
@@ -1434,6 +1460,7 @@
       \field{journaltitle}{Hydrology}
       \field{month}{3}
       \field{number}{3}
+      \field{shortjournal}{Hydrology}
       \field{title}{Compound Climate Risk: Diagnosing Clustered Regional Flooding at Inter-Annual and Longer Time Scales}
       \field{urlday}{16}
       \field{urlmonth}{3}
@@ -1455,7 +1482,7 @@
       \verb https://www.mdpi.com/2306-5338/10/3/67
       \endverb
     \endentry
-    \entry{cohan_whitepaper:2023}{report}{}{}
+    \entry{cohan_revampingthetexaspowergrid:2023}{report}{}{}
       \name{author}{2}{}{%
         {{hash=015f74eb1e4039729e47ea086f639489}{%
            family={Cohan},
@@ -1497,9 +1524,9 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{How can Texas secure an affordable, sustainable, and reliable power supply for all its citizens? This report explores key insights from research conducted at Rice University.}
-      \field{day}{11}
-      \field{month}{10}
-      \field{title}{Revamping the {{Texas Power Grid}}: {{Insights}} from {{Rice University}}’s {{Electricity Research}}}
+      \field{day}{10}
+      \field{month}{11}
+      \field{title}{Revamping the Texas Power Grid: Insights from Rice University’s Electricity Research}
       \field{urlday}{10}
       \field{urlmonth}{4}
       \field{urlyear}{2024}
@@ -1514,7 +1541,7 @@
       \verb https://doi.org/10.25613/5FJJ-T074
       \endverb
     \endentry
-    \entry{doss-gollin_review:2023}{article}{}{}
+    \entry{doss-gollin_improvingtherepresentationofclimaterisksinlong-termelectricitysystemsplanning:2023}{article}{}{}
       \name{author}{4}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
@@ -1564,7 +1591,7 @@
       \field{issn}{2196-3010}
       \field{journaltitle}{Current Sustainable/Renewable Energy Reports}
       \field{month}{8}
-      \field{shortjournal}{Curr Sustainable Renewable Energy Rep}
+      \field{shortjournal}{Curr. Sustainable/Renewable Energy Rep.}
       \field{title}{Improving the Representation of Climate Risks in Long-Term Electricity Systems Planning: A Critical Review}
       \field{urlday}{16}
       \field{urlmonth}{8}
@@ -1623,7 +1650,8 @@
       \field{journaltitle}{Earth's Future}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{A Subjective {{Bayesian}} Framework for Synthesizing Deep Uncertainties in Climate Risk Management}
+      \field{shortjournal}{Earth's Future}
+      \field{title}{A Subjective Bayesian Framework for Synthesizing Deep Uncertainties in Climate Risk Management}
       \field{urlday}{31}
       \field{urlmonth}{12}
       \field{urlyear}{2022}
@@ -1696,6 +1724,7 @@
       \field{journaltitle}{Engineering Applications of Computational Fluid Mechanics}
       \field{month}{3}
       \field{number}{1}
+      \field{shortjournal}{Eng. Appl. Comput. Fluid Mech.}
       \field{title}{Leveraging Mesh Modularization to Lower the Computational Cost of Localized Updates to Regional {{2D}} Hydrodynamic Model Outputs}
       \field{urlday}{24}
       \field{urlmonth}{7}
@@ -1802,12 +1831,11 @@
       \field{issn}{2049-1948}
       \field{journaltitle}{WIREs Water}
       \field{month}{7}
-      \field{number}{n/a}
-      \field{title}{{{MAD}} Water: {{Integrating}} Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era}
+      \field{shortjournal}{WIREs Water}
+      \field{title}{{{MAD}} Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era}
       \field{urlday}{12}
       \field{urlmonth}{7}
       \field{urlyear}{2023}
-      \field{volume}{n/a}
       \field{year}{2023}
       \field{dateera}{ce}
       \field{urldateera}{ce}
@@ -1885,6 +1913,7 @@
       \field{journaltitle}{Water Resources Research}
       \field{month}{4}
       \field{number}{5}
+      \field{shortjournal}{Water Resour. Res.}
       \field{title}{Mesoscale Modeling of Distributed Water Systems Enables Policy Search}
       \field{urlday}{2}
       \field{urlmonth}{5}
@@ -1957,7 +1986,7 @@
       \field{day}{9}
       \field{eventtitle}{{{NeurIPS}} 2022 {{Workshop}} on {{Tackling Climate Change}} with {{Machine Learning}}}
       \field{month}{12}
-      \field{title}{Flood {{Prediction}} with {{Graph Neural Networks}}}
+      \field{title}{Flood Prediction with Graph Neural Networks}
       \field{urlday}{10}
       \field{urlmonth}{1}
       \field{urlyear}{2023}
@@ -2026,7 +2055,7 @@
       \field{month}{6}
       \field{number}{6}
       \field{shortjournal}{Environ. Res. Lett.}
-      \field{title}{How Unprecedented Was the {{February}} 2021 {{Texas}} Cold Snap?}
+      \field{title}{How Unprecedented Was the {{February}} 2021 Texas Cold Snap?}
       \field{urlday}{17}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -2081,7 +2110,7 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{Infrastructure systems around the world face immediate crises and smoldering long-term challenges. Consequently, system owners and managers must balance the need to repair and replace the aging and deteriorating systems already in place against the need for transformative investments in deep decarbonization, climate adaptation, and transportation that will enable long-term competitiveness. Complicating these decisions are deep uncertainties, finite resources, and competing objectives. These challenges motivate the integration of “hard” investments in physical infrastructure with “soft” instruments like insurance, land use policy, and ecosystem restoration that can improve service, shrink costs, scale up or down as future needs require, and reduce vulnerability to population loss and economic contraction. A critical advantage of soft instruments is that they enable planners to adjust, expand, or reduce them at regular intervals, unlike hard instruments which are difficult to modify once in place. As a result, soft instruments can be precisely tailored to meet near-term needs and conditions, including projections of the quasi-oscillatory, regime-like climate processes that dominate seasonal to decadal hydro-climate variability, thereby reducing the need to guess the needs and hazards of the distant future. The objective of this dissertation is to demonstrate how potentially predictable modes of structured climate variability can inform the design of soft instruments and the formulation of adaptive infrastructure system plans. Using climate information for sequential adaptation requires developing credible projections of climate variables at relevant time scales. PartI considers the drivers of river floods in large river basins, which is used throughout this dissertation as an example of a high-impact hydroclimate extreme. First, chapter 2 opens by exploring the strengths and limitations of existing methodologies, and by developing a statistical-dynamical causal chain framework within which to consider flood risk on interannual to secular time scales. Next, chapter 3 describes the physical mechanisms responsible for heavy rainfall (90th percentile exceedance)and flooding in the Lower Paraguay River Basin (LPRB), focusing on a November-February(NDJF) 2015-16 flood event that displaced over 170 000 people. This chapter shows that: 1. persistent large-scale conditions over the South American continent during NDJF 2015-16 strengthened the South American Low-Level Jet (SALLJ), bringing warm air and moisture to South East South America (SESA), and steered the jet towards the LPRB, leading to repeated heavy rainfall events and large-scale flooding; 2. while the observed El Niño event contributed to a stronger SALLJ, the Madden-JulienOscillation (MJO) and Atlantic ocean steered the jet over the LPRB; and 3. while numerical sub-seasonal to seasonal (S2S) and seasonal models projected an elevated risk of flooding consistent with the observed El Niño event, they had limited skill at lead times greater than two weeks, suggesting that improved representation of MJO and Atlantic teleconnections could improve regional forecast skill. Finally, chapter 4 shows how mechanistic understanding of the physical causal chain that leads to a particular hazard of interest – in this case heavy rainfall over a large area in the Ohio River Basin (ORB) – can inform future risks. Taking the GFDL coupled model, version 3 (CM3) as a representative general circulation model (GCM), this chapter shows that 1. the GCM simulates too many regional extreme precipitation (REP) events but under-simulates the occurrence of back to back REP days; 2. REP days show consistent large-scale climate anomalies leading up to the event; 3. indices describing these large-scale anomalies are well simulated by the GCM; and 4. a statistical model describing this causal chain and exploiting simulated large-scale in-dices from the GCM can be used to inform the future occurrence of REP days. Even the best climate projections must confront epistemic uncertainties. Part II of this dissertation explores how intrinsically flawed projections should inform sequential adaptation.First, chapter5reviews approaches for planning under uncertainty, considering the role of classical decision theory, optimization, probability, and non probabilistic approaches. Next, chapter 6 considers how different physical mechanisms impart predictability at different timescales and the implications of secular, low-frequency cyclical, and high-frequency cyclical variability for selection between instruments with long and short planning periods. In particular, this chapter builds from three assertions regarding the nature of climate risk: 1. different climate risk mitigation instruments have different project lifespans; 2. climate risk varies on many scales; and 3. the processes which dominate this risk over the planning period depend on the planning period itself. Defining M as the nominal design life of a structural or financial instrument and N as the length of the observational record (a proxy for total informational uncertainty), chapter 7 presents a series of stylized computational experiments to probe the implications of these premises. Key findings are that: 1. quasi-periodic and secular climate signals, with different identifiability and predictability, control future uncertainty and risk; 2. adaptation strategies need to consider how uncertainties in risk projections influence the success of decision pathways; and 3. stylized experiments reveal how bias and variance of climate risk projections influencerisk mitigation over a finite planning period. Chapter 7 elaborates these findings through a didactic case study of levee heightening in the Netherlands. Integrating a conceptual model of low-frequency variability with credible projections of sea level rise, chapter 7 uses dynamic programming to co-optimize hard (levee increase) and soft (insurance) instruments. Key findings are that 1. large but distant and uncertain changes (e.g., sea level rise) do not necessarily motivate immediate investment in structural risk protection; 2. soft adaptation strategies are robust to different model structures and assumptions while hard instruments perform poorly under conditions for which they were not de-signed; and 3. increasing the hypothetical predictability of near-term climate extremes significantly lowers long-term adaptation costs. Finally, part III seeks to unpack the conceptual experiments of parts I and II to inform policy and future research. Chapter 8 describes how constructive narratives about climate change can discourage climate fatalism. Instead, chapter 8 emphasizes that while climate change is and will be a critical stressor of infrastructure systems, individuals, communities, and regions have agency and can mitigate its consequences. Finally, chapter9concludes by discussing the key findings of this dissertation and exploring how future work on decision under uncertainty, technology, and earth systems science can aid the design and management of effective infrastructure services.}
-      \field{title}{Sequential {{Adaptation}} through {{Prediction}} of {{Structured Climate Risk}}}
+      \field{title}{Sequential Adaptation through Prediction of Structured Climate Risk}
       \field{urlday}{31}
       \field{urlmonth}{7}
       \field{urlyear}{2020}
@@ -2099,7 +2128,7 @@
       \verb https://doi.org/10.7916/d8-p9ha-a055
       \endverb
     \endentry
-    \entry{doss-gollin_fatalism:2020}{article}{}{}
+    \entry{doss-gollin_adaptationoverfatalism:2020}{article}{}{}
       \name{author}{4}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
@@ -2149,7 +2178,7 @@
       \field{journaltitle}{Journal of Water Resources Planning and Management}
       \field{month}{4}
       \field{number}{4}
-      \field{shortjournal}{Journal of Water Resources Planning and Management}
+      \field{shortjournal}{J. Water Resour. Plann. Manage.}
       \field{title}{Adaptation over Fatalism: Leveraging High-Impact Climate Disasters to Boost Societal Resilience}
       \field{urlday}{29}
       \field{urlmonth}{1}
@@ -2220,6 +2249,7 @@
       \field{journaltitle}{Earth's Future}
       \field{month}{6}
       \field{number}{7}
+      \field{shortjournal}{Earth's Future}
       \field{title}{Robust Adaptation to Multiscale Climate Variability}
       \field{urlday}{9}
       \field{urlmonth}{6}
@@ -2310,7 +2340,8 @@
       \field{issn}{2328-4277}
       \field{journaltitle}{Earth's Future}
       \field{number}{4}
-      \field{title}{Probabilistic Models Significantly Reduce Uncertainty in {{Hurricane Harvey}} Pluvial Flood Loss Estimates}
+      \field{shortjournal}{Earth's Future}
+      \field{title}{Probabilistic Models Significantly Reduce Uncertainty in Hurricane Harvey Pluvial Flood Loss Estimates}
       \field{urlday}{28}
       \field{urlmonth}{3}
       \field{urlyear}{2019}
@@ -2329,7 +2360,7 @@
       \verb http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018EF001074
       \endverb
     \endentry
-    \entry{doss-gollin_pyfloods:2018}{article}{}{}
+    \entry{doss-gollin_heavyrainfallinparaguayduringthe2015-2016australsummer:2018}{article}{}{}
       \name{author}{4}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
@@ -2339,12 +2370,12 @@
         {{hash=768a0279dfa0a3b9285e8084f67d96ac}{%
            family={Muñoz},
            familyi={M\bibinitperiod},
-           given={Ángel\bibnamedelima G},
+           given={Ángel\bibnamedelima G.},
            giveni={Á\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=8c027cccc9c77725c29815c2a521358e}{%
            family={Mason},
            familyi={M\bibinitperiod},
-           given={Simon\bibnamedelima J},
+           given={Simon\bibnamedelima J.},
            giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=7710e504673020653034cd90e1b8b0ac}{%
            family={Pastén},
@@ -2375,28 +2406,33 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{During the austral summer 2015/16, severe flooding displaced over 170 000 people on the Paraguay River system in Paraguay, Argentina, and southern Brazil. These floods were driven by repeated heavy rainfall events in the lower Paraguay River basin. Alternating sequences of enhanced moisture inflow from the South American low-level jet and local convergence associated with baroclinic systems were conducive to mesoscale convective activity and enhanced precipitation. These circulation patterns were favored by cross-time-scale interactions of a very strong El Niño event, an unusually persistent Madden–Julian oscillation in phases 4 and 5, and the presence of a dipole SST anomaly in the central southern Atlantic Ocean. The simultaneous use of seasonal and subseasonal heavy rainfall predictions could have provided decision-makers with useful information about the start of these flooding events from two to four weeks in advance. Probabilistic seasonal forecasts available at the beginning of November successfully indicated heightened probability of heavy rainfall (90th percentile) over southern Paraguay and Brazil for December–February. Raw subseasonal forecasts of heavy rainfall exhibited limited skill at lead times beyond the first two predicted weeks, but a model output statistics approach involving principal component regression substantially improved the spatial distribution of skill for week 3 relative to other methods tested, including extended logistic regressions. A continuous monitoring of climate drivers impacting rainfall in the region, and the use of statistically corrected heavy precipitation seasonal and subseasonal forecasts, may help improve flood preparedness in this and other regions.}
-      \field{day}{9}
+      \field{issn}{0894-8755, 1520-0442}
       \field{journaltitle}{Journal of Climate}
-      \field{month}{1}
+      \field{month}{9}
       \field{number}{17}
-      \field{title}{Heavy Rainfall in {{Paraguay}} during the 2015-2016 Austral Summer: Causes and Sub-Seasonal-to-Seasonal Predictive Skill}
+      \field{shortjournal}{J. Clim.}
+      \field{title}{Heavy Rainfall in {{Paraguay}} during the 2015/16 Austral Summer: Causes and Subseasonal-to-Seasonal Predictive Skill}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{volume}{31}
       \field{year}{2018}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{6669\bibrangedash 6685}
       \range{pages}{17}
       \verb{doi}
-      \verb 10.1175/jcli-d-17-0805.1
+      \verb 10.1175/JCLI-D-17-0805.1
       \endverb
       \verb{urlraw}
-      \verb http://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1
+      \verb https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1
       \endverb
       \verb{url}
-      \verb http://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1
+      \verb https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1
       \endverb
     \endentry
-    \entry{farnham_credibly:2018}{article}{}{}
+    \entry{farnham_regionalextremeprecipitationevents:2018}{article}{}{}
       \name{author}{3}{}{%
         {{hash=89db4d668215b6ee8c13f10d8dc7a29d}{%
            family={Farnham},
@@ -2439,6 +2475,7 @@
       \field{abstract}{eneral circulation models (GCMs) have been demonstrated to produce estimates of precipitation, including the frequency of extreme precipitation, with substantial bias and uncertainty relative to their representation of other fields. Thus, while theory predicts changes in the hydrologic cycle under anthropogenic warming, there is generally low confidence in future projections of extreme precipitation frequency for specific river basins. In this paper, we explore whether a GCM simulates large-scale atmospheric circulation indices that are associated with regional extreme precipitation (REP) days more accurately than it simulates REP days themselves, and thus whether conditional simulation of the precipitation events based on the circulation indices may improve the simulation of REP events. We show that a coupled Geophysical Fluid Dynamics Laboratory GCM simulates too many springtime REP days in the Ohio River Basin in historical (1950–2005) simulations. The GCM, however, does credibly simulate the distributional and persistence properties of several indices (which represent the large-scale atmospheric pressure features, local atmospheric moisture content, and local vertical velocity) that are shown to modulate the likelihood of REP occurrence in the reanalysis/observational record. We show that simulation of REP events based on the GCM-based atmospheric indices greatly reduces the bias of GCM REP frequency relative to the observed record. The simulation is conducted via a Bayesian regression model by imposing the empirical relationship between observed REP occurrence and the reanalysis-based atmospheric indices. Application of this model to future (2006–2100) representative concentration pathway 8.5 scenario suggests an increasing trend in springtime REP incidence in the study region. The proposed approach of simulating precipitation events of interest, particularly those poorly represented in GCMs, with a statistical model based on climate indices that are reasonably simulated by GCMs could be applied to subseasonal to seasonal forecasts as well as future projections.}
       \field{journaltitle}{Water Resources Research}
       \field{number}{6}
+      \field{shortjournal}{Water Resour. Res.}
       \field{title}{Regional Extreme Precipitation Events: Robust Inference from Credibly Simulated {{GCM}} Variables}
       \field{volume}{54}
       \field{year}{2018}
@@ -2502,7 +2539,8 @@
       \field{journaltitle}{Journal of the American Water Resources Association}
       \field{month}{12}
       \field{number}{1}
-      \field{title}{Analytic Modeling of Rainwater Harvesting in the {{Brazilian Semiarid Northeast}}}
+      \field{shortjournal}{J. Am. Water Resour. Assoc.}
+      \field{title}{Analytic Modeling of Rainwater Harvesting in the Brazilian Semiarid Northeast}
       \field{volume}{52}
       \field{year}{2015}
       \field{dateera}{ce}
@@ -2580,8 +2618,8 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{Este trabalho tem como objetivo avaliar a persistência da seca meteorológica ao longo dos anos e caracterizar tanto espacialmente como temporalmente níveis de severidade de seca para o Nordeste Setentrional Brasileiro (NSB). A fim de alcançar os objetivos traçados alguns índices podem ser utilizados como índice de Palmer, o índice de severidade da seca de Palmer e o índice normalizado de precipitação. Para esse estudo o índice utilizado foi o índice de precipitação normalizada (SPI). Os resultados mostraram, temporalmente, que com o passar dos anos as secas têm ficado cada vez mais severas e cada vez mais estações meteorológicas têm sido incluídas em alguma categoria de seca. Isso mostra a necessidade da criação de um planejamento eficaz que possa ser desenvolvido ao longo de todo o ano e não apenas em época de secas extremas mais generalizadas.}
-      \field{booktitle}{XII Simpósio de Recursos Hídricos Do Nordeste}
-      \field{title}{Análise dos eventos de seca no Nordeste Setentrional Brasileiro com base no índice de precipitação normalizada}
+      \field{booktitle}{{{XII Simpósio}} de {{Recursos Hídricos Do Nordeste}}}
+      \field{title}{Análise Dos Eventos de Seca No Nordeste Setentrional Brasileiro Com Base No Índice de Precipitação Normalizada}
       \field{year}{2014}
       \field{dateera}{ce}
       \true{nocite}
@@ -2640,8 +2678,8 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{abstract}{O emprego de cisternas para captação de água de chuva como uma alternativa de abastecimento para comunidades rurais e peri-urbanas situadas no semiárido brasileiro tem sido objeto de programas governamentais específicos e de outros patrocinados por ONG’s ao longo das duas últimas décadas. A heterogeneidade climática do semiárido resulta em variados níveis de garantia de precipitação para enchimento das cisternas, levando em conta também outros fatores tais como a área de contribuição de telhados para captação da chuva, o coeficiente de escoamento superficial nos telhados e o descarte sanitário das primeiras chuvas. Este artigo apresenta um modelo de análise conjunta destes fatores para avaliar a sustentabilidade hídrica das cisternas no semiárido brasileiro. A análise revela que embora a captação de águas de chuva possa prover acesso sustentável a água potável em algumas áreas, não pode garantir acesso universal a água, particularmente para sistemas com áreas de captação pequenas ou para sistemas localizadas nas regiões mais secas.}
-      \field{booktitle}{XII Simpósio de Recursos Hídricos Do Nordeste}
-      \field{title}{Considerações sobre a sustentabilidade hídrica de cisternas para captação de chuva no Semiárido Brasileiro}
+      \field{booktitle}{{{XII Simpósio}} de {{Recursos Hídricos Do Nordeste}}}
+      \field{title}{Considerações Sobre a Sustentabilidade Hídrica de Cisternas Para Captação de Chuva No Semiárido Brasileiro}
       \field{year}{2014}
       \field{dateera}{ce}
       \true{nocite}
@@ -2651,7 +2689,7 @@
     \endentry
   \enddatalist
   \keyalias{Rozer:2019}{rozer_lossestimates:2019}
-  \keyalias{farnham_orbrep:2018}{farnham_credibly:2018}
+  \keyalias{farnham_orbrep:2018}{farnham_regionalextremeprecipitationevents:2018}
   \keyalias{singh_potential:2023}{singh_potential:2024}
 \endrefsection
 \endinput
