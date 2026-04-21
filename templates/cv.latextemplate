@@ -242,15 +242,17 @@
 \bigskip
 
 % Include CV sections
+% NOTE: Section order is defined here, not in _config.yml. The `sections:`
+% list in _config.yml maps titles to YAML files but does not control order.
 ((* include 'cv/appointments.tex' *))
 ((* include 'cv/education.tex' *))
 ((* include 'cv/grants.tex' *))
 ((* include 'cv/awards.tex' *))
-((* include 'cv/languages.tex' *))
 ((* include 'cv/publications.tex' *))
 ((* include 'cv/media.tex' *))
 ((* include 'cv/teaching.tex' *))
 ((* include 'cv/service.tex' *))
+((* include 'cv/languages.tex' *))
 ((* include 'cv/experience.tex' *))
 
 
