@@ -7,8 +7,9 @@ docs/cover-letter.*
 docs/*-CV-short.*
 *-CV-short.*
 
-# Claude Code settings (machine-specific)
-.claude/
+# Claude Code settings (machine-specific), except shared project skills
+.claude/*
+!.claude/skills/
 
 # Temporary build directory
 temp_output/

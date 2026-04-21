@@ -30,6 +30,8 @@ CV data is organized into YAML files in the `my-cv-data/` submodule:
 - Uses custom Jinja2 delimiters to avoid LaTeX conflicts
 - Templates generate to `temp_output/` directory
 - Selected outputs copied to `docs/` for GitHub Pages
+- CV section order is hardcoded in `templates/cv.latextemplate` (the `% Include CV sections` block), NOT in `_config.yml`. The `sections:` list in `_config.yml` only maps titles to data files.
+- Bibliography uses `biblatex` with the `biber` backend — compile with `xelatex → biber → xelatex → xelatex`, not `bibtex`.
 
 ## Common Commands
 
