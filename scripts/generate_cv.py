@@ -5,6 +5,7 @@ This script builds the CV file from a template
 import os
 import sys
 import re
+from pathlib import Path
 import filters  # filters for Jinja
 import jinja2
 import yaml
@@ -83,9 +84,7 @@ class CV(object):
             [
                 self.loader,
                 jinja2.FileSystemLoader(
-                    os.path.join(
-                        os.path.dirname(os.path.realpath(__file__)), "templates"
-                    )
+                    str(Path(__file__).resolve().parent.parent / "templates")
                 ),
             ]
         )

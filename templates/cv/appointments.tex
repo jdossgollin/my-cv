@@ -1,11 +1,20 @@
 %% Appointments
 \section{APPOINTMENTS}
 
+((* set ns = namespace(prev_org='') *))
 ((* for pos in data.appointments | sort(attribute="start", reverse=True) *))
+((* if pos.organization != ns.prev_org *))
+((* if ns.prev_org *))
+\end{alignedentries}
 
+((* endif *))
 \noindent\textbf{(((pos.organization | escape_tex)))}
 
 \begin{alignedentries}[2em]
-\entryitem{\textit{(((pos.role | escape_tex)))}((* if pos.dept *)), (((pos.dept | escape_tex)))((* endif *))}{((* if pos.end *))((* if pos.start == pos.end *))((( pos.start )))((* else *))((( pos.start )))--((( pos.end )))((* endif *))((* else *))((( pos.start )))---((* endif *))}((* if not loop.last *))\entrybreak((* endif *))
-\end{alignedentries}
+((* set ns.prev_org = pos.organization *))
+((* else *))
+\entrybreak
+((* endif *))
+\entryitem{\textit{(((pos.role | escape_tex)))}((* if pos.dept *)), (((pos.dept | escape_tex)))((* endif *))}{((* if pos.end *))((* if pos.start == pos.end *))((( pos.start )))((* else *))((( pos.start )))--((( pos.end )))((* endif *))((* else *))((( pos.start )))---((* endif *))}
 ((* endfor *))
+\end{alignedentries}

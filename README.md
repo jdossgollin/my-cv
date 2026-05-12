@@ -18,8 +18,10 @@ CV content lives in structured YAML files covering education, grants, publicatio
 
 ```bash
 # Generate CV (uv installs dependencies automatically)
-uv run python generate_cv.py
+uv run python scripts/generate_cv.py
 ```
+
+See [`scripts/README.md`](scripts/README.md) for all available scripts.
 
 The system uses two submodules:
 
