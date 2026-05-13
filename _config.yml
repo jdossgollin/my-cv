@@ -12,8 +12,8 @@ person:
   googlescholar: 6ifLBBsAAAAJ
   orcid: 0000-0002-3428-2224
   scholar_metrics:
-    citations: 737
-    h_index: 12
+    citations: 759
+    h_index: 13
     i10_index: 14
   address:
     line1: 6100 Main Street, Ryon Lab 204-MS 318
@@ -63,7 +63,7 @@ sections:
     file: department_service.yml
   - title: Professional Service
     file: professional_service.yml
-  - title: Additional Experience
+  - title: Training and Experience
     file: training.yml
   - title: Sessions Organized
     file: convene.yml

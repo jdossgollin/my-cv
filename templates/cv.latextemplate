@@ -19,10 +19,9 @@
 % Header and footer (skip first page)
 \usepackage{fancyhdr}
 \fancyhf{}
-\fancyhead[L]{\footnotesize\textcolor{RiceGray}{James Doss-Gollin}}
-\fancyhead[R]{\footnotesize\textcolor{RiceGray}{jdossgollin@rice.edu}}
-\fancyfoot[L]{\footnotesize\textcolor{RiceGray}{updated \today}}
-\fancyfoot[R]{\footnotesize\textcolor{RiceGray}{p. \thepage\ / \pageref{LastPage}}}
+\fancyhead[L]{\footnotesize\textcolor{RiceGray}{(((data.person.first_name))) (((data.person.last_name)))}}
+\fancyhead[R]{\footnotesize\textcolor{RiceGray}{updated \today}}
+\fancyfoot[C]{\footnotesize\textcolor{RiceGray}{\thepage\ /\ \pageref*{LastPage}}}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0.5pt}
 \renewcommand{\headrule}{\color{RiceGray}\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}
@@ -48,7 +47,7 @@
 % Section styling
 \usepackage{titlesec}
 \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
-\titleformat{\subsection}{\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\normalsize\bfseries\color{RiceBlue}}{}{0pt}{}
 \titleformat{\subsubsection}{\normalsize\itshape}{}{0pt}{}
 
 \titlespacing*{\section}{0pt}{1em}{0.5em}
@@ -211,6 +210,9 @@
 % page reference for total page count
 \usepackage{lastpage}
 
+% soft page breaks
+\usepackage{needspace}
+
 % have to load this last
 \usepackage{hyperref} % Required for adding links	and customizing them
 \hypersetup{colorlinks, linkcolor=black, citecolor=black, urlcolor=RiceBlue, breaklinks}
@@ -244,12 +246,13 @@
 % Include CV sections
 % NOTE: Section order is defined here, not in _config.yml. The `sections:`
 % list in _config.yml maps titles to YAML files but does not control order.
+((* include 'cv/interests.tex' *))
 ((* include 'cv/appointments.tex' *))
 ((* include 'cv/education.tex' *))
-((* include 'cv/grants.tex' *))
 ((* include 'cv/awards.tex' *))
 ((* include 'cv/publications.tex' *))
-((* include 'cv/media.tex' *))
+((* include 'cv/grants.tex' *))
+((* include 'cv/presentations.tex' *))
 ((* include 'cv/teaching.tex' *))
 ((* include 'cv/service.tex' *))
 ((* include 'cv/languages.tex' *))

@@ -302,3 +302,4 @@ TSWLatexianTemp*
 __pycache__/*
 Srikrishnan-CV.tex
 *.json
+uv.lock

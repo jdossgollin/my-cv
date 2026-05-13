@@ -47,11 +47,3 @@
 ((* endfor *))
 \end{alignedentrieshang}
 
-%% Advisee Awards
-\subsection{ADVISEE AWARDS}
-
-\begin{alignedentrieshang}
-((* for award in data.advisee_awards | sort(attribute="year", reverse=True) *))
-\hangingitem{\textbf{(((award.recipient | escape_tex)))}: (((award.award | escape_tex))).}{(((award.year)))}
-((* endfor *))
-\end{alignedentrieshang}
