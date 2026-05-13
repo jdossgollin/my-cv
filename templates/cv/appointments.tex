@@ -2,7 +2,7 @@
 \section{APPOINTMENTS}
 
 ((* set ns = namespace(prev_org='') *))
-((* for pos in data.appointments | sort(attribute="start", reverse=True) *))
+((* for pos in data.appointments | sort(attribute="sort_order") *))
 ((* if pos.organization != ns.prev_org *))
 ((* if ns.prev_org *))
 \end{alignedentries}

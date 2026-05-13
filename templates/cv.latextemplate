@@ -19,10 +19,9 @@
 % Header and footer (skip first page)
 \usepackage{fancyhdr}
 \fancyhf{}
-\fancyhead[L]{\footnotesize\textcolor{RiceGray}{James Doss-Gollin}}
-\fancyhead[R]{\footnotesize\textcolor{RiceGray}{jdossgollin@rice.edu}}
-\fancyfoot[L]{\footnotesize\textcolor{RiceGray}{updated \today}}
-\fancyfoot[R]{\footnotesize\textcolor{RiceGray}{p. \thepage\ / \pageref{LastPage}}}
+\fancyhead[L]{\footnotesize\textcolor{RiceGray}{(((data.person.first_name))) (((data.person.last_name)))}}
+\fancyhead[R]{\footnotesize\textcolor{RiceGray}{updated \today}}
+\fancyfoot[C]{\footnotesize\textcolor{RiceGray}{\thepage\ /\ \pageref*{LastPage}}}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0.5pt}
 \renewcommand{\headrule}{\color{RiceGray}\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}
@@ -210,6 +209,9 @@
 
 % page reference for total page count
 \usepackage{lastpage}
+
+% soft page breaks
+\usepackage{needspace}
 
 % have to load this last
 \usepackage{hyperref} % Required for adding links	and customizing them

@@ -20,9 +20,8 @@
 \usepackage{fancyhdr}
 \fancyhf{}
 \fancyhead[L]{\footnotesize\textcolor{RiceGray}{James Doss-Gollin}}
-\fancyhead[R]{\footnotesize\textcolor{RiceGray}{jdossgollin@rice.edu}}
-\fancyfoot[L]{\footnotesize\textcolor{RiceGray}{updated \today}}
-\fancyfoot[R]{\footnotesize\textcolor{RiceGray}{p. \thepage\ / \pageref{LastPage}}}
+\fancyhead[R]{\footnotesize\textcolor{RiceGray}{updated \today}}
+\fancyfoot[C]{\footnotesize\textcolor{RiceGray}{\thepage\ /\ \pageref*{LastPage}}}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0.5pt}
 \renewcommand{\headrule}{\color{RiceGray}\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}
@@ -211,6 +210,9 @@
 % page reference for total page count
 \usepackage{lastpage}
 
+% soft page breaks
+\usepackage{needspace}
+
 % have to load this last
 \usepackage{hyperref} % Required for adding links	and customizing them
 \hypersetup{colorlinks, linkcolor=black, citecolor=black, urlcolor=RiceBlue, breaklinks}
@@ -247,18 +249,7 @@
 %% Research Interests
 \section{RESEARCH INTERESTS}
 
-\noindent
-
-Climate risk management and adaptation \textbullet\ 
-
-Decision-making under uncertainty \textbullet\ 
-
-Dynamics and spatiotemporal clustering of hydroclimate extremes \textbullet\ 
-
-Probabilistic modeling and uncertainty quantification \textbullet\ 
-
-Urban flood risk assessment and management
-
+\noindent My research builds probabilistic hazard models that enable climate risk analysis and bottom-up decision support for complex infrastructure systems, with a focus on urban flooding. I integrate Earth science, artificial intelligence, and decision analysis to examine non-stationary hazards, assess their effects on built environments, and develop adaptive risk-management approaches.
 %% Appointments
 \section{APPOINTMENTS}
 
@@ -276,12 +267,12 @@ Urban flood risk assessment and management
 
 \entrybreak
 
-\entryitem{\textit{Affiliated Faculty}, Ken Kennedy Institute}{2021---}
+\entryitem{\textit{Affiliated Faculty}, Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center}{2021---}
 
 
 \entrybreak
 
-\entryitem{\textit{Affiliated Faculty}, Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center}{2021---}
+\entryitem{\textit{Affiliated Faculty}, Ken Kennedy Institute}{2023---}
 
 
 
@@ -325,7 +316,7 @@ Urban flood risk assessment and management
 
 \begin{alignedentrieshang}
 
-\hangingitem{\textbf{CAREER Award}, National Science Foundation}{2026}
+\hangingitem{\textbf{NSF CAREER Award}, National Science Foundation}{2026}
 
 \hangingitem{\textbf{Outstanding Reviewer Award}, Earth's Future}{2023}
 
@@ -358,10 +349,11 @@ Urban flood risk assessment and management
 \end{alignedentrieshang}
 %% Publications
 
+\needspace{10\baselineskip}
 \section{PUBLICATIONS}
 
 {\textcolor{RiceBlue}{\textbf{$^\mathbf{\dagger}$ denotes Rice advisee publication}}}.
-\href{https://scholar.google.com/citations?user=6ifLBBsAAAAJ}{Google Scholar \aiGoogleScholar} \textit{citations}: 737, \textit{h-index}: 12, \textit{i10-index}: 14.
+\href{https://scholar.google.com/citations?user=6ifLBBsAAAAJ}{Google Scholar \aiGoogleScholar} \textit{citations}: 759, \textit{h-index}: 13, \textit{i10-index}: 14.
 \medskip
 
 \defbibfilter{ispreprint}{%
@@ -874,25 +866,17 @@ Urban flood risk assessment and management
 
 \hangingitem{\textbf{Portuguese}: Proficient}{}
 
-\hangingitem{\textbf{Italian}: Basic}{}
-
-\hangingitem{\textbf{French}: Basic}{}
-
 \end{alignedentrieshang}
-%% Additional Experience and Training
-\section{ADDITIONAL EXPERIENCE}
+%% Training and Experience
+\section{TRAINING AND EXPERIENCE}
 
 \begin{alignedentrieshang}
-
-\hangingitem{\textbf{Social and Behavioral Research - Basic/Refresher} --- \textit{CITI Program}.}{2025--2028}
 
 \hangingitem{\textbf{Strategic Program to Accelerate Researchers in Computing (SPARC) Participant} --- \textit{Natural Hazards Engineering Research Infrastructure (NHERI) DesignSafe-CI}.}{2025}
 
 \hangingitem{\textbf{Panel Fellow} --- \textit{NSF CMMI's Game Changer Academies for Advancing Research Innovation}.}{2021}
 
 \hangingitem{\textbf{Visiting Graduate Researcher} --- \textit{Lamontagne Research Group, Department of Civil and Environmental Engineering, Tufts University, Medford, MA}.}{2019--2020}
-
-\hangingitem{\textbf{Graduate Research Fellow} --- \textit{Columbia Water Center, Department of Earth and Environmental Engineering, Columbia University, New York, NY}.}{2015--2020}
 
 \hangingitem{\textbf{Summer School Participant} --- \textit{Fluid Dynamics of Sustainability and the Environment, Cambridge University, Cambridge, England}.}{2016}
 
