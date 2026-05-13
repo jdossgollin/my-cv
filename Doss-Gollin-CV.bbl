@@ -178,62 +178,6 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
-    \entry{odonnell_hydrologicwhiplashinthemississippiriverbasin:2025}{online}{}{}
-      \name{author}{4}{}{%
-        {{hash=8be983494ada6d898984f91e65bdc7dc}{%
-           family={O'Donnell},
-           familyi={O\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
-        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=690238b00dd82888ec6cfd1050f8c076}{%
-           family={Muñoz},
-           familyi={M\bibinitperiod},
-           given={Samuel},
-           giveni={S\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{9e6248530ddb59e5ce65ea3525ca2d18}
-      \strng{fullhashraw}{9e6248530ddb59e5ce65ea3525ca2d18}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{9e6248530ddb59e5ce65ea3525ca2d18}
-      \strng{authornamehash}{9e6248530ddb59e5ce65ea3525ca2d18}
-      \strng{authorfullhash}{9e6248530ddb59e5ce65ea3525ca2d18}
-      \strng{authorfullhashraw}{9e6248530ddb59e5ce65ea3525ca2d18}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{day}{22}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{pubstate}{prepublished}
-      \field{shorttitle}{Hydrologic Whiplash in the Mississippi River Basin}
-      \field{sortyear}{2222}
-      \field{title}{Hydrologic Whiplash in the Mississippi River Basin: Mechanisms and Projections}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \true{nocite}
-    \endentry
     \entry{pollack_unrefined:2025}{online}{}{}
       \name{author}{13}{}{%
         {{hash=220898e235d936971bd0ff08da56214f}{%
@@ -322,7 +266,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -416,7 +360,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -451,6 +395,83 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044340
       \endverb
+    \endentry
+    \entry{odonnell_whiplash:2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=59b2d7ab5f10008041a691267950f6b7}{%
+           family={O’Donnell},
+           familyi={O\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
+           family={Dee},
+           familyi={D\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=25db66bda1a8b6724cbaf876bce52adc}{%
+           family={Muñoz},
+           familyi={M\bibinitperiod},
+           given={Samuel\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{d6105a67569d91bc20e5c44b2b8451b5}
+      \strng{fullhashraw}{d6105a67569d91bc20e5c44b2b8451b5}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{d6105a67569d91bc20e5c44b2b8451b5}
+      \strng{authornamehash}{d6105a67569d91bc20e5c44b2b8451b5}
+      \strng{authorfullhash}{d6105a67569d91bc20e5c44b2b8451b5}
+      \strng{authorfullhashraw}{d6105a67569d91bc20e5c44b2b8451b5}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Volatility and unpredictability of hydroclimate systems stresses planning and risk management. Notably, the rapid transition between periods of high and low streamflow, known as hydrologic whiplash, is gaining attention worldwide. Yet the specific mechanisms driving hydrologic whiplash events, and how they differ from singular events, remain poorly understood. We examine whiplash within the Mississippi River basin using observations and the Community Earth System Model version 2 Large Ensemble (CESM2-LENS) to quantify historic occurrence on major tributaries and changes in frequency through the 21st century under a moderately high emissions scenario (SSP3-7.0), and identify hydrologic mechanisms distinguishing these events from isolated events. We find that whiplash events increase in frequency most notably on western tributaries (Missouri, +115\% and Arkansas, +137\%), and that antecedent precipitation and snowmelt pulses or deficits initiate these whiplash events, while soil moisture anomalies can have opposite signs from those associated with singular events.}
+      \field{issn}{1944-8007}
+      \field{journaltitle}{Geophysical Research Letters}
+      \field{langid}{english}
+      \field{number}{10}
+      \field{shortjournal}{Geophys. Res. Lett.}
+      \field{shorttitle}{Whiplash}
+      \field{title}{Hydrologic Whiplash in the {{Mississippi}} River Basin: Mechanisms and Projections}
+      \field{urlday}{12}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{volume}{53}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{e2026GL122807}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2026GL122807
+      \endverb
+      \verb{file}
+      \verb /Users/jd82/Zotero/storage/3V92E8J6/O’Donnell et al. - 2026 - Hydrologic whiplash in the Mississippi river basin mechanisms and projections.pdf;/Users/jd82/Zotero/storage/ZSP6HCML/2026GL122807.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2026GL122807
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2026GL122807
+      \endverb
+      \keyw{CESM2,hydroclimate extremes,hydrologic whiplash,Mississippi River}
     \endentry
     \entry{pollack_transparency:2026}{article}{}{}
       \name{author}{24}{}{%
@@ -634,31 +655,31 @@
     \endentry
     \entry{haider_mrb:2025}{article}{}{}
       \name{author}{5}{}{%
-        {{hash=a4c69dcc505a58f9596b950e6c277357}{%
+        {{hash=611def4ae0caf18dbdbcdc8680dc58ed}{%
            family={Haider},
            familyi={H\bibinitperiod},
-           given={M.\bibnamedelimi R.},
+           given={Muhammad\bibnamedelima Rezaul},
            giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=14e5dd42606ee14888218ae021c13893}{%
+        {{hash=97e5dce4bbd001e53fa8550d169492fd}{%
            family={Dee},
            familyi={D\bibinitperiod},
-           given={S.\bibnamedelimi G.},
-           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=10026b9c4bbc482da8e58befe950ece9}{%
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
            familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={J.},
+           given={James},
            giveni={J\bibinitperiod}}}%
-        {{hash=bd501b0b78c959cb872fd223130b6241}{%
+        {{hash=befcc4e4c286d07140e7dd72b743439e}{%
            family={Dunne},
            familyi={D\bibinitperiod},
-           given={K.\bibnamedelimi B.\bibnamedelimi J.},
-           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=7b2e2ce7c59e323b739bcc87c4f78ff5}{%
+           given={Kieran},
+           giveni={K\bibinitperiod}}}%
+        {{hash=690238b00dd82888ec6cfd1050f8c076}{%
            family={Muñoz},
            familyi={M\bibinitperiod},
-           given={S.\bibnamedelimi E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
       }
       \name{shortauthor}{1}{}{%
         {{hash=b59c67bf196a4758191e42f76670ceba}{%
@@ -666,13 +687,13 @@
            familyi={1\bibinitperiod}}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{821b658de8769e721e7264c7e3385e67}
-      \strng{fullhashraw}{821b658de8769e721e7264c7e3385e67}
+      \strng{fullhash}{6ff8205a562ee722ce5c4702ff80db74}
+      \strng{fullhashraw}{6ff8205a562ee722ce5c4702ff80db74}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{821b658de8769e721e7264c7e3385e67}
-      \strng{authornamehash}{821b658de8769e721e7264c7e3385e67}
-      \strng{authorfullhash}{821b658de8769e721e7264c7e3385e67}
-      \strng{authorfullhashraw}{821b658de8769e721e7264c7e3385e67}
+      \strng{authorbibnamehash}{6ff8205a562ee722ce5c4702ff80db74}
+      \strng{authornamehash}{6ff8205a562ee722ce5c4702ff80db74}
+      \strng{authorfullhash}{6ff8205a562ee722ce5c4702ff80db74}
+      \strng{authorfullhashraw}{6ff8205a562ee722ce5c4702ff80db74}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
