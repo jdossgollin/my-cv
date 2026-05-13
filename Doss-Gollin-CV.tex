@@ -20,9 +20,8 @@
 \usepackage{fancyhdr}
 \fancyhf{}
 \fancyhead[L]{\footnotesize\textcolor{RiceGray}{James Doss-Gollin}}
-\fancyhead[R]{\footnotesize\textcolor{RiceGray}{jdossgollin@rice.edu}}
-\fancyfoot[L]{\footnotesize\textcolor{RiceGray}{updated \today}}
-\fancyfoot[R]{\footnotesize\textcolor{RiceGray}{p. \thepage\ / \pageref{LastPage}}}
+\fancyhead[R]{\footnotesize\textcolor{RiceGray}{updated \today}}
+\fancyfoot[C]{\footnotesize\textcolor{RiceGray}{\thepage\ /\ \pageref*{LastPage}}}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0.5pt}
 \renewcommand{\headrule}{\color{RiceGray}\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}
@@ -48,7 +47,7 @@
 % Section styling
 \usepackage{titlesec}
 \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
-\titleformat{\subsection}{\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\normalsize\bfseries\color{RiceBlue}}{}{0pt}{}
 \titleformat{\subsubsection}{\normalsize\itshape}{}{0pt}{}
 
 \titlespacing*{\section}{0pt}{1em}{0.5em}
@@ -211,6 +210,9 @@
 % page reference for total page count
 \usepackage{lastpage}
 
+% soft page breaks
+\usepackage{needspace}
+
 % have to load this last
 \usepackage{hyperref} % Required for adding links	and customizing them
 \hypersetup{colorlinks, linkcolor=black, citecolor=black, urlcolor=RiceBlue, breaklinks}
@@ -244,38 +246,47 @@
 % Include CV sections
 % NOTE: Section order is defined here, not in _config.yml. The `sections:`
 % list in _config.yml maps titles to YAML files but does not control order.
+%% Research Interests
+\section{RESEARCH INTERESTS}
+
+\noindent My research builds probabilistic hazard models that enable climate risk analysis and bottom-up decision support for complex infrastructure systems, with a focus on urban flooding. I integrate Earth science, artificial intelligence, and decision analysis to examine non-stationary hazards, assess their effects on built environments, and develop adaptive risk-management approaches.
 %% Appointments
 \section{APPOINTMENTS}
 
 
 
-\noindent\textbf{Rice University}
-
-\begin{alignedentries}[2em]
-\entryitem{\textit{Affiliated Faculty}, Ken Kennedy Institute}{2023---}\entrybreak
-\end{alignedentries}
 
 
 \noindent\textbf{Rice University}
 
 \begin{alignedentries}[2em]
-\entryitem{\textit{Assistant Professor}, Department of Civil \& Environmental Engineering}{2021---}\entrybreak
-\end{alignedentries}
 
 
-\noindent\textbf{Rice University}
+\entryitem{\textit{Assistant Professor}, Department of Civil \& Environmental Engineering}{2021---}
 
-\begin{alignedentries}[2em]
-\entryitem{\textit{Affiliated Faculty}, Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center}{2021---}\entrybreak
+
+\entrybreak
+
+\entryitem{\textit{Affiliated Faculty}, Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center}{2021---}
+
+
+\entrybreak
+
+\entryitem{\textit{Affiliated Faculty}, Ken Kennedy Institute}{2023---}
+
+
+
 \end{alignedentries}
 
 
 \noindent\textbf{The Pennsylvania State University}
 
 \begin{alignedentries}[2em]
-\entryitem{\textit{Postdoctoral Scholar}, Earth \& Environmental Systems Institute}{2020}
-\end{alignedentries}
 
+
+\entryitem{\textit{Postdoctoral Scholar}, Earth \& Environmental Systems Institute}{2020}
+
+\end{alignedentries}
 %% Education
 \section{EDUCATION}
 
@@ -299,6 +310,71 @@
 \entryitem{\textit{B.S. in Mechanical Engineering}}{2015}
 
 \end{alignedentries}
+
+%% Awards
+\section{AWARDS AND HONORS}
+
+\begin{alignedentrieshang}
+
+\hangingitem{\textbf{NSF CAREER Award}, National Science Foundation}{2026}
+
+\hangingitem{\textbf{Outstanding Reviewer Award}, Earth's Future}{2023}
+
+\hangingitem{\textbf{Nickolas and Liliana Themelis Fellowship}, Fu Foundation School of Engineering and Applied Science, Columbia University}{2018}
+
+\hangingitem{\textbf{Graduate Research Fellowship, Climate and Large-Scale Atmospheric Dynamics}, National Science Foundation}{2017}
+
+\hangingitem{\textbf{Presidential Distinguished Fellowship}, Fu Foundation School of Engineering and Applied Science, Columbia University}{2015}
+
+\hangingitem{\textbf{Distinction in Major}, Department of Mechanical Engineering and Materials Science, Yale University}{2015}
+
+\hangingitem{\textbf{Legacy Award}, New Haven Promise}{2015}
+
+\hangingitem{\textbf{Larry Coben '79 Fellowship}, Yale University}{2014}
+
+\hangingitem{\textbf{Vance-Carter Travel Award}, Yale University}{2013}
+
+\hangingitem{\textbf{Thomas C. Barry Travel Award}, Yale University}{2012}
+
+\end{alignedentrieshang}
+
+\subsection{ADVISEE AWARDS}
+
+\begin{alignedentrieshang}
+
+\hangingitem{\textbf{Dongwook Kim}: Karen and John Huff Graduate Fellowship in Civil and Environmental Engineering.}{2025}
+
+\hangingitem{\textbf{Yuchen Lu}: H.W. Reeves Endowed Scholarship.}{2022}
+
+\end{alignedentrieshang}
+%% Publications
+
+\needspace{10\baselineskip}
+\section{PUBLICATIONS}
+
+{\textcolor{RiceBlue}{\textbf{$^\mathbf{\dagger}$ denotes Rice advisee publication}}}.
+\href{https://scholar.google.com/citations?user=6ifLBBsAAAAJ}{Google Scholar \aiGoogleScholar} \textit{citations}: 759, \textit{h-index}: 13, \textit{i10-index}: 14.
+\medskip
+
+\defbibfilter{ispreprint}{%
+    type=misc
+    or type=online
+}
+
+\subsection{IN PREP. / UNDER REVIEW}
+
+\setcounter{bibitemcount}{0}
+\printbibliography[filter=ispreprint, heading=none, env=hanging]
+
+\subsection{JOURNAL ARTICLES}
+
+\setcounter{bibitemcount}{0}
+\printbibliography[heading=none, type=article, env=hanging]
+
+\subsection{PEER-REVIEWED CONFERENCE PAPERS}
+
+\setcounter{bibitemcount}{0}
+\printbibliography[heading=none, type=inproceedings, env=hanging]
 
 %% Grants and Contracts
 \section{SPONSORED RESEARCH}
@@ -352,61 +428,9 @@
 \hangingitem{PI, Rice University -- Sustainable Futures Fund. \textit{Leveraging Earth System Observations at Multiple Scales to Improve Stormwater Management in Houston} with Sylvia Dee. (\$50,000)}{2022--2023}
 
 \end{alignedentrieshang}
-%% Awards
-\section{AWARDS}
+%% Presentations
+\section{PRESENTATIONS}
 
-\begin{alignedentrieshang}
-
-\hangingitem{\textbf{NSF CAREER Award}, National Science Foundation}{2026}
-
-\hangingitem{\textbf{Outstanding Reviewer Award}, Earth's Future}{2023}
-
-\hangingitem{\textbf{Nickolas and Liliana Themelis Fellowship}, Fu Foundation School of Engineering and Applied Science, Columbia University}{2018}
-
-\hangingitem{\textbf{Graduate Research Fellowship, Climate and Large-Scale Atmospheric Dynamics}, National Science Foundation}{2017}
-
-\hangingitem{\textbf{Presidential Distinguished Fellowship}, Fu Foundation School of Engineering and Applied Science, Columbia University}{2015}
-
-\hangingitem{\textbf{Distinction in Major}, Department of Mechanical Engineering and Materials Science, Yale University}{2015}
-
-\hangingitem{\textbf{Legacy Award}, New Haven Promise}{2015}
-
-\hangingitem{\textbf{Larry Coben '79 Fellowship}, Yale University}{2014}
-
-\hangingitem{\textbf{Vance-Carter Travel Award}, Yale University}{2013}
-
-\hangingitem{\textbf{Thomas C. Barry Travel Award}, Yale University}{2012}
-
-\end{alignedentrieshang}
-%% Publications
-
-\section{PUBLICATIONS}
-
-{\textcolor{RiceBlue}{\textbf{$^\mathbf{\dagger}$ denotes Rice advisee publication}}}.
-\href{https://scholar.google.com/citations?user=6ifLBBsAAAAJ}{Google Scholar \aiGoogleScholar} \textit{citations}: 737, \textit{h-index}: 12, \textit{i10-index}: 14.
-\medskip
-
-\defbibfilter{ispreprint}{%
-    type=misc
-    or type=online
-}
-
-\subsection{IN PREP. / UNDER REVIEW}
-
-\setcounter{bibitemcount}{0}
-\printbibliography[filter=ispreprint, heading=none, env=hanging]
-
-\subsection{JOURNAL ARTICLES}
-
-\setcounter{bibitemcount}{0}
-\printbibliography[heading=none, type=article, env=hanging]
-
-\subsection{PEER-REVIEWED CONFERENCE PAPERS}
-
-\setcounter{bibitemcount}{0}
-\printbibliography[heading=none, type=inproceedings, env=hanging]
-
-%% Invited Talks
 \subsection{INVITED TALKS}
 
 \begin{alignedentrieshang}
@@ -447,10 +471,7 @@
 
 \end{alignedentrieshang}
 
-%% FIRST-AUTHOR CONFERENCE PRESENTATIONS
 \subsection{FIRST-AUTHOR CONFERENCE AND WORKSHOP PRESENTATIONS}
-
-\medskip
 
 \begin{alignedentrieshang}
 
@@ -568,10 +589,7 @@
 
 \end{alignedentrieshang}
 
-%% ADVISEE CONFERENCE PRESENTATIONS
 \subsection{ADVISEE CONFERENCE AND WORKSHOP PRESENTATIONS}
-
-\medskip
 
 \begin{alignedentrieshang}
 
@@ -648,46 +666,6 @@
 
 
 
-
-\end{alignedentrieshang}
-%% Media Coverage
-\section{MEDIA HIGHLIGHTS}
-
-\begin{alignedentrieshang}
-
-\hangingitem{\enquote{FEMA elabora nuevos mapas de riesgo de inundación ¿Afectará esto tu propiedad?.} \textbf{Telemundo Houston} [\textit{recorded video interview}].}{2026}
-
-\hangingitem{\enquote{The Climate-Disaster Scores That Could Make or Break Your Home Sale.} \textbf{The Wall Street Journal} --- Jean Eaglesham and Nicole Friedman [\textit{print}].}{2026}
-
-\hangingitem{\enquote{Historic Texas Flooding.} \textbf{KEYE-AUS (CBS)} [\textit{recorded video interview}].}{2025}
-
-\hangingitem{\enquote{Houston's Morning Show.} \textbf{Fox26 Houston} [\textit{live video interview}].}{2025}
-
-\hangingitem{\enquote{Breaking down the force of water in the Texas floods.} \textbf{AP News} --- Michael Phillis [\textit{print}].}{2025}
-
-\hangingitem{\enquote{Here are some things you can do to be better prepared for major flooding.} \textbf{Associated Press} --- Caleigh Wells [\textit{print}].}{2025}
-
-\hangingitem{\enquote{ABC13-Luke Jones speaks with James Doss-Gollin, an assistant professor of Civil and Environmental Engineering at Rice University, about the key differences between flooding in Houston and central Texas..} \textbf{ABC13} --- Luke Jones [\textit{recorded video interview}].}{2025}
-
-\hangingitem{\enquote{After deadly flooding in Central Texas, state lawmakers look to prevent similar tragedies.} \textbf{KVUE} --- Daniel Perreault [\textit{recorded video interview}].}{2025}
-
-\hangingitem{\enquote{New Flood Warning System Greenlit Shortly Before Deadly Texas Disaster.} \textbf{The Wall Street Journal} --- Joseph De Avila [\textit{print}].}{2025}
-
-\hangingitem{\enquote{Questions arise on how emergency warning systems work after Central Texas flood.} \textbf{ABC13} --- Tom Abrahams [\textit{print}].}{2025}
-
-\hangingitem{\enquote{Bajo la Amenaza del Golfo (Under the Threat of the Gulf).} \textbf{Telemundo Houston} [\textit{recorded video interview}].}{2025}
-
-\hangingitem{\enquote{Will Texas become too hot for humans?.} \textbf{BBC Future} --- Sarah Griffiths [\textit{print}].}{2023}
-
-\hangingitem{\enquote{Climate change has sent temperatures soaring in Texas.} \textbf{The Texas Tribune} --- Erin Douglas, Yuriko Schumacher and Alex Ford [\textit{print}].}{2023}
-
-\hangingitem{\enquote{Texas could have foreseen 2021 cold-wave disaster, new study concludes.} \textbf{Texas Climate News} --- Bob Henson [\textit{print}].}{2022}
-
-\hangingitem{\enquote{Opinion: The risks of climate change are great - so are the rewards of solving it.} \textbf{Houston Chronicle} --- Andrew Dessler, James Doss-Gollin, and Katherine Hayhoe [\textit{print}].}{2021}
-
-\hangingitem{\enquote{The False Comfort of Higher Seawalls.} \textbf{The New Republic} --- Paola Rosa-Aquino [\textit{print}].}{2019}
-
-\hangingitem{\enquote{New Study Shows Promise for Long-Term Weather Forecasts in South America.} \textbf{State of the Planet} --- Elisabeth Gawthrop [\textit{print}].}{2018}
 
 \end{alignedentrieshang}
 %% Teaching
@@ -771,16 +749,6 @@
 
 \end{alignedentrieshang}
 
-%% Advisee Awards
-\subsection{ADVISEE AWARDS}
-
-\begin{alignedentrieshang}
-
-\hangingitem{\textbf{Dongwook Kim}: Karen and John Huff Graduate Fellowship in Civil and Environmental Engineering.}{2025}
-
-\hangingitem{\textbf{Yuchen Lu}: H.W. Reeves Endowed Scholarship.}{2022}
-
-\end{alignedentrieshang}
 %% Service
 \section{SERVICE ACTIVITIES}
 
@@ -847,6 +815,46 @@
 \hangingitem{\textbf{Student Organizer}. \textit{Earth and Environmental Engineering Student Research Symposium}. \textbf{Columbia University}, New York, NY.}{2017}
 
 \end{alignedentrieshang}
+
+\subsection{MEDIA HIGHLIGHTS}
+
+\begin{alignedentrieshang}
+
+\hangingitem{\enquote{FEMA elabora nuevos mapas de riesgo de inundación ¿Afectará esto tu propiedad?}. \textbf{Telemundo Houston} [\textit{recorded video interview}].}{2026}
+
+\hangingitem{\enquote{The Climate-Disaster Scores That Could Make or Break Your Home Sale}. \textbf{The Wall Street Journal} --- Jean Eaglesham and Nicole Friedman [\textit{print}].}{2026}
+
+\hangingitem{\enquote{Historic Texas Flooding}. \textbf{KEYE-AUS (CBS)} [\textit{recorded video interview}].}{2025}
+
+\hangingitem{\enquote{Houston's Morning Show}. \textbf{Fox26 Houston} [\textit{live video interview}].}{2025}
+
+\hangingitem{\enquote{Breaking down the force of water in the Texas floods}. \textbf{AP News} --- Michael Phillis [\textit{print}].}{2025}
+
+\hangingitem{\enquote{Here are some things you can do to be better prepared for major flooding}. \textbf{Associated Press} --- Caleigh Wells [\textit{print}].}{2025}
+
+\hangingitem{\enquote{ABC13-Luke Jones speaks with James Doss-Gollin, an assistant professor of Civil and Environmental Engineering at Rice University, about the key differences between flooding in Houston and central Texas.}. \textbf{ABC13} --- Luke Jones [\textit{recorded video interview}].}{2025}
+
+\hangingitem{\enquote{After deadly flooding in Central Texas, state lawmakers look to prevent similar tragedies}. \textbf{KVUE} --- Daniel Perreault [\textit{recorded video interview}].}{2025}
+
+\hangingitem{\enquote{New Flood Warning System Greenlit Shortly Before Deadly Texas Disaster}. \textbf{The Wall Street Journal} --- Joseph De Avila [\textit{print}].}{2025}
+
+\hangingitem{\enquote{Questions arise on how emergency warning systems work after Central Texas flood}. \textbf{ABC13} --- Tom Abrahams [\textit{print}].}{2025}
+
+\hangingitem{\enquote{Bajo la Amenaza del Golfo (Under the Threat of the Gulf)}. \textbf{Telemundo Houston} [\textit{recorded video interview}].}{2025}
+
+\hangingitem{\enquote{Will Texas become too hot for humans?}. \textbf{BBC Future} --- Sarah Griffiths [\textit{print}].}{2023}
+
+\hangingitem{\enquote{Climate change has sent temperatures soaring in Texas}. \textbf{The Texas Tribune} --- Erin Douglas, Yuriko Schumacher and Alex Ford [\textit{print}].}{2023}
+
+\hangingitem{\enquote{Texas could have foreseen 2021 cold-wave disaster, new study concludes}. \textbf{Texas Climate News} --- Bob Henson [\textit{print}].}{2022}
+
+\hangingitem{\enquote{Opinion: The risks of climate change are great - so are the rewards of solving it}. \textbf{Houston Chronicle} --- Andrew Dessler, James Doss-Gollin, and Katherine Hayhoe [\textit{print}].}{2021}
+
+\hangingitem{\enquote{The False Comfort of Higher Seawalls}. \textbf{The New Republic} --- Paola Rosa-Aquino [\textit{print}].}{2019}
+
+\hangingitem{\enquote{New Study Shows Promise for Long-Term Weather Forecasts in South America}. \textbf{State of the Planet} --- Elisabeth Gawthrop [\textit{print}].}{2018}
+
+\end{alignedentrieshang}
 %% Languages
 \section{LANGUAGE SKILLS}
 
@@ -859,8 +867,8 @@
 \hangingitem{\textbf{Portuguese}: Proficient}{}
 
 \end{alignedentrieshang}
-%% Additional Experience and Training
-\section{ADDITIONAL EXPERIENCE}
+%% Training and Experience
+\section{TRAINING AND EXPERIENCE}
 
 \begin{alignedentrieshang}
 
