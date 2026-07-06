@@ -19,96 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{baer_designstorm:2026}{online}{}{}
-      \name{author}{7}{}{%
-        {{hash=2f69a9dde8ed6b302548c30b360a6146}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={John\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=33318887caccff5960bf07eb2dd998a1}{%
-           family={Sebastian},
-           familyi={S\bibinitperiod},
-           given={Antonia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a247ee4fff46826055405e1afe9e2ad0}{%
-           family={Grimley},
-           familyi={G\bibinitperiod},
-           given={Lauren\bibnamedelima E.},
-           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=29680a64a94c51056496b5dfb5a123c1}{%
-           family={Wright},
-           familyi={W\bibinitperiod},
-           given={Daniel\bibnamedelima B.},
-           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=3e8e15fc59585891b624eeb21dc63721}{%
-           family={Hussain},
-           familyi={H\bibinitperiod},
-           given={Mohammad\bibnamedelima Ashar},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=e648d644902cb5ed6afa131bb64837df}{%
-           family={Webber},
-           familyi={W\bibinitperiod},
-           given={Marissa},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{1bd6047a7b4e5b92889768fb0c0a462f}
-      \strng{fullhashraw}{1bd6047a7b4e5b92889768fb0c0a462f}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{1bd6047a7b4e5b92889768fb0c0a462f}
-      \strng{authornamehash}{1bd6047a7b4e5b92889768fb0c0a462f}
-      \strng{authorfullhash}{1bd6047a7b4e5b92889768fb0c0a462f}
-      \strng{authorfullhashraw}{1bd6047a7b4e5b92889768fb0c0a462f}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Flood risk assessments underpin flood management and resilience efforts worldwide, including land-use planning, infrastructure design, and insurance requirements. Many of these assessments rely on design storms, which assume a linear relationship between the frequency of storms, flooding, and damage and neglect the spatial and temporal structure of rainfall. Here, we show that these assumptions can lead to systematic underestimates of flood hazard and risk. Using a coastal watershed in North Carolina, we compare design storm-based estimates with those from stochastic storm transposition, a probabilistic framework used to generate synthetic events with realistic rainfall fields. Though both methods produce similar basin-averaged rainfall statistics, design storms underestimate flood inundation frequency by 31 to 35\% and expected 50-year damage by 42\% relative to SST. These results reveal how nonlinear storm-flood-damage relationships amplify risk from smaller, more frequent storms and illustrate that accounting for spatiotemporal rainfall variability is crucial to risk assessment.}
-      \field{day}{23}
-      \field{eprinttype}{Research Square}
-      \field{issn}{2693-5015}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{pubstate}{prepublished}
-      \field{shorttitle}{Design Storm}
-      \field{sortyear}{2222}
-      \field{title}{Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk}
-      \field{urlday}{29}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.21203/rs.3.rs-8593870/v1
-      \endverb
-      \verb{file}
-      \verb /Users/jd82/Zotero/storage/9EJ2R7MM/Baer et al. - 2026 - Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.researchsquare.com/article/rs-8593870/v1
-      \endverb
-      \verb{url}
-      \verb https://www.researchsquare.com/article/rs-8593870/v1
-      \endverb
-    \endentry
     \entry{hancock_robust21stcenturyhydrologicaltrendsinthemississippiriverbasinfromcmip6:2025}{online}{}{}
       \name{author}{7}{}{%
         {{hash=468ff61aba8351bf7b5fedc60b313294}{%
@@ -164,7 +74,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -266,7 +176,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -296,13 +206,105 @@
       \verb 5575271
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/GWES5PJF/Pollack et al. - 2025 - Unrefined national building inventories can mislead risk assessments and decisions.pdf
+      \verb /Users/jd82/Zotero/storage/53TD9GSV/extracted-docling.md;/Users/jd82/Zotero/storage/5GGXX6C7/extracted-docling.md;/Users/jd82/Zotero/storage/GWES5PJF/Pollack et al. - 2025 - Unrefined national building inventories can mislead risk assessments and decisions.pdf
       \endverb
       \verb{urlraw}
       \verb https://papers.ssrn.com/abstract=5575271
       \endverb
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5575271
+      \endverb
+    \endentry
+    \entry{baer_designstorm:2026}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=2f69a9dde8ed6b302548c30b360a6146}{%
+           family={Baer},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=33318887caccff5960bf07eb2dd998a1}{%
+           family={Sebastian},
+           familyi={S\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a247ee4fff46826055405e1afe9e2ad0}{%
+           family={Grimley},
+           familyi={G\bibinitperiod},
+           given={Lauren\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=29680a64a94c51056496b5dfb5a123c1}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Daniel\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3e8e15fc59585891b624eeb21dc63721}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Mohammad\bibnamedelima Ashar},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=27b04db09e8dc3f912157289c8681590}{%
+           family={Webber},
+           familyi={W\bibinitperiod},
+           given={Marissa\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{87cacbefa5aab34acedbf41912ed2d8a}
+      \strng{fullhashraw}{87cacbefa5aab34acedbf41912ed2d8a}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{87cacbefa5aab34acedbf41912ed2d8a}
+      \strng{authornamehash}{87cacbefa5aab34acedbf41912ed2d8a}
+      \strng{authorfullhash}{87cacbefa5aab34acedbf41912ed2d8a}
+      \strng{authorfullhashraw}{87cacbefa5aab34acedbf41912ed2d8a}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Flood risk assessments underpin flood management and resilience efforts worldwide, including land-use planning, infrastructure design, and insurance requirements. Many of these assessments rely on design storms, which assume a one-to-one relationship between the frequency of storms, flooding, and damage and neglect the spatial and temporal structure of rainfall. Here, we show that these assumptions can lead to systematic misrepresentation of flood hazard and risk. Using a coastal watershed in North Carolina, we compare design storm-based estimates with those from stochastic storm transposition, a probabilistic framework used to generate synthetic events with realistic rainfall fields. Though both methods produce similar basin-averaged rainfall statistics, we find design storms underestimate flood inundation frequency by 31–35\% and expected annual damage by 93\% relative to SST. These results reveal how complex storm-flood-damage relationships amplify risk from smaller, more frequent storms and illustrate that accounting for spatiotemporal rainfall variability is crucial to risk assessment.}
+      \field{day}{27}
+      \field{issn}{2948-2100}
+      \field{journaltitle}{npj Natural Hazards}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{npj Nat. Hazards}
+      \field{shorttitle}{Design Storm}
+      \field{title}{Neglecting Spatiotemporal Rainfall Variability Misrepresents Flood Hazard and Risk}
+      \field{urlday}{29}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1038/s44304-026-00208-5
+      \endverb
+      \verb{file}
+      \verb /Users/jd82/Zotero/storage/QKUZICQ4/Baer et al. - 2026 - Neglecting spatiotemporal rainfall variability misrepresents flood hazard and risk.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s44304-026-00208-5
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s44304-026-00208-5
       \endverb
     \endentry
     \entry{murphy_interannual:2026}{article}{}{}
@@ -387,7 +389,7 @@
       \verb 10.1029/2025JD044340
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/EWMYIKVI/Murphy et al. - 2026 - The changing relationship between the Bermuda high, great plains low-level jet, and mississippi rive.pdf;/Users/jd82/Zotero/storage/XTQ2QEW3/2025JD044340.html
+      \verb /Users/jd82/Zotero/storage/EWMYIKVI/Murphy et al. - 2026 - The changing relationship between the Bermuda high, great plains low-level jet, and mississippi rive.pdf;/Users/jd82/Zotero/storage/H7KVE2QP/extracted-docling.md;/Users/jd82/Zotero/storage/TVWUTBW4/extracted-docling.md;/Users/jd82/Zotero/storage/XTQ2QEW3/2025JD044340.html
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044340
@@ -644,7 +646,7 @@
       \verb 10.1073/pnas.2422157123
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/JUMRBR77/Pollack et al. - 2026 - Unlocking the benefits of transparent and reusable science for climate risk management.pdf
+      \verb /Users/jd82/Zotero/storage/I2VV8F52/extracted-pymupdf.md;/Users/jd82/Zotero/storage/JUMRBR77/Pollack et al. - 2026 - Unlocking the benefits of transparent and reusable science for climate risk management.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.pnas.org/doi/10.1073/pnas.2422157123
@@ -957,7 +959,7 @@
       \verb 10.1088/2752-5295/adf56e
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/VLUHZNJA/Lu et al. - 2025 - Bayesian spatiotemporal nonstationary model quantifies robust increases in daily extreme rainfall ac.pdf
+      \verb /Users/jd82/Zotero/storage/EJIQ36CH/extracted-docling.md;/Users/jd82/Zotero/storage/VLUHZNJA/Lu et al. - 2025 - Bayesian spatiotemporal nonstationary model quantifies robust increases in daily extreme rainfall ac.pdf;/Users/jd82/Zotero/storage/W58PRA8K/extracted-pymupdf.md
       \endverb
       \verb{urlraw}
       \verb https://dx.doi.org/10.1088/2752-5295/adf56e
@@ -1121,7 +1123,7 @@
       \verb 10.21105/joss.07527
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/KPA52VVI/Pollack et al. - 2025 - UNSAFE An UNcertain Structure And Fragility Ensemble framework for property-level flood risk estima.pdf
+      \verb /Users/jd82/Zotero/storage/2G3IICRB/extracted-docling.md;/Users/jd82/Zotero/storage/KPA52VVI/Pollack et al. - 2025 - UNSAFE An UNcertain Structure And Fragility Ensemble framework for property-level flood risk estima.pdf
       \endverb
       \verb{urlraw}
       \verb https://joss.theoj.org/papers/10.21105/joss.07527
@@ -1257,7 +1259,7 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/FBEYDT7K/Kazadi et al. - 2024 - Pluvial flood emulation with hydraulics-informed m.pdf
+      \verb /Users/jd82/Zotero/storage/FBEYDT7K/Kazadi et al. - 2024 - Pluvial flood emulation with hydraulics-informed m.pdf;/Users/jd82/Zotero/storage/ZGES53NF/extracted-pymupdf.md
       \endverb
       \verb{urlraw}
       \verb https://openreview.net/forum?id=kIHIA6Lr0B
@@ -1345,7 +1347,7 @@
       \verb 10.1029/2024PA004902
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/SS2V4K2Q/Murphy et al. - 2024 - Competing Influences of Land Use and Greenhouse Ga.pdf
+      \verb /Users/jd82/Zotero/storage/4B2AZKIE/extracted-docling.md;/Users/jd82/Zotero/storage/SS2V4K2Q/Murphy et al. - 2024 - Competing Influences of Land Use and Greenhouse Ga.pdf;/Users/jd82/Zotero/storage/SZBJMWQE/extracted-docling.md
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2024PA004902
@@ -1741,7 +1743,7 @@
       \verb 10.1007/s40518-023-00224-3
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/LLE6M4R3/Doss-Gollin et al. - 2023 - Improving the Representation of Climate Risks in L.pdf
+      \verb /Users/jd82/Zotero/storage/8JI7G6ES/extracted-pymupdf.md;/Users/jd82/Zotero/storage/LLE6M4R3/Doss-Gollin et al. - 2023 - Improving the Representation of Climate Risks in L.pdf
       \endverb
       \verb{urlraw}
       \verb https://link.springer.com/10.1007/s40518-023-00224-3
@@ -1806,7 +1808,7 @@
       \verb 10.1029/2022EF003044
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/8YRHIY8T/Doss-Gollin and Keller - 2022 - A subjective Bayesian framework for synthesizing d.pdf
+      \verb /Users/jd82/Zotero/storage/8YRHIY8T/Doss-Gollin and Keller - 2022 - A subjective Bayesian framework for synthesizing d.pdf;/Users/jd82/Zotero/storage/R3EJ4E5Q/extracted-pymupdf.md
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2022EF003044
@@ -2084,7 +2086,7 @@
       \verb 10.1029/2022WR033758
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/5Y7ICXAN/Zhou et al. - 2023 - Mesoscale modeling of distributed water systems en.pdf
+      \verb /Users/jd82/Zotero/storage/5UBC8NMA/extracted-pymupdf.md;/Users/jd82/Zotero/storage/5Y7ICXAN/Zhou et al. - 2023 - Mesoscale modeling of distributed water systems en.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033758
@@ -2541,7 +2543,7 @@
       \verb 10.1029/2018ef001074
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/UBJJEKPX/Rözer et al-Probabilistic models significantly reduce uncertainty in Hurricane Harvey.pdf
+      \verb /Users/jd82/Zotero/storage/6AKT68ES/extracted-docling.md;/Users/jd82/Zotero/storage/UBJJEKPX/Rözer et al-Probabilistic models significantly reduce uncertainty in Hurricane Harvey.pdf
       \endverb
       \verb{urlraw}
       \verb http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018EF001074
@@ -2618,7 +2620,7 @@
       \verb 10.1175/JCLI-D-17-0805.1
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/9T3NTVYA/Doss-Gollin et al-Heavy rainfall in Paraguay during the 2015-2016 austral summer.pdf
+      \verb /Users/jd82/Zotero/storage/9T3NTVYA/Doss-Gollin et al-Heavy rainfall in Paraguay during the 2015-2016 austral summer.pdf;/Users/jd82/Zotero/storage/ZUMP9FPP/extracted-docling.md
       \endverb
       \verb{urlraw}
       \verb https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1
