@@ -19,75 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{hancock_robust21stcenturyhydrologicaltrendsinthemississippiriverbasinfromcmip6:2025}{online}{}{}
-      \name{author}{7}{}{%
-        {{hash=468ff61aba8351bf7b5fedc60b313294}{%
-           family={Hancock},
-           familyi={H\bibinitperiod},
-           given={Christopher\bibnamedelima L},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=821946c310f99747afa33b050744bb28}{%
-           family={Dee},
-           familyi={D\bibinitperiod},
-           given={Sylvia\bibnamedelima G.},
-           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=611def4ae0caf18dbdbcdc8680dc58ed}{%
-           family={Haider},
-           familyi={H\bibinitperiod},
-           given={Muhammad\bibnamedelima Rezaul},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
-           family={Doss-Gollin},
-           familyi={D\bibinithyphendelim G\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2e155aeca8fe6b2667943ac7bdd13e1f}{%
-           family={Lehner},
-           familyi={L\bibinitperiod},
-           given={Flavio},
-           giveni={F\bibinitperiod}}}%
-        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
-           family={Murphy},
-           familyi={M\bibinitperiod},
-           given={Kelsey},
-           giveni={K\bibinitperiod}}}%
-        {{hash=5bb6fe1944358f44125007acadd978f7}{%
-           family={Munoz},
-           familyi={M\bibinitperiod},
-           given={Samuel\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{f405db7c2f2a29bf41a301e161711054}
-      \strng{fullhashraw}{f405db7c2f2a29bf41a301e161711054}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{f405db7c2f2a29bf41a301e161711054}
-      \strng{authornamehash}{f405db7c2f2a29bf41a301e161711054}
-      \strng{authorfullhash}{f405db7c2f2a29bf41a301e161711054}
-      \strng{authorfullhashraw}{f405db7c2f2a29bf41a301e161711054}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{langid}{english}
-      \field{pubstate}{prepublished}
-      \field{shorttitle}{Robust 21st Century Hydrological Trends in the Mississippi River Basin from {{CMIP6}}}
-      \field{sortyear}{2222}
-      \field{title}{Robust 21st Century Hydrological Trends in the Mississippi River Basin from {{CMIP6}}: West-Gets-Drier, East-Gets-Wetter}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \true{nocite}
-    \endentry
     \entry{pollack_unrefined:2025}{online}{}{}
       \name{author}{13}{}{%
         {{hash=220898e235d936971bd0ff08da56214f}{%
@@ -176,7 +107,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -273,7 +204,7 @@
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{shortauthor}
@@ -284,7 +215,7 @@
       \field{journaltitle}{npj Natural Hazards}
       \field{langid}{english}
       \field{month}{6}
-      \field{shortjournal}{npj Nat. Hazards}
+      \field{shortjournal}{Npj Nat. Hazards}
       \field{shorttitle}{Design Storm}
       \field{title}{Neglecting Spatiotemporal Rainfall Variability Misrepresents Flood Hazard and Risk}
       \field{urlday}{29}
@@ -298,13 +229,100 @@
       \verb 10.1038/s44304-026-00208-5
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/QKUZICQ4/Baer et al. - 2026 - Neglecting spatiotemporal rainfall variability misrepresents flood hazard and risk.pdf
+      \verb /Users/jd82/Zotero/storage/QKUZICQ4/Baer et al. - 2026 - Neglecting spatiotemporal rainfall variability misrepresents flood hazard and risk.pdf;/Users/jd82/Zotero/storage/SMXNWRRF/extracted-docling.md
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/s44304-026-00208-5
       \endverb
       \verb{url}
       \verb https://www.nature.com/articles/s44304-026-00208-5
+      \endverb
+    \endentry
+    \entry{hancock_mississippitrends:2026}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=468ff61aba8351bf7b5fedc60b313294}{%
+           family={Hancock},
+           familyi={H\bibinitperiod},
+           given={Christopher\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=821946c310f99747afa33b050744bb28}{%
+           family={Dee},
+           familyi={D\bibinitperiod},
+           given={Sylvia\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=611def4ae0caf18dbdbcdc8680dc58ed}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={Muhammad\bibnamedelima Rezaul},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f63b3b166b686ff7ae06191844bf607b}{%
+           family={Doss-Gollin},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2e155aeca8fe6b2667943ac7bdd13e1f}{%
+           family={Lehner},
+           familyi={L\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b0adb0cd0f17102a57c5cb36ddccf359}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod}}}%
+        {{hash=25db66bda1a8b6724cbaf876bce52adc}{%
+           family={Muñoz},
+           familyi={M\bibinitperiod},
+           given={Samuel\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Meteorological Society}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{f5d560cd85e111859b1cd6284d38dc29}
+      \strng{fullhashraw}{f5d560cd85e111859b1cd6284d38dc29}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{f5d560cd85e111859b1cd6284d38dc29}
+      \strng{authornamehash}{f5d560cd85e111859b1cd6284d38dc29}
+      \strng{authorfullhash}{f5d560cd85e111859b1cd6284d38dc29}
+      \strng{authorfullhashraw}{f5d560cd85e111859b1cd6284d38dc29}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhashraw}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract The Mississippi River system drains 41\% of the contiguous United States and is heavily engineered to mitigate hydrological extremes and facilitate commerce. However, future changes to water availability in the region are uncertain and may threaten the existing management systems. In this study, 19 models from Coupled Model Intercomparison Project phase 6 (CMIP6) are validated against historical observations and examined to understand monthly hydroclimate changes using the shared socioeconomic pathway 3-7.0 (SSP3-7.0) pathway. Models agree that precipitation will increase throughout the Mississippi River basin, but soil moisture will decrease in all seasons due to increasing evaporative demand. Precipitation minus evapotranspiration ( P − ET), runoff, and discharge simulated by river transport models are poorly constrained with differing trends between regions and models. Generally, models agree that runoff increases are more robust for the eastern subbasins, where precipitation anomalies are higher, and drying trends are more likely for the Missouri River subbasin. Models projecting increased runoff within the Mississippi River basin show stronger ENSO-related Pacific warming, enhanced North Atlantic subtropical high development, and increased moisture transport into the Ohio subbasin. In contrast, drying models exhibit weaker Pacific warming and circulation changes, with precipitation and runoff declines concentrated in the western tributaries. These results highlight the role of large-scale atmospheric and oceanic drivers in shaping divergent hydroclimate projections for the Mississippi River basin. Significance Statement Projections of future hydroclimate in the Mississippi River basin, the largest in North America, remain uncertain despite its critical role for agriculture and commerce. Using an ensemble of 19 models, this study provides the first comprehensive CMIP6 assessment of twenty-first-century hydrological trends across the basin. Our results reveal that precipitation will increase throughout the basin, particularly during winter and spring, and in the Ohio River subbasin. Total runoff projections are less certain, but climate models agree that discharge will increase in the Ohio and decrease in the Missouri subbasins. Water management strategies must consider this longitudinal pattern, as infrastructure built for twentieth-century conditions may face increasing risk from both high-flow and low-flow extremes in different portions of the basin.}
+      \field{day}{1}
+      \field{journaltitle}{Journal of Climate}
+      \field{month}{5}
+      \field{number}{9}
+      \field{shortjournal}{J. Clim.}
+      \field{shorttitle}{Mississippi Trends}
+      \field{title}{Twenty-{{First-Century Hydrological Trends}} in the {{Mississippi River Basin Intensify}} the {{East}}–{{West Moisture Gradient}}}
+      \field{volume}{39}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{2263\bibrangedash 2280}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1175/jcli-d-25-0340.1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1175/jcli-d-25-0340.1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1175/jcli-d-25-0340.1
       \endverb
     \endentry
     \entry{murphy_interannual:2026}{article}{}{}
@@ -372,7 +390,7 @@
       \field{journaltitle}{Journal of Geophysical Research: Atmospheres}
       \field{langid}{english}
       \field{number}{9}
-      \field{shortjournal}{J. Geophys. Res.: Atmos.}
+      \field{shortjournal}{J. Geophys. Res. Atmos.}
       \field{shorttitle}{Interannual}
       \field{title}{The Changing Relationship between the {{Bermuda}} High, Great Plains Low-Level Jet, and Mississippi River Basin Hydroclimate from the Last Millennium to 2100}
       \field{urlday}{2}
@@ -711,7 +729,7 @@
       \field{journaltitle}{Global and Planetary Change}
       \field{langid}{english}
       \field{month}{6}
-      \field{shortjournal}{Global Planet. Change}
+      \field{shortjournal}{Glob. Planet. Change}
       \field{shorttitle}{Mrb}
       \field{title}{Impact of 21st Century Climate Change on Mississippi River Basin Discharge in {{CESM2}} Large Ensemble Projections}
       \field{urlday}{1}
@@ -942,7 +960,7 @@
       \field{langid}{english}
       \field{month}{8}
       \field{number}{3}
-      \field{shortjournal}{Environ. Res.: Clim.}
+      \field{shortjournal}{Environ. Res. Clim.}
       \field{shorttitle}{Spatiotemporal}
       \field{title}{Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the Western Gulf Coast}
       \field{urlday}{23}
@@ -1106,7 +1124,7 @@
       \field{langid}{english}
       \field{month}{11}
       \field{number}{115}
-      \field{shortjournal}{J. Open Source Software}
+      \field{shortjournal}{J. Open Source Softw.}
       \field{shorttitle}{Unsafe}
       \field{title}{{{UNSAFE}}: An {{UNcertain}} Structure and Fragility Ensemble Framework for Property-Level Flood Risk Estimation}
       \field{urlday}{13}
@@ -1330,7 +1348,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{7}
-      \field{shortjournal}{Paleoceanogr. Paleoclimatol.}
+      \field{shortjournal}{Paleoceanogr. Paleoclimatology}
       \field{shorttitle}{Mrb}
       \field{title}{Competing Influences of Land Use and Greenhouse Gas Emissions on Mississippi River Basin Hydroclimate Simulated over the Last Millennium}
       \field{urlday}{25}
@@ -1584,7 +1602,6 @@
       \field{langid}{english}
       \field{month}{3}
       \field{number}{3}
-      \field{shortjournal}{Hydrology}
       \field{shorttitle}{Compound}
       \field{title}{Compound Climate Risk: Diagnosing Clustered Regional Flooding at Inter-Annual and Longer Time Scales}
       \field{urlday}{16}
@@ -1601,7 +1618,7 @@
       \verb 10.3390/hydrology10030067
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/6GTMJQCE/Amonkar et al. - 2023 - Compound climate risk diagnosing clustered region.pdf
+      \verb /Users/jd82/Zotero/storage/6GTMJQCE/Amonkar et al. - 2023 - Compound climate risk diagnosing clustered region.pdf;/Users/jd82/Zotero/storage/ZRT8K3NW/extracted-docling.md
       \endverb
       \verb{urlraw}
       \verb https://www.mdpi.com/2306-5338/10/3/67
@@ -1726,7 +1743,7 @@
       \field{langid}{english}
       \field{month}{8}
       \field{number}{4}
-      \field{shortjournal}{Curr. Sustainable/Renewable Energy Rep.}
+      \field{shortjournal}{Curr. Sustain. Energy Rep.}
       \field{shorttitle}{Improving the Representation of Climate Risks in Long-Term Electricity Systems Planning}
       \field{title}{Improving the Representation of Climate Risks in Long-Term Electricity Systems Planning: A Critical Review}
       \field{urlday}{30}
@@ -1793,7 +1810,7 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{shortjournal}{Earth's Future}
+      \field{shortjournal}{Earths Future}
       \field{shorttitle}{Subjective}
       \field{title}{A Subjective Bayesian Framework for Synthesizing Deep Uncertainties in Climate Risk Management}
       \field{urlday}{31}
@@ -1984,7 +2001,6 @@
       \field{journaltitle}{WIREs Water}
       \field{langid}{english}
       \field{month}{7}
-      \field{shortjournal}{WIREs Water}
       \field{shorttitle}{{{MAD}} Water}
       \field{title}{{{MAD}} Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era}
       \field{urlday}{12}
@@ -2356,7 +2372,7 @@
       \field{langid}{english}
       \field{month}{4}
       \field{number}{4}
-      \field{shortjournal}{J. Water Resour. Plann. Manage.}
+      \field{shortjournal}{J. Water Resour. Plan. Manag.}
       \field{shorttitle}{Fatalism}
       \field{title}{Adaptation over Fatalism: Leveraging High-Impact Climate Disasters to Boost Societal Resilience}
       \field{urlday}{29}
@@ -2432,7 +2448,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{7}
-      \field{shortjournal}{Earth's Future}
+      \field{shortjournal}{Earths Future}
       \field{shorttitle}{Robust Adaptation}
       \field{title}{Robust Adaptation to Multiscale Climate Variability}
       \field{urlday}{9}
@@ -2528,7 +2544,7 @@
       \field{journaltitle}{Earth's Future}
       \field{langid}{english}
       \field{number}{4}
-      \field{shortjournal}{Earth's Future}
+      \field{shortjournal}{Earths Future}
       \field{shorttitle}{Loss Estimates}
       \field{title}{Probabilistic Models Significantly Reduce Uncertainty in Hurricane Harvey Pluvial Flood Loss Estimates}
       \field{urlday}{28}
@@ -2692,7 +2708,7 @@
       \verb 10.1002/2017WR021318
       \endverb
       \verb{file}
-      \verb /Users/jd82/Zotero/storage/TRHJHVBE/Farnham et al. - 2018 - Regional extreme precipitation events robust infe.pdf
+      \verb /Users/jd82/Zotero/storage/CX8KC2HK/extracted-docling.md;/Users/jd82/Zotero/storage/TRHJHVBE/Farnham et al. - 2018 - Regional extreme precipitation events robust infe.pdf
       \endverb
       \verb{urlraw}
       \verb https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017WR021318
@@ -2701,7 +2717,7 @@
       \verb https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017WR021318
       \endverb
     \endentry
-    \entry{doss-gollin_rwh:2015}{article}{}{}
+    \entry{doss-gollin_rwh:2016}{article}{}{}
       \name{author}{3}{}{%
         {{hash=f63b3b166b686ff7ae06191844bf607b}{%
            family={Doss-Gollin},
@@ -2748,13 +2764,13 @@
       \field{abstract}{During the past two decades, government efforts to provide water access to rural communities in Brazil’s semiarid Northeast region have focused on building systems to capture and store rainwater, most importantly through the One Million Cisterns Program (P1MC). This article presents an analytic model based on daily precipitation data to evaluate the sustainability of rainwater capture. Application of this model to analysis of the P1MC reveals the heterogeneous climate in this region causes large spatial variability in the effectiveness of this program. In addition, the size of the area of capture, the run-off coefficient of the roofs, and the amount of first-flush diversion also have important effects. This analysis demonstrates while rainwater capture can offer sufficient water for drinking, as a stand-alone solution it cannot meet P1MC objectives of guaranteeing sustainable and universal access to water for drinking, cooking, and basic hygiene in all regions and years.}
       \field{journaltitle}{Journal of the American Water Resources Association}
       \field{langid}{english}
-      \field{month}{12}
+      \field{month}{2}
       \field{number}{1}
       \field{shortjournal}{J. Am. Water Resour. Assoc.}
       \field{shorttitle}{Rwh}
       \field{title}{Analytic Modeling of Rainwater Harvesting in the Brazilian Semiarid Northeast}
       \field{volume}{52}
-      \field{year}{2015}
+      \field{year}{2016}
       \field{dateera}{ce}
       \true{nocite}
       \field{pages}{129\bibrangedash 137}
