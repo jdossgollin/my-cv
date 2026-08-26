@@ -29,8 +29,6 @@ publications:
     file: my-papers.bib
 
 sections:
-  - title: Research Interests
-    file: interests.yml
   - title: Appointments
     file: appointments.yml
   - title: Education

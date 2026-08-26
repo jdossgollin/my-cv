@@ -21,7 +21,6 @@ REQUIRED_FIELDS = {
     "convene.yml": ["role", "session", "event", "location", "date"],
     "media.yml": ["title", "publication", "date"],
     "review.yml": ["name", "type"],
-    "interests.yml": ["name"],
     "languages.yml": ["language", "proficiency"],
     "training.yml": ["title", "org", "start"],
     "teams_advised.yml": ["project_title", "program", "year", "period", "status"],

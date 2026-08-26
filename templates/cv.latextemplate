@@ -246,7 +246,6 @@
 % Include CV sections
 % NOTE: Section order is defined here, not in _config.yml. The `sections:`
 % list in _config.yml maps titles to YAML files but does not control order.
-((* include 'cv/interests.tex' *))
 ((* include 'cv/appointments.tex' *))
 ((* include 'cv/education.tex' *))
 ((* include 'cv/awards.tex' *))
