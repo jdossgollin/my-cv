@@ -22,9 +22,20 @@
 
 \subsection{PAST GRADUATE STUDENTS}
 
+\begin{alignedentrieshang}
+((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "primary") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))
+\hangingitem{(((advisee.firstname))) (((advisee.lastname))): \textbf{(((advisee.degree)))} in (((advisee.field))), (((advisee.university))).((* if advisee.thesis_title *)) Thesis: \enquote{((( advisee.thesis_title )))}.((* endif *)) \textbf{Primary Advisor}.}{(((advisee.degree_year)))}
+((* endfor *))
+\end{alignedentrieshang}
+
 \begin{alignedentrieshang}[2em]
-  \hangingitem{\textbf{Primary Advisor:} ((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "primary") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))(((advisee.firstname))) (((advisee.lastname))), (((advisee.degree))) (((advisee.degree_year)))((* if not loop.last *)); ((* endif *))((* endfor *)).}{}
-  \hangingitem{\textbf{Committee Member:} ((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "committee") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))(((advisee.firstname))) (((advisee.lastname))), (((advisee.degree))) (((advisee.degree_year)))((* if not loop.last *)); ((* endif *))((* endfor *)).}{}
+  \hangingitem{\textbf{Committee Member, Rice University:} ((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "committee") | selectattr("university", "equalto", "Rice University") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))(((advisee.firstname))) (((advisee.lastname))), (((advisee.degree))) (((advisee.degree_year)))((* if not loop.last *)); ((* endif *))((* endfor *)).}{}
+\end{alignedentrieshang}
+
+\begin{alignedentrieshang}
+((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "committee") | rejectattr("university", "equalto", "Rice University") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))
+\hangingitem{(((advisee.firstname))) (((advisee.lastname))): \textbf{(((advisee.degree)))} in (((advisee.field))), (((advisee.university))). \textbf{External Committee Member}.}{(((advisee.degree_year)))}
+((* endfor *))
 \end{alignedentrieshang}
 
 \subsection{UNDERGRADUATE RESEARCHERS}
