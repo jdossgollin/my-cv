@@ -5,7 +5,7 @@ name: submodule-update-pr
 
 on:
   repository_dispatch:
-    types: [submodule-update]
+    types: [submodule-update, push-bib]
   schedule:
     - cron: '0 6 * * 1' # Weekly on Monday at 6am UTC
   workflow_dispatch:
