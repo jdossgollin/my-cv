@@ -50,9 +50,9 @@
 \titleformat{\subsection}{\normalsize\bfseries\color{RiceBlue}}{}{0pt}{}
 \titleformat{\subsubsection}{\normalsize\itshape}{}{0pt}{}
 
-\titlespacing*{\section}{0pt}{1em}{0.5em}
-\titlespacing*{\subsection}{0pt}{1em}{0pt}
-\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+\titlespacing*{\section}{0pt}{1.25em}{0.5em}
+\titlespacing*{\subsection}{0pt}{1.25em}{0.35em}
+\titlespacing*{\subsubsection}{0pt}{0.5em}{0.25em}
 
 \raggedbottom
 
@@ -83,6 +83,13 @@
 }
 \newcommand{\entryitem}[2]{#1 & #2}
 \newcommand{\entrybreak}{\\}
+
+% Group label within a subsection (e.g. advising roles)
+\newcommand{\grouplabel}[1]{%
+  \par\addvspace{0.6em}%
+  \noindent\textbf{#1}%
+  \par\addvspace{0.2em}%
+}
 
 % better lists
 \usepackage{enumitem}

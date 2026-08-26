@@ -50,9 +50,9 @@
 \titleformat{\subsection}{\normalsize\bfseries\color{RiceBlue}}{}{0pt}{}
 \titleformat{\subsubsection}{\normalsize\itshape}{}{0pt}{}
 
-\titlespacing*{\section}{0pt}{1em}{0.5em}
-\titlespacing*{\subsection}{0pt}{1em}{0pt}
-\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+\titlespacing*{\section}{0pt}{1.25em}{0.5em}
+\titlespacing*{\subsection}{0pt}{1.25em}{0.35em}
+\titlespacing*{\subsubsection}{0pt}{0.5em}{0.25em}
 
 \raggedbottom
 
@@ -83,6 +83,13 @@
 }
 \newcommand{\entryitem}[2]{#1 & #2}
 \newcommand{\entrybreak}{\\}
+
+% Group label within a subsection (e.g. advising roles)
+\newcommand{\grouplabel}[1]{%
+  \par\addvspace{0.6em}%
+  \noindent\textbf{#1}%
+  \par\addvspace{0.2em}%
+}
 
 % better lists
 \usepackage{enumitem}
@@ -728,7 +735,7 @@
 
 \subsection{PAST GRADUATE STUDENTS}
 
-\noindent\textbf{Primary Advisor}
+\grouplabel{Primary Advisor}
 
 \begin{alignedentrieshang}
 
@@ -738,7 +745,7 @@
 
 \end{alignedentrieshang}
 
-\noindent\textbf{Committee Member}
+\grouplabel{Committee Member}
 
 \begin{alignedentrieshang}
 
@@ -896,6 +903,12 @@
 \subsection{MEDIA HIGHLIGHTS}
 
 \begin{alignedentrieshang}
+
+\hangingitem{\enquote{Houston después de Harvey: ¿Estamos preparados para otro huracán? | Bajo la Amenaza del Golfo \#1}. \textbf{Telemundo Houston} [\textit{recorded video interview}].}{2026}
+
+\hangingitem{\enquote{Nine years after Harvey: Is Houston safer from flooding?}. \textbf{KPRC 2 Houston} --- Taylor Bruck [\textit{recorded video interview}].}{2026}
+
+\hangingitem{\enquote{Exclusive: FEMA floodmaps underestimate flood risk by over 200K, new study shows}. \textbf{Houston Chronicle} --- Katherine Oung and Yilun Cheng [\textit{print}].}{2026}
 
 \hangingitem{\enquote{FEMA elabora nuevos mapas de riesgo de inundación ¿Afectará esto tu propiedad?}. \textbf{Telemundo Houston} [\textit{recorded video interview}].}{2026}
 

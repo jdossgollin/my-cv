@@ -22,7 +22,7 @@
 
 \subsection{PAST GRADUATE STUDENTS}
 
-\noindent\textbf{Primary Advisor}
+\grouplabel{Primary Advisor}
 
 \begin{alignedentrieshang}
 ((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "primary") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))
@@ -30,7 +30,7 @@
 ((* endfor *))
 \end{alignedentrieshang}
 
-\noindent\textbf{Committee Member}
+\grouplabel{Committee Member}
 
 \begin{alignedentrieshang}
 ((* for advisee in data.advising | selectattr("degree_year") | rejectattr("degree", "equalto", "B.S.") | selectattr("role", "equalto", "committee") | sort(attribute="lastname") | sort(attribute="degree_year", reverse=True) *))
