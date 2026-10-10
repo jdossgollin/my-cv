@@ -20,17 +20,118 @@ BIB_FILE = os.path.join("my-papers", "my-papers.bib")
 # Template configurations
 TEMPLATES = {
     "full_cv": {
-        "template": "cv.latextemplate",
-        "output_tex": "Doss-Gollin-CV.tex",
+        "template": "cv.typtemplate",
+        "output_typ": "Doss-Gollin-CV.typ",
         "output_pdf": "Doss-Gollin-CV.pdf",
         "copy_to_docs": True,  # This goes to GitHub Pages
     },
 }
 
+# Publication list sections, by BibLaTeX entry type. Other types (thesis, report) are omitted.
+PUBLICATION_TYPES = {
+    "preprints": {"misc", "online"},
+    "articles": {"article"},
+    "conference": {"inproceedings"},
+}
+SELF_NAME = ("Doss-Gollin", "J")
+# Rice advisee co-authors, highlighted with a dagger
+ADVISEES = {("Lu", "Y"), ("Schmeltzer", "K")}
+
+
+def parse_bib(text):
+    """Split a .bib file into entries of {type, key, fields}, keeping field values raw."""
+    field_start = re.compile(r"\s*(\w+)\s*=\s*")
+    bare_value = re.compile(r"[^,}]*")
+    entries = []
+    for m in re.finditer(r"@(\w+)\s*\{([^,]+),", text):
+        pos, fields = m.end(), {}
+        while fm := field_start.match(text, pos):
+            pos = fm.end()
+            if text[pos] == "{":
+                start, level = pos + 1, 0
+                while True:
+                    level += {"{": 1, "}": -1}.get(text[pos], 0)
+                    pos += 1
+                    if level == 0:
+                        break
+                value = text[start : pos - 1]
+            else:
+                bm = bare_value.match(text, pos)
+                value, pos = bm.group().strip(), bm.end()
+            fields[fm.group(1).lower()] = value
+            pos = re.compile(r"\s*,?").match(text, pos).end()
+        entries.append({"type": m.group(1).lower(), "key": m.group(2).strip(), "fields": fields})
+    return entries
+
+
+def clean_latex(value):
+    """Turn a BibLaTeX field value into plain text (the .bib stores accents as Unicode)."""
+    for old, new in (("\\&", "&"), ("\\%", "%"), ("\\_", "_"), ("\\,", " "), ("~", " ")):
+        value = value.replace(old, new)
+    return re.sub(r"\s+", " ", value.replace("{", "").replace("}", "")).strip()
+
+
+def initials(given):
+    """'Francisco de Assis' -> 'F. d. A.'; 'Jean-Pierre' -> 'J.-P.'"""
+    return " ".join("-".join(part[0] + "." for part in word.split("-") if part) for word in given.split())
+
+
+def parse_name(raw):
+    """Return (family, given) from 'Family, Given' or the extended 'family=..., given=..., prefix=...' form."""
+    if "family=" in raw:
+        parts = dict(re.findall(r"(\w+)=([^,]*)", raw))
+        family = clean_latex(parts["family"])
+        if "prefix" in parts:
+            family = clean_latex(parts["prefix"]) + " " + family
+        return family, clean_latex(parts.get("given", ""))
+    family, _, given = raw.partition(",")
+    return clean_latex(family), clean_latex(given)
+
+
+def format_authors(field):
+    """List of {name, role} with role 'self', 'advisee', or '' for highlighting."""
+    authors = []
+    for raw in re.split(r"\s+and\s+", field):
+        family, given = parse_name(raw)
+        # Match on family name and first initial, as biblatex-publist does
+        key = (family, given[:1])
+        role = "self" if key == SELF_NAME else "advisee" if key in ADVISEES else ""
+        authors.append({"name": f"{family}, {initials(given)}" if given else family, "role": role})
+    return authors
+
+
+def load_publications(bib_file):
+    """Group .bib entries into numbered publication lists, newest first, numbered in reverse."""
+    with open(bib_file, "r") as f:
+        entries = parse_bib(f.read())
+    publications = {}
+    for section, types in PUBLICATION_TYPES.items():
+        papers = []
+        for e in entries:
+            if e["type"] not in types:
+                continue
+            f = e["fields"]
+            papers.append({
+                "type": e["type"],
+                "authors": format_authors(f.get("author", "")),
+                "title": clean_latex(f.get("title", "")),
+                "venue": clean_latex(f.get("journaltitle") or f.get("booktitle") or ""),
+                "doi": f.get("doi", ""),
+                "url": f.get("url", ""),
+                "year": (f.get("date") or f.get("year", ""))[:4],
+                "sortname": clean_latex(f.get("author", "")),
+            })
+        # BibLaTeX sorting=ydnt: year descending, then author, then title
+        papers.sort(key=lambda p: (-int(p["year"] or 0), p["sortname"], p["title"]))
+        for i, paper in enumerate(papers):
+            paper["number"] = len(papers) - i
+        publications[section] = papers
+    return publications
+
 
 class CV(object):
     """
-    Build CV in LaTeX and Markdown formats from YAML and BiBTeX inputs
+    Build CV in Typst format from YAML and BibTeX inputs
     """
 
     def __init__(self, config_file, filters=None, templates=None):
@@ -67,6 +168,7 @@ class CV(object):
             "person": config["person"],
             "paths": config["paths"],
             "publications": config["publications"],
+            "papers": load_publications(BIB_FILE),
             "sections": sections,
             **section_data,  # Add direct section access
         }
@@ -94,17 +196,17 @@ class CV(object):
         return jenv
 
     @property
-    def jenv_tex(
+    def jenv_typ(
         self,
     ):
         """
-        Set up TeX environment
+        Set up Typst environment
         """
         loader = jinja2.ChoiceLoader(
             [self.loader, jinja2.FileSystemLoader(TEMPLATE_DIR)]
         )
         jenv = jinja2.Environment(loader=loader)
-        # define new delimiters to avoid TeX conflicts
+        # define new delimiters to avoid conflicts with Typst braces and brackets
         jenv.block_start_string = "((*"
         jenv.block_end_string = "*))"
         jenv.variable_start_string = "((("
@@ -115,11 +217,11 @@ class CV(object):
             jenv.filters[f.__name__] = f
         return jenv
 
-    def render_tex(self, template, **kwargs):
-        return self.jenv_tex.get_template(template).render(data=self.data, **kwargs)
+    def render_typ(self, template, **kwargs):
+        return self.jenv_typ.get_template(template).render(data=self.data, **kwargs)
 
     def copy_pdfs_to_docs(self):
-        """Copy specified PDFs from temp to docs after LaTeX compilation"""
+        """Copy specified PDFs from temp to docs after Typst compilation"""
         import shutil
 
         for template_name, config in TEMPLATES.items():
@@ -135,7 +237,7 @@ def main():
     import shutil
 
     my_filters = [
-        filters.escape_tex,
+        filters.escape_typst,
         filters.select_by_attr_name,
         filters.sort_by_attr,
         filters.sort_first_year,
@@ -156,22 +258,18 @@ def main():
     for template_name, config in TEMPLATES.items():
         print(f"Generating {template_name}...")
 
-        # Generate TeX file in temp directory
-        temp_tex_path = os.path.join(TEMP_OUTPUT_DIR, config["output_tex"])
-        with open(temp_tex_path, "w") as f:
-            f.write(cv.render_tex(config["template"]))
+        # Generate Typst file in temp directory
+        temp_typ_path = os.path.join(TEMP_OUTPUT_DIR, config["output_typ"])
+        with open(temp_typ_path, "w") as f:
+            f.write(cv.render_typ(config["template"]))
 
         # Copy to docs if specified
         if config["copy_to_docs"]:
-            docs_tex_path = os.path.join(DOCS_DIR, config["output_tex"])
-            shutil.copy2(temp_tex_path, docs_tex_path)
-            print(f"  Copied {config['output_tex']} to docs/")
+            docs_typ_path = os.path.join(DOCS_DIR, config["output_typ"])
+            shutil.copy2(temp_typ_path, docs_typ_path)
+            print(f"  Copied {config['output_typ']} to docs/")
 
-        print(f"  Generated {temp_tex_path}")
-
-    # copy BiB file to temp directory
-    shutil.copy2(BIB_FILE, os.path.join(TEMP_OUTPUT_DIR, "my-papers.bib"))
-    print(f"  Copied my-papers.bib to {TEMP_OUTPUT_DIR}/")
+        print(f"  Generated {temp_typ_path}")
 
 
 if __name__ == "__main__":

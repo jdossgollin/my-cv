@@ -8,17 +8,20 @@ ROADMAP: <https://github.com/subidit/rover-resume/blob/main/templates/base%20rov
 
 ## Goals
 
-This system prioritizes reproducibility through version-controlled data and automated builds. Content is modular - you update YAML files rather than wrestling with LaTeX code. GitHub Actions handles the compilation and publishing automatically when data changes. The same data source generates multiple document types including full CV, biosketch, and grants documents.
+This system prioritizes reproducibility through version-controlled data and automated builds. Content is modular - you update YAML files rather than wrestling with Typst code. GitHub Actions handles the compilation and publishing automatically when data changes. The same data source generates the full CV and a grants spreadsheet.
 
 ## How It Works
 
-CV content lives in structured YAML files covering education, grants, publications, and other sections. Jinja2 templates render this data into LaTeX documents. When you push changes, GitHub Actions automatically compiles PDFs and publishes them to GitHub Pages. The system generates both public documents (full CV) and private specialized documents from the same data source.
+CV content lives in structured YAML files covering education, grants, publications, and other sections. Jinja2 templates render this data into Typst documents. When you push changes, GitHub Actions automatically compiles PDFs and publishes them to GitHub Pages. The system generates both public documents (full CV) and private specialized documents from the same data source.
 
 ## Quick Start
 
 ```bash
 # Generate CV (uv installs dependencies automatically)
 uv run python scripts/generate_cv.py
+
+# Compile the PDF (needs Typst installed)
+typst compile --font-path fonts temp_output/Doss-Gollin-CV.typ
 ```
 
 See [`scripts/README.md`](scripts/README.md) for all available scripts.

@@ -1,0 +1,96 @@
+// Official Rice colors
+#let rice-blue = rgb("#00205B") // use for text etc
+#let rice-gray = rgb("#7C7E7F") // use for Section
+
+#let mono(body) = text(font: "Inconsolata", body)
+#let fa-solid(glyph) = text(font: "Font Awesome 7 Free Solid", glyph)
+#let fa-brands(glyph) = text(font: "Font Awesome 7 Brands", glyph)
+#let icon-envelope = fa-solid("\u{f0e0}")
+#let icon-globe = fa-solid("\u{f0ac}")
+#let icon-github = fa-brands("\u{f09b}")
+#let icon-scholar = fa-brands("\u{e63b}")
+
+// Header and footer (skip first page)
+#let running(body) = context if here().page() > 1 { text(size: 8pt, fill: rice-gray, body) }
+#set page(
+  paper: "us-letter",
+  margin: 0.75in,
+  // Match fancyhdr: header rule 25pt above the text block, footer rule 20pt below it
+  header-ascent: 25pt,
+  footer-descent: 20pt,
+  header: running[
+    (((data.person.first_name))) (((data.person.last_name))) #h(1fr) updated #datetime.today().display("[month repr:long] [day padding:none], [year]")
+    #v(-0.2em)
+    #line(length: 100%, stroke: 0.5pt + rice-gray)
+  ],
+  footer: running[
+    #line(length: 100%, stroke: 0.5pt + rice-gray)
+    #align(center, context counter(page).display("1 / 1", both: true))
+  ],
+)
+
+#set text(font: "Lato", size: 10pt, lang: "en", region: "us")
+#set par(justify: true, leading: 0.5em, spacing: 0.5em)
+#show link: set text(fill: rice-blue)
+
+// Section styling
+#show heading.where(level: 1): it => block(above: 1.25em, below: 0.4em, sticky: true)[
+  #text(size: 12pt, weight: "bold", upper(it.body))
+  #v(-0.8em)
+  #line(length: 100%, stroke: 0.4pt)
+]
+#show heading.where(level: 2): it => block(above: 1.25em, below: 0.5em, sticky: true,
+  text(size: 10pt, weight: "bold", fill: rice-blue, upper(it.body)))
+
+// One row: main content on the left with a hanging indent, date right-aligned.
+// `indent` insets the whole row, for roles and degrees nested under an institution.
+// par(hanging-indent:) does not reach a grid cell's paragraph, so the hang is built from padding.
+#let entry(body, date, indent: 0pt, hang: 2em) = block(above: 0.5em, below: 0.5em, inset: (left: indent),
+  grid(
+    columns: (85%, 1fr),
+    align: (left, right),
+    pad(left: hang, h(-hang) + body), date,
+  ))
+
+// Group label within a subsection (e.g. advising roles)
+#let group-label(name) = block(above: 1.1em, below: 0.7em, sticky: true, strong(name))
+
+// Institution name above nested entries
+#let institution(name) = block(above: 0.5em, below: 0.5em, sticky: true, strong(name))
+
+// Highlighted author: bold for James; blue, bold, with a dagger for advisees
+#let advisee(name) = text(fill: rice-blue, weight: "bold", name + super(typographic: false)[†])
+
+//---------------------------------------------------------------------
+
+// Name and contact block
+#text(fill: rice-gray, grid(
+  columns: (1fr, auto),
+  row-gutter: 0.35em,
+  align: (left, right),
+  [(((data.person.university | escape_typst)))], [#mono(link("mailto:(((data.person.email)))")[(((data.person.email | escape_typst)))])#h(0.45em)#icon-envelope],
+  [(((data.person.department | escape_typst)))], [#mono(link("(((data.person.web)))")[(((data.person.web | escape_typst)))])#h(0.45em)#icon-globe],
+  [(((data.person.address.line1 | escape_typst)))], [#mono(link("https://github.com/(((data.person.github)))")[(((data.person.github | escape_typst)))])#h(0.45em)#icon-github],
+  [(((data.person.address.postcode | escape_typst)))], [#mono(link("https://scholar.google.com/citations?user=(((data.person.googlescholar)))")[(((data.person.first_name))) (((data.person.last_name)))])#h(0.45em)#icon-scholar],
+))
+
+#v(0.8em)
+
+// Name
+#text(size: 14.4pt, weight: "bold", fill: rice-blue)[(((data.person.first_name))) (((data.person.last_name)))]
+
+#v(0.6em)
+
+// Include CV sections
+// NOTE: Section order is defined here, not in _config.yml. The `sections:`
+// list in _config.yml maps titles to YAML files but does not control order.
+((* include 'cv/appointments.typ' *))
+((* include 'cv/education.typ' *))
+((* include 'cv/awards.typ' *))
+((* include 'cv/publications.typ' *))
+((* include 'cv/grants.typ' *))
+((* include 'cv/presentations.typ' *))
+((* include 'cv/teaching.typ' *))
+((* include 'cv/service.typ' *))
+((* include 'cv/languages.typ' *))
+((* include 'cv/experience.typ' *))

@@ -59,7 +59,7 @@ def test_cv_class_loads():
     from generate_cv import CV, CONFIG_FILE
 
     my_filters = [
-        filters.escape_tex,
+        filters.escape_typst,
         filters.select_by_attr_name,
         filters.sort_by_attr,
         filters.sort_first_year,
@@ -83,7 +83,7 @@ def test_template_rendering():
     from generate_cv import CV, CONFIG_FILE, TEMPLATES
 
     my_filters = [
-        filters.escape_tex,
+        filters.escape_typst,
         filters.select_by_attr_name,
         filters.sort_by_attr,
         filters.sort_first_year,
@@ -97,10 +97,25 @@ def test_template_rendering():
     # Try to render each template
     for template_name, config in TEMPLATES.items():
         try:
-            output = cv.render_tex(config["template"])
+            output = cv.render_typ(config["template"])
             assert len(output) > 0, f"Empty output for {template_name}"
-            # Basic sanity check - should contain LaTeX
-            assert "\\begin" in output or "\\documentclass" in output, \
-                f"{template_name} doesn't look like LaTeX"
+            # Basic sanity check - should contain Typst
+            assert "#set page" in output, \
+                f"{template_name} doesn't look like Typst"
         except Exception as e:
             pytest.fail(f"Failed to render {template_name}: {e}")
+
+
+def test_publications_and_escaping():
+    """Bib entries parse into reverse-numbered lists with highlighted authors."""
+    import filters
+    from generate_cv import parse_bib, format_authors, load_publications, BIB_FILE
+
+    entry = parse_bib("@article{k:2020,\n  author = {Doss-Gollin, J. and Lu, Yuchen and family=Silva, given=Cleiton, prefix=da, useprefix=true},\n  title = {The {{USA}} \\& Me},\n  year = 2020,\n}")[0]
+    assert entry["fields"]["year"] == "2020"
+    assert [(a["name"], a["role"]) for a in format_authors(entry["fields"]["author"])] == [
+        ("Doss-Gollin, J.", "self"), ("Lu, Y.", "advisee"), ("da Silva, C.", "")]
+
+    articles = load_publications(ROOT_DIR / BIB_FILE)["articles"]
+    assert [p["number"] for p in articles] == list(range(len(articles), 0, -1))
+    assert filters.escape_typst("a_b #1 // [x]") == "a\\_b \\#1 \\/\\/ \\[x\\]"

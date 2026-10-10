@@ -4,7 +4,7 @@ Run all scripts from the **project root** with `uv run python scripts/<name>.py`
 
 ## generate_cv.py
 
-Reads `_config.yml` and the YAML files in `my-cv-data/`, renders Jinja2 LaTeX templates from `templates/`, and writes output to `temp_output/` and `docs/`.
+Reads `_config.yml` and the YAML files in `my-cv-data/`, renders Jinja2 Typst templates from `templates/`, and writes output to `temp_output/` and `docs/`.
 
 ```bash
 uv run python scripts/generate_cv.py
