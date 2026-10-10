@@ -1,29 +1,19 @@
 """
-Filters for printing TeX and Markdown to jinja templates.
-See http://flask.pocoo.org/snippets/55/ for more info.
+Filters for printing Typst markup from jinja templates.
 """
 
 import re
 
-LATEX_SUBS = (
-    (re.compile(r'\\'), r'\\textbackslash'),
-    (re.compile(r'([#%&{}])'), r'\\\1'),
-    (re.compile(r'~'), r'\~{}'),
-    (re.compile(r'\^'), r'\^{}'),
-    (re.compile(r'^"'), r"``"),
-    (re.compile(r'"$'), r"''"),
-    (re.compile(r'\.\.\.+'), r'\\ldots')
-)
+# Characters with meaning in Typst markup. `/` is included so `//` cannot open a comment;
+# `-`, `+`, `=` only matter at the start of a line (list or heading markers).
+TYPST_SPECIAL = re.compile(r'([\\#$*_@<>\[\]`~/])|^([-+=])', re.MULTILINE)
 
 
-def escape_tex(value):
+def escape_typst(value):
     """
-    Escape TeX special characters
+    Escape Typst markup characters so data renders as literal text
     """
-    newval = value
-    for pattern, replacement in LATEX_SUBS:
-        newval = pattern.sub(replacement, newval, re.MULTILINE)
-    return newval
+    return TYPST_SPECIAL.sub(lambda m: "\\" + (m.group(1) or m.group(2)), str(value))
 
 
 def select_by_attr_name(array, attr, value):

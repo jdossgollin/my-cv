@@ -1,7 +1,7 @@
 [project]
 name = "my-cv"
 version = "0.1.0"
-description = "Academic CV generation from YAML data and LaTeX templates"
+description = "Academic CV generation from YAML data and Typst templates"
 requires-python = ">=3.12"
 dependencies = [
     "jinja2",
