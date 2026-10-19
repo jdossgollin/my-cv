@@ -109,13 +109,13 @@ def test_template_rendering():
 def test_publications_and_escaping():
     """Bib entries parse into reverse-numbered lists with highlighted authors."""
     import filters
-    from generate_cv import parse_bib, format_authors, load_publications, BIB_FILE
+    from generate_cv import parse_bib, format_authors, load_publications, BIB_FILES
 
     entry = parse_bib("@article{k:2020,\n  author = {Doss-Gollin, J. and Lu, Yuchen and family=Silva, given=Cleiton, prefix=da, useprefix=true},\n  title = {The {{USA}} \\& Me},\n  year = 2020,\n}")[0]
     assert entry["fields"]["year"] == "2020"
     assert [(a["name"], a["role"]) for a in format_authors(entry["fields"]["author"])] == [
         ("Doss-Gollin, J.", "self"), ("Lu, Y.", "advisee"), ("da Silva, C.", "")]
 
-    articles = load_publications(ROOT_DIR / BIB_FILE)["articles"]
+    articles = load_publications([ROOT_DIR / f for f in BIB_FILES])["articles"]
     assert [p["number"] for p in articles] == list(range(len(articles), 0, -1))
     assert filters.escape_typst("a_b #1 // [x]") == "a\\_b \\#1 \\/\\/ \\[x\\]"

@@ -15,7 +15,8 @@ CONFIG_FILE = "_config.yml"
 TEMPLATE_DIR = "templates"
 TEMP_OUTPUT_DIR = "temp_output"
 DOCS_DIR = "docs"
-BIB_FILE = os.path.join("my-papers", "my-papers.bib")
+# my-papers.bib is synced from Zotero; papers-in-progress.bib holds unpublished work
+BIB_FILES = [os.path.join("my-papers", "my-papers.bib"), "papers-in-progress.bib"]
 
 # Template configurations
 TEMPLATES = {
@@ -100,10 +101,12 @@ def format_authors(field):
     return authors
 
 
-def load_publications(bib_file):
+def load_publications(bib_files):
     """Group .bib entries into numbered publication lists, newest first, numbered in reverse."""
-    with open(bib_file, "r") as f:
-        entries = parse_bib(f.read())
+    entries = []
+    for bib_file in bib_files:
+        with open(bib_file, "r") as f:
+            entries += parse_bib(f.read())
     publications = {}
     for section, types in PUBLICATION_TYPES.items():
         papers = []
@@ -168,7 +171,7 @@ class CV(object):
             "person": config["person"],
             "paths": config["paths"],
             "publications": config["publications"],
-            "papers": load_publications(BIB_FILE),
+            "papers": load_publications(BIB_FILES),
             "sections": sections,
             **section_data,  # Add direct section access
         }

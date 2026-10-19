@@ -10,7 +10,7 @@
 == In Prep. / Under Review
 
 ((* for p in data.papers.preprints *))
-#entry[\[(((p.number)))\] (((authors(p)))): #emph[(((p.title | escape_typst)))].((* if p.venue *)) (((p.venue | escape_typst))).((* endif *))(((link_out(p))))][---]
+#entry[\[(((p.number)))\] (((authors(p)))): #emph[(((p.title | escape_typst)))]((* if p.title[-1:] not in "?!." *)).((* endif *))((* if p.venue *)) (((p.venue | escape_typst))).((* endif *))(((link_out(p))))][---]
 ((* endfor *))
 
 == Journal Articles

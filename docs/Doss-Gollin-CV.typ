@@ -167,6 +167,22 @@
 == In Prep. / Under Review
 
 
+#entry[\[9\] Calvo, A., Padgett, J., and #strong[Doss-Gollin, J.]: #emph[Time-Dependent Reliability Analysis of Coastal Structures Subjected to Multi-Hazard Tropical Cyclone Loads]. Under review at Journal of Waterway, Port, Coastal, and Ocean Engineering.][---]
+
+#entry[\[8\] Cooperman, A., Muñoz Fuerte, M., and #strong[Doss-Gollin, J.]: #emph[Before and after Piped Water Expansion: Water Security, Water Use Patterns, and Trust in Water Quality]. In revision at Water Resources Research.][---]
+
+#entry[\[7\] #strong[Doss-Gollin, J.] and Nayak, A.: #emph[Can Machine Learning Bridge the Gap between Flood-Hazard Models and Flood-Risk Decision Support?] In preparation.][---]
+
+#entry[\[6\] #advisee[Lu, Y.], Gori, A., and #strong[Doss-Gollin, J.]: #emph[Nonstationary Joint Distribution Model for TC Atmospheric Parameters in Probabilistic Coastal Hazard Analysis]. In preparation.][---]
+
+#entry[\[5\] #advisee[Lu, Y.], Lee, S., Nielsen-Gammon, J., and #strong[Doss-Gollin, J.]: #emph[STAMPEDE: A Duration-Dependent Hierarchical Bayesian Framework for Nonstationary IDF Curves with Improved Out-of-Sample Sub-Hourly Estimates]. In preparation.][---]
+
+#entry[\[4\] Murphy, K. and #strong[Doss-Gollin, J.]: #emph[Atmospheric Drivers of Mississippi River Basin Whiplash]. In preparation for Geophysical Research Letters.][---]
+
+#entry[\[3\] Singh, D., Turek-Hankins, L. L., Matthews, T., Parsons, L. A., Ebi, K. L., Mach, K. J., Ajibade, I., #strong[Doss-Gollin, J.], Fischer, E., Justine, J., Morakinyo, T. E., Mueller, N., Laverty, A., Horton, R. M., and Ting, M.: #emph[Enhancing Livability in a Hotter World]. In revision at Nature Reviews Earth & Environment.][---]
+
+#entry[\[2\] Waters, L., Grimley, L., Sebastian, A., Nateghi, R., Kumar, R., #strong[Doss-Gollin, J.], and Reilly, A. C.: #emph[Navigating the Nexus: How Greener Reconstruction Dampens Energy Growth and Emissions]. In preparation for Earth's Future.][---]
+
 #entry[\[1\] Pollack, A., Benedict, J., Deb, M., #strong[Doss-Gollin, J.], Judi, D., Lehman, W., Lutz, N., Reesman, C., Sarazen, E., Son, Y., Srikrishnan, V., Sun, N., and Keller, K.: #emph[Unrefined National Building Inventories Can Mislead Risk Assessments and Decisions]. DOI: #mono(link("https://doi.org/10.2139/ssrn.5575271")[10.2139\/ssrn.5575271])][---]
 
 
@@ -337,6 +353,10 @@
 
 
 
+#entry["STAMPEDE: A Duration-Dependent Hierarchical Bayesian Framework for Nonstationary IDF Curves with Improved Out-of-Sample Sub-Hourly Estimates". #strong[2026 ENVR Workshop], #emph[American Statistical Association Section on Statistics and the Environment], Houston, TX \[#emph[Poster]\].][2026]
+
+
+
 
 
 
@@ -458,6 +478,8 @@
 
 
 == Advisee Conference and Workshop Presentations
+
+
 
 
 
@@ -684,7 +706,7 @@
 
 == Professional Service
 
-#entry[#strong[Working Group Member], Digital Twins - Beyond Physical Systems. Digital Earths Lighthouse Activity.][2026--2030]
+#entry[#strong[Working Group Member], Digital Twins - Beyond Physical Systems. World Climate Research Programme (WCRP) Digital Earths Lighthouse Activity.][2026--2030]
 
 #entry[#strong[Committee Member], Water and Society Newsletter Committee. American Geophysical Union.][2024---]
 
