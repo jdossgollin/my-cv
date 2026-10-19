@@ -337,6 +337,10 @@
 
 
 
+#entry["STAMPEDE: A Duration-Dependent Hierarchical Bayesian Framework for Nonstationary IDF Curves with Improved Out-of-Sample Sub-Hourly Estimates". #strong[2026 ENVR Workshop], #emph[American Statistical Association Section on Statistics and the Environment], Houston, TX \[#emph[Poster]\].][2026]
+
+
+
 
 
 
@@ -458,6 +462,8 @@
 
 
 == Advisee Conference and Workshop Presentations
+
+
 
 
 
