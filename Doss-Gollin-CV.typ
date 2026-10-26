@@ -690,7 +690,7 @@
 
 == Professional Service
 
-#entry[#strong[Working Group Member], Digital Twins - Beyond Physical Systems. Digital Earths Lighthouse Activity.][2026--2030]
+#entry[#strong[Working Group Member], Digital Twins - Beyond Physical Systems. World Climate Research Programme (WCRP) Digital Earths Lighthouse Activity.][2026--2030]
 
 #entry[#strong[Committee Member], Water and Society Newsletter Committee. American Geophysical Union.][2024---]
 
