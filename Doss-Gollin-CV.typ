@@ -189,7 +189,7 @@
 
 #entry[\[21\] Liu, Y., #strong[Doss-Gollin, J.], Dai, Q., Veeraraghavan, A., and Balakrishnan, G.: "Downscaling Extreme Precipitation with Wasserstein Regularized Diffusion". #emph[IEEE Transactions on Geoscience and Remote Sensing]. DOI: #mono(link("https://doi.org/10.1109/TGRS.2025.3611872")[10.1109\/TGRS.2025.3611872])][2025]
 
-#entry[\[20\] #advisee[Lu, Y.], Seiyon Lee, B., and #strong[Doss-Gollin, J.]: "Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the Western Gulf Coast". #emph[Environmental Research: Climate]. DOI: #mono(link("https://doi.org/10.1088/2752-5295/adf56e")[10.1088\/2752-5295\/adf56e])][2025]
+#entry[\[20\] #advisee[Lu, Y.], Lee, B. S., and #strong[Doss-Gollin, J.]: "Bayesian Spatiotemporal Nonstationary Model Quantifies Robust Increases in Daily Extreme Rainfall across the Western Gulf Coast". #emph[Environmental Research: Climate]. DOI: #mono(link("https://doi.org/10.1088/2752-5295/adf56e")[10.1088\/2752-5295\/adf56e])][2025]
 
 #entry[\[19\] O'Donnell, M., Murphy, K., #strong[Doss-Gollin, J.], Dee, S., and Munoz, S.: "Evaluation of Hydroclimatic Biases in the Community Earth System Model (CESM1) within the Mississippi River Basin". #emph[Hydrology and Earth System Sciences]. DOI: #mono(link("https://doi.org/10.5194/hess-29-4637-2025")[10.5194\/hess-29-4637-2025])][2025]
 
@@ -690,7 +690,7 @@
 
 == Professional Service
 
-#entry[#strong[Working Group Member], Digital Twins - Beyond Physical Systems. World Climate Research Programme (WCRP) Digital Earths Lighthouse Activity.][2026--2030]
+#entry[#strong[Working Group Member], Digital Twins: Beyond Physical Systems. World Climate Research Programme (WCRP) Digital Earths Lighthouse Activity.][2026--2030]
 
 #entry[#strong[Committee Member], Water and Society Newsletter Committee. American Geophysical Union.][2024---]
 
@@ -698,8 +698,8 @@
 
 
 == Peer Review
-#entry[#strong[Journals:] AGU Advances; Climate Risk Management; Climatic Change; Communications Earth and Environment; Earth's Future; Energy Technology; Engineering Applications of Computational Fluid Mechanics; Environmental Data Science; Environmental Research Letters; Environmental Research: Climate; Geophysical Research Letters; Hydrology and Earth System Sciences; IEEE Transactions on Geoscience and Remote Sensing; Joule; Journal of Applied Meteorology and Climatology; Journal of Catastrophe Risk and Resilience; Journal of Hydrology; Journal of Water Resources Planning and Management; Machine Learning: Earth; Natural Hazards and Earth System Sciences; npj Natural Hazards; Oxford Development Studies; Water Resources Research; Water Security; Weather, Climate, and Society.][]
-#entry[#strong[Funding Agencies:] Department of Energy (BER); Dutch Research Council (NWO); National Science Foundation.][]
+#entry[#strong[Journals:] AGU Advances; Climate Risk Management; Climatic Change; Communications Earth and Environment; Earth's Future; Energy Technology; Engineering Applications of Computational Fluid Mechanics; Environmental Data Science; Environmental Research Letters; Environmental Research: Climate; Environmental Research: Water; Geophysical Research Letters; Hydrological Sciences Journal; Hydrology and Earth System Sciences; IEEE Transactions on Geoscience and Remote Sensing; Joule; Journal of Applied Meteorology and Climatology; Journal of Catastrophe Risk and Resilience; Journal of Hydrology; Journal of Water Resources Planning and Management; Machine Learning: Earth; Natural Hazards and Earth System Sciences; npj Natural Hazards; Oxford Development Studies; Science; Scientific Reports; Water Resources Research; Water Security; Weather, Climate, and Society.][]
+#entry[#strong[Funding Agencies:] Department of Energy (BER); Dutch Research Council (NWO); King Abdullah University of Science and Technology (KAUST); National Science Foundation.][]
 #entry[#strong[Other:] Electric Power Research Institute (EPRI); Texas Water Development Board (TWDB).][]
 
 == Sessions Convened
