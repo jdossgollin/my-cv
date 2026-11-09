@@ -301,11 +301,14 @@ def build_resume(cv, selection_file):
     def awards_for(institution, awards):
         lines = []
         for item in (awards or {}).get(institution, []):
+            # An item is a title, a list of titles for one line, or {title: ..., org: ...} to shorten the org
+            org = item.get("org") if isinstance(item, dict) else None
+            item = item["title"] if isinstance(item, dict) else item
             titles = item if isinstance(item, list) else [item]
             picked = [_pick(d["awards"], t, "title") for t in titles]
             lines.append({
                 "titles": titles,
-                "org": "" if institution in picked[0]["org"] else picked[0]["org"],
+                "org": org or ("" if institution in picked[0]["org"] else picked[0]["org"]),
                 "years": ", ".join(sorted(a["year"] for a in picked)),
             })
         return lines

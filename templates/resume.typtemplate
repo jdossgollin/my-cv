@@ -19,7 +19,7 @@
 #let running(body) = context if here().page() > 1 { text(size: 8pt, fill: rice-gray, body) }
 #set page(
   paper: "us-letter",
-  margin: 0.75in,
+  margin: (((resume.margin or "0.75in"))),
   // Match fancyhdr: header rule 25pt above the text block, footer rule 20pt below it
   header-ascent: 25pt,
   footer-descent: 20pt,
